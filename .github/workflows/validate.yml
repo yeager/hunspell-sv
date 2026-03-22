@@ -1,0 +1,111 @@
+name: Validate Swedish Dictionary
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  schedule:
+    # Weekly validation
+    - cron: '0 6 * * 1'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Install hunspell
+        run: sudo apt-get install -y hunspell
+      
+      - name: Basic dictionary stats
+        run: |
+          WORD_COUNT=$(head -1 sv_SE.dic)
+          echo "📖 Dictionary entries: $WORD_COUNT"
+          echo "📝 Affix rules: $(wc -l < sv_SE.aff)"
+          echo "word_count=$WORD_COUNT" >> $GITHUB_OUTPUT
+      
+      - name: Validate dictionary format
+        run: |
+          # Check first line is a number
+          head -1 sv_SE.dic | grep -qE '^[0-9]+$' || (echo "❌ First line must be word count" && exit 1)
+          
+          # Check declared count matches actual lines
+          DECLARED=$(head -1 sv_SE.dic)
+          ACTUAL=$(tail -n +2 sv_SE.dic | wc -l | tr -d ' ')
+          echo "Declared: $DECLARED, Actual: $ACTUAL"
+          
+          # Allow small difference (some blank lines)
+          DIFF=$((ACTUAL - DECLARED))
+          if [ $DIFF -lt -10 ] || [ $DIFF -gt 10 ]; then
+            echo "❌ Word count mismatch: declared=$DECLARED actual=$ACTUAL"
+            exit 1
+          fi
+          echo "✅ Dictionary format valid"
+      
+      - name: Test common Swedish words
+        run: |
+          FAILS=0
+          while IFS= read -r word; do
+            result=$(echo "$word" | hunspell -d ./sv_SE -l 2>/dev/null)
+            if [ -n "$result" ]; then
+              echo "❌ MISSING: $word"
+              FAILS=$((FAILS + 1))
+            fi
+          done << 'WORDS'
+          dator
+          översättning
+          stavningskontroll
+          programvara
+          inställningar
+          användargränssnitt
+          filhanterare
+          säkerhetskopia
+          operativsystem
+          webbläsare
+          WORDS
+          
+          if [ $FAILS -gt 0 ]; then
+            echo "❌ $FAILS common words missing!"
+            exit 1
+          fi
+          echo "✅ All common words found"
+      
+      - name: Test TM compound words
+        run: |
+          FAILS=0
+          while IFS= read -r word; do
+            result=$(echo "$word" | hunspell -d ./sv_SE -l 2>/dev/null)
+            if [ -n "$result" ]; then
+              echo "⚠️  Not found: $word"
+              FAILS=$((FAILS + 1))
+            fi
+          done << 'WORDS'
+          lösenfras
+          meddelandekö
+          symlänk
+          filbläddrare
+          åsidosättning
+          fjärrvärd
+          trädvy
+          skogshuggartält
+          datakällobjekt
+          vertexfärg
+          WORDS
+          
+          echo "TM compound words: $((10 - FAILS))/10 found"
+          if [ $FAILS -gt 3 ]; then
+            echo "❌ Too many TM words missing"
+            exit 1
+          fi
+          echo "✅ TM words OK"
+
+      - name: Check for duplicates
+        run: |
+          DUPES=$(tail -n +2 sv_SE.dic | sort | uniq -d | wc -l | tr -d ' ')
+          echo "Duplicate entries: $DUPES"
+          if [ "$DUPES" -gt 100 ]; then
+            echo "❌ Too many duplicates ($DUPES)"
+            exit 1
+          fi
+          echo "✅ Duplicates within acceptable range"
