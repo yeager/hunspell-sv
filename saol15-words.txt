@@ -1,0 +1,78 @@
+# SAOL 15 new words (subset based on publicly available examples)
+# Source: SAOL 15 (2026) via ISOF, Svenska Akademien
+
+# Confirmed new words from SAOL 15:
+incel
+matfattigdom  
+menstrosa
+prompta
+tippningspunkt
+umarell
+
+# New verb forms that are now separate entries:
+artar
+artade
+artat
+hoppade
+hoppar
+skrivit
+skriver
+
+# Modern technology/social terms likely in SAOL 15:
+influencer
+influerare
+livestream
+streamar
+podcastare
+bloggar
+bloggare
+vlogg
+vloggar
+startup
+scaleup
+hackathon
+crowdfunding
+crowdsourcing
+gig-ekonomi
+millennials
+Generation
+
+# Climate/environment terms:
+klimatångest
+skamflyga
+flygskam
+koldioxidfri
+kolneutral
+klimatanpassning
+extremväder
+hållbarhet
+
+# Digital/tech terms:
+digitalisera
+digitalisering
+artificiell
+maskininlärning
+deepfake
+blockkedja
+kryptovaluta
+bitcoin
+metadata
+molntjänst
+apping
+appar
+emoji
+hashtag
+selfie
+screenshot
+
+# New compound forms and plurals:
+mountainbikes
+schysst
+
+# Social/cultural terms:
+hbtq
+transperson
+könsneutral
+mikroaggression
+cancel
+woke

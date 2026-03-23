@@ -6,10 +6,15 @@ Modern Swedish dictionary for Hunspell spell checking.
 
 | Metric | Value |
 |--------|-------|
-| **Dictionary entries** | 154,476 |
+| **Dictionary entries** | 166,794 |
 | **Base** | SFOL 2.42 (Den Stora Fria Ordlistan) |
-| **Added from TM** | 762 compound words & technical terms |
-| **TM source** | 776,274 translation memory entries |
+| **Added from TM** | 11,552 words (≥3 occurrences) |
+| **Added Datatermgruppen** | 50 IT/tech terms |
+| **Added SAOL 15** | 43 new words (2026) |
+| **Added proper nouns** | 105 software/brand/place names |
+| **Added custom terms** | 556 from review work |
+| **Added compound morphemes** | 47 for better compound support |
+| **TM source** | 784,147 translation memory entries |
 | **License** | LGPL-3.0 |
 
 ## Sources
@@ -26,15 +31,31 @@ Modern Swedish dictionary for Hunspell spell checking.
 The standard `sv_SE.dic` in most Linux distros and LibreOffice is from 2016-2017. This dictionary:
 
 1. **Starts from SFOL 2.42** (2020) — 1,500+ more words than the distro version
-2. **Adds 762 compound words** verified in professional translations (appearing ≥5 times in TM)
-3. **Focuses on software/technical Swedish** — terms translators actually use
+2. **Adds 12,000+ new words** from multiple sources:
+   - 11,552 from translation memory (≥3 occurrences)
+   - 50 IT terms from Datatermgruppen 
+   - 43 new words from SAOL 15 (2026)
+   - 105 proper nouns (software, brands, places)
+   - 556 custom review terms
+   - 47 compound morphemes
+3. **Improves compound support** — better handling of Swedish compound words
+4. **Focuses on modern Swedish** — includes contemporary terms from translations, social media, and official sources
 
 ### Example words added
 
 ```
-lösenfras, meddelandekö, symlänk, filbläddrare, åsidosättning,
+TM words: lösenfras, meddelandekö, symlänk, filbläddrare, åsidosättning,
 fjärrvärd, trädvy, skogshuggartält, datakällobjekt, rasterkarta,
 vertexfärg, färgramp, proxyinställningar, ångringshistorik
+
+Datatermgruppen: adressikon, bluffwebbplats, funktionalitet, 
+gränssnittskomponent, spionprogram, tjock klient, vinkelkompensering
+
+SAOL 15: incel, matfattigdom, menstrosa, prompta, tippningspunkt,
+influencer, klimatångest, digitalisering, kryptovaluta, hashtag
+
+Proper nouns: Ubuntu, LibreOffice, systemd, Docker, Kubernetes,
+Stockholm, Göteborg, Microsoft, Google, PostgreSQL
 ```
 
 ## Installation
