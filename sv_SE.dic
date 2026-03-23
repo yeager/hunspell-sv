@@ -1,4 +1,4 @@
-201111
+201114
 -/-06XY
 -/!b
 ---
@@ -188182,7 +188182,6 @@ parallelliseras
 parallellkostnad
 parallellpipedisk
 parallellvikning
-parameterar
 parameteravskiljare
 parameterdefinition
 parameterdeklaration
@@ -192189,7 +192188,6 @@ signerat
 signeringen
 signeringsfunktion
 signifikansnivån
-signing
 sigsjön
 siiselät
 sijäzän
@@ -201152,3 +201150,8 @@ zörbig
 šiberna
 α-järn
 γ-järn
+filsystemshanterare
+källkodshantering
+kommandoradsverktyg
+versionskontroll
+versionskontrollsystem
