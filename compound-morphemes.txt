@@ -1,0 +1,53 @@
+# Swedish compound morphemes
+# These can be first parts of compounds (X flag)
+applikations/X
+data/X  
+databas/X
+fil/X
+filsystem/X
+filsystems/X
+grafik/X
+hantering/X
+hanterare/X
+information/X
+informations/X
+konfigurations/X
+konfiguration/X
+lösenord/X
+lösenords/X
+meddelande/X
+meddelanden/X
+minnes/X
+nätverks/X
+program/X
+protokoll/X
+serv/X
+server/X
+servers/X
+system/X
+systems/X
+säkerhets/X
+användare/X
+användares/X
+användar/X
+
+# These can be last parts (Y flag)
+administratör/Y
+administratörer/Y
+applikation/Y
+applikationer/Y
+hanterare/Y
+hantering/Y
+konfiguration/Y
+konfigurationer/Y
+program/Y
+programmet/Y
+tjänst/Y
+tjänster/Y
+
+# Common compound parts that can be middle or end
+databas/UY
+fil/UXY
+filer/UY
+system/UXY
+användare/UY

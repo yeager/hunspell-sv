@@ -1,0 +1,54 @@
+# Swedish IT terms from Datatermgruppen (via Rikstermbanken)
+# Source: Svenska datatermgruppen: Ordlista + förkortningar (ej frågor och svar) | 2012
+
+# All terms found:
+OEM
+RFID-etikett
+adressikon
+anslutbarhet
+artificiellt neuronnät
+bluffwebbplats
+byte
+datalager
+diskussionsgrupp
+et-tecken
+fildelning
+filnamnsändelse
+flerfunktionsskrivare
+flertrådsteknik
+formatering
+funktionalitet
+griddteknik
+gränssnittskomponent
+hackare
+hemsida
+hårdvarunyckel
+igenkänningstecken
+informationsteknik
+ingångssida
+intranät
+kontantkort
+läge
+minibild
+mottagaranpassning
+omvänt
+operativsystem
+programspråk
+rulla
+skimning
+snabbmeny
+snabel-a
+snedstreck
+spionprogram
+spridprogram
+startsida
+systemomarbetning
+tjock
+understreck
+vinkelkompensering
+vinklingsbar
+web
+webbplats
+webbsida
+webbutik
+översikt
