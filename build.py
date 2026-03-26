@@ -57,14 +57,21 @@ def main():
     args = parser.parse_args()
     
     tm_db = Path(args.tm_db).expanduser()
-    if not tm_db.exists():
-        print(f"TM database not found: {tm_db}")
-        return
+    tm_words = {}
     
-    # Extract TM words
-    print("Extracting words from TM...")
-    tm_words = extract_tm_words(str(tm_db), args.min_count)
-    print(f"  Found {len(tm_words)} words with ≥{args.min_count} occurrences")
+    # Try to extract TM words (optional step)
+    try:
+        if not tm_db.exists():
+            print(f"Warning: TM database not found: {tm_db}")
+            print("Building dictionary from SFOL base only...")
+        else:
+            print("Extracting words from TM...")
+            tm_words = extract_tm_words(str(tm_db), args.min_count)
+            print(f"  Found {len(tm_words)} words with ≥{args.min_count} occurrences")
+    except Exception as e:
+        print(f"Warning: Failed to extract TM words: {e}")
+        print("Building dictionary from SFOL base only...")
+        tm_words = {}
     
     # Load current dictionary
     existing, lines = load_dic(args.output)
