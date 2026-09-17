@@ -65,6 +65,33 @@ class BuildTests(unittest.TestCase):
             with self.subTest(dictionary=name):
                 self.assertEqual(build.check_hunspell(good | bad, ROOT / name), bad)
 
+    @unittest.skipUnless(shutil.which('hunspell'), 'Hunspell is required')
+    def test_project_vocabulary_inflections_and_compounds(self):
+        good = set((ROOT / 'test-words.txt').read_text().split())
+        good.update({'katt', 'katten', 'katter', 'katterna', 'katternas',
+                     'springa', 'springer', 'sprang', 'sprungit', 'fallucka'})
+        bad = {'bilbil', 'datordator', 'falllucka', 'smörgåss', 'säkerhett', 'översätning'}
+        for name in ('sv_SE', 'sv_SE_expanded'):
+            with self.subTest(dictionary=name):
+                self.assertEqual(build.check_hunspell(good | bad, ROOT / name), bad)
+
+    def test_invalid_database_preserves_output(self):
+        with tempfile.TemporaryDirectory() as folder:
+            output, db = Path(folder) / 'out.dic', Path(folder) / 'invalid.db'
+            output.write_text('keep me')
+            db.write_text('not sqlite')
+            result = subprocess.run([sys.executable, str(ROOT / 'build.py'), '--output', str(output),
+                                     '--tm-db', str(db)], capture_output=True)
+            self.assertNotEqual(result.returncode, 0)
+            self.assertEqual(output.read_text(), 'keep me')
+            self.assertEqual(db.read_text(), 'not sqlite')
+
+    @unittest.skipUnless(shutil.which('hunspell'), 'Hunspell is required')
+    def test_real_missing_dictionary_fails(self):
+        with tempfile.TemporaryDirectory() as folder:
+            with self.assertRaises(subprocess.CalledProcessError):
+                build.check_hunspell({'ord'}, Path(folder) / 'missing')
+
     def test_dictionary_counts_and_exact_duplicates(self):
         for filename in ('sv_SE.dic', 'sv_SE_expanded.dic'):
             with self.subTest(filename=filename):
