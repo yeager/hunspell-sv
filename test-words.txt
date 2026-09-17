@@ -1,5 +1,5 @@
 applikationsserver
-datalager  
+datalager
 diskussionsgrupp
 filnamnsändelse
 funktionalitet
