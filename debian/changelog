@@ -1,0 +1,8 @@
+hunspell-sv (1:2026.09.17-1) unstable; urgency=medium
+
+  * Package upstream release v2026.09.17 for Debian and Ubuntu.
+  * Register Swedish language data using dictionaries-common helpers.
+  * Include the supplementary dictionary as example data.
+  * Validate dictionary structure, spelling and deterministic rebuilding.
+
+ -- Daniel Nylander <github@danielnylander.se>  Thu, 17 Sep 2026 12:00:00 +0000
