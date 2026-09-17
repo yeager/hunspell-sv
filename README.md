@@ -7,7 +7,7 @@ Modern Swedish dictionary for Hunspell spell checking.
 | Metric | Value |
 |--------|-------|
 | **Dictionary entries** | 279 120 |
-| **Expanded entries** | 166 794 |
+| **Expanded entries** | 166 831 |
 | **Base** | SFOL 2.42 (Den Stora Fria Ordlistan) |
 | **SALDO + Folkets Lexikon** | 18 052 words from Språkbanken |
 | **SALDOM paradigm-mapped** | 17 684 words with affix flags |
@@ -88,21 +88,42 @@ cp sv_SE.dic sv_SE.aff ~/Library/Spelling/
 Copy `sv_SE.dic` and `sv_SE.aff` to your LibreOffice dictionaries folder, or install via Extension Manager.
 
 ### Firefox / Thunderbird
-Package as `.xpi` extension (see `build.py`).
+Browser installation requires a separately packaged spellchecker extension.
+`build.py` does not generate `.xpi` files.
 
 ## Building from source
 
-```bash
-# Full build (SFOL + SALDO + TM)
-python3 build.py
+The script extends the checked-in main dictionary. It does not download or
+rebuild SFOL, SALDO, or the historical expanded dictionary from upstream sources.
 
-# Without TM (if you don't have the TM database)
-python3 build.py --no-tm
+```bash
+# Normalize/copy the checked-in dictionary without a TM database
+python3 build.py --no-tm --output /tmp/sv_SE.dic
+
+# Add candidates from a local SQLite TM database (translation_memory.target)
+python3 build.py --tm-db /path/to/translation-memory.db --min-count 5
+
+# Use a different input dictionary
+python3 build.py --base sv_SE.dic --no-tm --output /tmp/sv_SE.dic
+
+# Validate dictionary counts and build behavior
+python3 -m unittest discover -s tests -v
 ```
 
+The default input and output are `sv_SE.dic` next to the script, regardless of
+working directory. Missing or invalid TM databases stop the build; use `--no-tm`
+to explicitly skip TM. Counts are recalculated, exact duplicate rows removed,
+and existing spelling, case and affix flags preserved. Different flag sets for
+the same spelling remain separate entries.
+
+TM additions use the existing heuristic (at least five characters, including
+å, ä or ö, and the configured occurrence threshold). Review these candidates:
+frequency alone is not evidence that a spelling is correct. New entries receive
+`XY` compound flags; inflection flags are not inferred.
+
 ### Build requirements
-- Python 3.8+
-- `polib` (optional, for TM extraction)
+- Python 3.8+ (standard library only)
+- Hunspell for spelling checks
 
 ## Dictionary files
 
@@ -110,8 +131,8 @@ python3 build.py --no-tm
 |------|-------------|
 | `sv_SE.dic` | Main dictionary (279K entries with affix flags) |
 | `sv_SE.aff` | Affix rules file |
-| `sv_SE_expanded.dic` | Fully expanded word forms (167K unique forms) |
-| `sv_SE_expanded.aff` | Simplified affix rules for expanded dictionary |
+| `sv_SE_expanded.dic` | Historical supplementary dictionary (166,831 entries; still contains affix flags) |
+| `sv_SE_expanded.aff` | Affix and compound rules for the supplementary dictionary |
 
 ## Contributing
 
