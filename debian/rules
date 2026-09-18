@@ -1,0 +1,18 @@
+#!/usr/bin/make -f
+
+%:
+	dh $@
+
+override_dh_auto_build:
+	python3 build.py --no-tm --output debian/rebuilt.dic
+	cmp sv_SE.dic debian/rebuilt.dic
+
+override_dh_auto_test:
+	python3 -m unittest discover -s tests -v
+
+execute_after_dh_install:
+	installdeb-hunspell
+
+override_dh_auto_clean:
+	rm -f debian/rebuilt.dic
+	rm -rf __pycache__ tests/__pycache__

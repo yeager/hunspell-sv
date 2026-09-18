@@ -1,0 +1,8 @@
+#!/usr/bin/python3
+import subprocess
+words = ['GitHub', 'filsystemsmetadata', 'översättning', 'katterna',
+         'fallucka', 'stavvningskontroll', 'översätning', 'bilbil']
+result = subprocess.run(['hunspell', '-i', 'UTF-8', '-d', 'sv_SE', '-p', '/dev/null', '-l'],
+                        input='\n'.join(words)+'\n', text=True, capture_output=True, check=True)
+assert not result.stderr, result.stderr
+assert set(result.stdout.splitlines()) == {'stavvningskontroll', 'översätning', 'bilbil'}, result.stdout

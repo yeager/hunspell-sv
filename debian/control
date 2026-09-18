@@ -1,0 +1,26 @@
+Source: hunspell-sv
+Section: text
+Priority: optional
+Maintainer: Daniel Nylander <github@danielnylander.se>
+Build-Depends: debhelper-compat (= 13), dictionaries-common-dev (>= 1.23.0), hunspell <!nocheck>, python3
+Standards-Version: 4.7.4
+Rules-Requires-Root: no
+Homepage: https://github.com/yeager/hunspell-sv
+Vcs-Git: https://github.com/yeager/hunspell-sv.git
+Vcs-Browser: https://github.com/yeager/hunspell-sv
+
+Package: hunspell-sv
+Architecture: all
+Multi-Arch: foreign
+Depends: ${misc:Depends}, ${hunspell:Depends}
+Suggests: hunspell
+Provides: hunspell-dictionary, hunspell-dictionary-sv
+Breaks: hunspell-sv-se (<< 1:6.1.0~rc2-3)
+Replaces: hunspell-sv-se (<< 1:6.1.0~rc2-3)
+Description: Swedish dictionary for Hunspell
+ Swedish spelling dictionary with affix and compound rules, including
+ vocabulary for software, information technology and modern Swedish.
+ .
+ The main sv_SE dictionary is installed for Hunspell-compatible applications.
+ The historical supplementary dictionary is included as an example and
+ still requires its corresponding affix file.

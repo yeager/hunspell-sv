@@ -1,0 +1,27 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: hunspell-sv
+Upstream-Contact: Daniel Nylander <github@danielnylander.se>
+Source: https://github.com/yeager/hunspell-sv
+Comment: This package preserves the upstream project's declared LGPL-3 license.
+ The upstream README describes additional lexical sources (including SALDO,
+ Folkets Lexikon and translation memories) without a complete per-source
+ copyright and license inventory. This metadata is not a completed licensing
+ review for admission to a distribution archive.
+
+Files: *
+Copyright: 2003-2015, Göran Andersson <goran@init.se>
+License: LGPL-3
+Comment: Copyright notice from the upstream LICENSE file. See README.md for
+ the description of later contributions and lexical sources.
+
+Files: debian/*
+Copyright: 2026, Daniel Nylander <github@danielnylander.se>
+License: LGPL-3
+
+License: LGPL-3
+ This dictionary is distributed under the GNU Lesser General Public License,
+ version 3.
+ .
+ On Debian systems the complete GNU Lesser General Public License version 3
+ is in /usr/share/common-licenses/LGPL-3 and its incorporated GNU General
+ Public License version 3 is in /usr/share/common-licenses/GPL-3.
