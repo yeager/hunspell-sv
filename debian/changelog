@@ -1,3 +1,11 @@
+hunspell-sv (1:2026.09.21-1) unstable; urgency=medium
+
+  * Correct reviewed spelling errors and the inflection of enspann.
+  * Test 187 sourced Swedish word cases and consonant deletion.
+  * Include the rule catalogue and legacy conversion corrections.
+
+ -- Daniel Nylander <github@danielnylander.se>  Mon, 21 Sep 2026 12:00:00 +0000
+
 hunspell-sv (1:2026.09.17-1) unstable; urgency=medium
 
   * Package upstream release v2026.09.17 for Debian and Ubuntu.
