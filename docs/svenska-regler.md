@@ -6,6 +6,8 @@ Den maskinläsbara katalogen finns i `docs/swedish-rules.json`. Ord- och kontext
 
 ## Hur underlaget ska användas
 
+Språkrådet (Isof) är normkälla för reglerna. Följ [projektets språkpolicy](sprakpolicy.md). Katalogens `dictionary_scope` skiljer ordtester från råd som kräver sammanhang.
+
 Ordböckerna kan kontrollera ordformer och delar av ordbildningen. Grammatik kräver att ordens funktion i meningen är känd. Skrivregler behöver dessutom dokumenttyp, typografi och ibland skribentens avsikt. En utebliven stavningsmarkering bevisar därför inte att en mening eller ett datum är korrekt.
 
 Språkrådets rekommendationer avser i första hand offentlig svenska. Vardaglig stil, dialekt, citat, historisk text och exakt återgiven kod kan motivera andra former. Stilpreferenser ska inte föras över till en ordlista som allmänna förbud. Se [Isofs beskrivning av Frågelådan](https://www.isof.se/svenska-spraket/frageladan).
@@ -254,15 +256,15 @@ Källor: [Isof/Språkrådet 1](https://frageladan.isof.se/faqs/22053), [Isof/Spr
 
 ### R25. Datum och valet mellan siffror och bokstäver
 
-**Kontrollnivå: texttyp och typografi.** Som tumregel för vanlig löptext kan ett–nio skrivas med bokstäver. Siffror passar ofta bättre när taluppgiften är central, exempelvis vid mått, datum, klockslag, belopp och i tabeller. Månadens namn passar ofta i löptext; ett fullständigt numeriskt datum kan vara praktiskt i standardiserade uppgifter.
+**Kontrollnivå: texttyp och typografi.** Valet mellan siffror och bokstäver beror på texttyp och sammanhang. Låga tal skrivs ofta med bokstäver när antalet inte är centralt; Myndigheternas skrivregler nämner ofta tolv eller lägre. Siffror används när taluppgiften är central och framför förkortade måttenheter. Månadens namn passar ofta i löptext; fullständigt numeriskt datum passar i vissa standardiserade uppgifter.
 
-**Begränsning:** Gränsen nio är ett val i projektets stilprofil, inte en allmän svensk normgräns. Andra skrivråd använder exempelvis tolv. Läsbarhet, precision och konsekvens mellan jämförbara tal kan motivera siffror även under tio.
+**Begränsning:** Det finns ingen exakt allmän gräns vid nio, tio eller tolv. Precision, mängden taluppgifter och konsekvens mellan jämförbara antal kan motivera siffror även för låga tal. Även stora ungefärliga tal kan skrivas med bokstäver.
 
-**För ordboksarbetet:** Behandla ett–nio med bokstäver som ett valbart stilråd. Ingen automatisk ersättning eller stavfelsmarkering utan analys av sammanhanget. Kontrollera även att datum är entydiga.
+**För ordboksarbetet:** Ge endast råd med hänsyn till sammanhanget. Ingen automatisk ersättning mellan siffror och bokstäver eller generell stavfelsmarkering. Kontrollera även att datum är entydiga.
 
 Exempel i vanlig berättande text: ”Vi köpte sju böcker.” Vid mått används exempelvis ”7 kg”. Jämförbara antal kan hållas konsekventa: ”Grupperna hade 7, 14 och 21 deltagare.”
 
-Källor: [Isof/Språkrådet – lärarhandledning](https://www.isof.se/download/18.5409ff0518d54a4bbada3de/1706690111224/L%C3%A4rarhandledning-Snabba-skrivregler2.pdf), [Myndigheternas skrivregler, avsnitt 12.1](https://sprakochfolkminnen.diva-portal.org/smash/get/diva2:1136028/FULLTEXT02.pdf). Den valda ett–nio-profilen kommer från projektets skrivönskemål; källorna beskriver den allmänna avvägningen och andra riktgränser.
+Källor: [Isof/Språkrådet – lärarhandledning](https://www.isof.se/download/18.5409ff0518d54a4bbada3de/1706690111224/L%C3%A4rarhandledning-Snabba-skrivregler2.pdf), [Myndigheternas skrivregler, avsnitt 12.1](https://sprakochfolkminnen.diva-portal.org/smash/get/diva2:1136028/FULLTEXT02.pdf). Rådet bedöms utifrån sammanhanget; projektet inför ingen egen siffergräns.
 
 ### R26. Kolon och semikolon har olika uppgifter
 
@@ -356,13 +358,13 @@ Källor: [Isof/Språkrådet 1](https://frageladan.isof.se/faqs/20742).
 
 ### R35. Genus och böjningsklass är lexikala uppgifter
 
-**Kontrollnivå: böjning.** Ett substantivs genus och betydelse påverkar böjningen. Ordet spann förekommer exempelvis i olika betydelser med olika genus och böjningsmönster.
+**Kontrollnivå: böjning.** Språkrådet hänvisar till SAOL för enskilda ords böjning (Myndigheternas skrivregler, avsnitt 6.1). Ett substantivs genus och betydelse påverkar böjningen. Ordet spann förekommer exempelvis i olika betydelser med olika genus och böjningsmönster.
 
-**Begränsning:** Stammens sista bokstav räcker inte för att välja suffix. I den lokala ordboken ger enspann/C ett extra n: detta är vår diagnos av en flaggning, inte en ny allmän svensk språkregel.
+**Begränsning:** Stammens sista bokstav räcker inte för att välja suffix. Den tidigare flaggningen enspann/C gav ett extra n i den lokala ordboken: detta är vår diagnos av en flaggning, inte en ny allmän svensk språkregel.
 
 **För ordboksarbetet:** Granska hela böjningsparadigmet när en flagga tilldelas. Testa både rätt former och former som en felvald klass skulle generera.
 
-Källor: [Svenska Akademien 1](https://svenska.se/saol/?hv=xnr464207).
+Källor: [Språkrådet, Myndigheternas skrivregler, avsnitt 6.1](https://sprakochfolkminnen.diva-portal.org/smash/get/diva2:1136028/FULLTEXT02.pdf), [SAOL: spann](https://svenska.se/saol/?hv=xnr464207).
 
 ## Prioritering för fortsatt implementation
 

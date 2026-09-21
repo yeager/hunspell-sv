@@ -1,5 +1,13 @@
 # Changes
 
+## Unreleased
+
+- Make Språkrådet the primary authority for language and writing rules.
+- Replace the project-specific one-through-nine preference with contextual
+  advice from Språkrådet; add five unscored examples for numeric expressions.
+- Validate rule sources and prevent context-only rules from becoming word
+  corrections or spelling tests. Dictionary contents are unchanged.
+
 ## 2026.09.21
 
 - Correct reviewed explicit misspellings, including formattera, bollliknande

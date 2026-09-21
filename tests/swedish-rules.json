@@ -2598,6 +2598,66 @@
         "https://svenska.se/saol/?hv=xnr464207",
         "https://svenska.se/saol/?hv=xnr464207"
       ]
+    },
+    {
+      "id": "T230",
+      "rule": "R25",
+      "scope": "context",
+      "text": "Vi köpte sju böcker.",
+      "assessment": "lämpligt i berättande löptext",
+      "note": "Eget exempel: lågt tal med bokstäver när antalet inte är centralt.",
+      "sources": [
+        "https://www.isof.se/download/18.5409ff0518d54a4bbada3de/1706690111224/L%C3%A4rarhandledning-Snabba-skrivregler2.pdf",
+        "https://sprakochfolkminnen.diva-portal.org/smash/get/diva2:1136028/FULLTEXT02.pdf"
+      ]
+    },
+    {
+      "id": "T231",
+      "rule": "R25",
+      "scope": "context",
+      "text": "Vi väntade i tio dagar.",
+      "assessment": "bokstäver möjliga även vid tio",
+      "note": "Eget exempel: tio är ingen automatisk övergång till siffror.",
+      "sources": [
+        "https://www.isof.se/download/18.5409ff0518d54a4bbada3de/1706690111224/L%C3%A4rarhandledning-Snabba-skrivregler2.pdf",
+        "https://sprakochfolkminnen.diva-portal.org/smash/get/diva2:1136028/FULLTEXT02.pdf"
+      ]
+    },
+    {
+      "id": "T232",
+      "rule": "R25",
+      "scope": "context",
+      "text": "Lådan väger 7 kg.",
+      "assessment": "siffror före förkortad måttenhet",
+      "note": "Eget exempel: låg siffra är lämplig i en exakt måttuppgift.",
+      "sources": [
+        "https://www.isof.se/download/18.5409ff0518d54a4bbada3de/1706690111224/L%C3%A4rarhandledning-Snabba-skrivregler2.pdf",
+        "https://sprakochfolkminnen.diva-portal.org/smash/get/diva2:1136028/FULLTEXT02.pdf"
+      ]
+    },
+    {
+      "id": "T233",
+      "rule": "R25",
+      "scope": "context",
+      "text": "Grupperna hade 7, 14 och 21 deltagare.",
+      "assessment": "konsekvent skrivsätt för jämförbara antal",
+      "note": "Eget exempel: håll jämförbara antal enhetliga även när låga och höga tal blandas.",
+      "sources": [
+        "https://www.isof.se/download/18.5409ff0518d54a4bbada3de/1706690111224/L%C3%A4rarhandledning-Snabba-skrivregler2.pdf",
+        "https://sprakochfolkminnen.diva-portal.org/smash/get/diva2:1136028/FULLTEXT02.pdf"
+      ]
+    },
+    {
+      "id": "T234",
+      "rule": "R25",
+      "scope": "context",
+      "text": "Omkring tusen personer deltog.",
+      "assessment": "bokstäver möjliga för stort ungefärligt antal",
+      "note": "Eget exempel: stora tal kräver inte alltid siffror.",
+      "sources": [
+        "https://www.isof.se/download/18.5409ff0518d54a4bbada3de/1706690111224/L%C3%A4rarhandledning-Snabba-skrivregler2.pdf",
+        "https://sprakochfolkminnen.diva-portal.org/smash/get/diva2:1136028/FULLTEXT02.pdf"
+      ]
     }
   ]
 }

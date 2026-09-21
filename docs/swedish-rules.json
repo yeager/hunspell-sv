@@ -11,7 +11,8 @@
       "action": "Behåll positiva, negativa och bindestrecksförsedda testfall. Granska explicit lagrade fel som kan kringgå sammansättningsreglerna.",
       "sources": [
         "https://frageladan.isof.se/faqs/31080"
-      ]
+      ],
+      "dictionary_scope": "word"
     },
     {
       "id": "R02",
@@ -22,7 +23,8 @@
       "action": "Testa böjningsfamiljer och båda leden i betydelseskiljande ordpar.",
       "sources": [
         "https://frageladan.isof.se/faqs/23280"
-      ]
+      ],
+      "dictionary_scope": "word"
     },
     {
       "id": "R03",
@@ -33,7 +35,8 @@
       "action": "Testa både böjningsregeln och sammansättningar som inte ska normaliseras med en global teckenersättning.",
       "sources": [
         "https://frageladan.isof.se/faqs/27957"
-      ]
+      ],
+      "dictionary_scope": "word"
     },
     {
       "id": "R04",
@@ -44,7 +47,8 @@
       "action": "Kontrollera hela avledningsfamiljer; kopiera inte suffixflaggor mellan ord utan att kontrollera stammen.",
       "sources": [
         "https://frageladan.isof.se/faqs/25353"
-      ]
+      ],
+      "dictionary_scope": "word"
     },
     {
       "id": "R05",
@@ -56,7 +60,8 @@
       "sources": [
         "https://frageladan.isof.se/faqs/24207",
         "https://frageladan.isof.se/faqs/22554"
-      ]
+      ],
+      "dictionary_scope": "word"
     },
     {
       "id": "R06",
@@ -69,7 +74,8 @@
         "https://frageladan.isof.se/faqs/30843",
         "https://frageladan.isof.se/faqs/20670",
         "https://frageladan.isof.se/faqs/26172"
-      ]
+      ],
+      "dictionary_scope": "word"
     },
     {
       "id": "R07",
@@ -80,7 +86,8 @@
       "action": "Testa kontrasterande ordbyggnad; prioritera morfologisk struktur framför teckenmönster.",
       "sources": [
         "https://frageladan.isof.se/faqs/24435"
-      ]
+      ],
+      "dictionary_scope": "word"
     },
     {
       "id": "R08",
@@ -91,7 +98,8 @@
       "action": "Gruppera förleder efter faktiskt bruk; testa både etablerade former och tillåtna varianter.",
       "sources": [
         "https://frageladan.isof.se/faqs/31251"
-      ]
+      ],
+      "dictionary_scope": "word"
     },
     {
       "id": "R09",
@@ -102,7 +110,8 @@
       "action": "Testa hela strängar via ord-API och visa separat vad kommandoradens textfilter gör.",
       "sources": [
         "https://frageladan.isof.se/faqs/30528"
-      ]
+      ],
+      "dictionary_scope": "word"
     },
     {
       "id": "R10",
@@ -114,7 +123,8 @@
       "sources": [
         "https://frageladan.isof.se/faqs/29064",
         "https://frageladan.isof.se/faqs/31227"
-      ]
+      ],
+      "dictionary_scope": "word"
     },
     {
       "id": "R11",
@@ -126,7 +136,8 @@
       "sources": [
         "https://frageladan.isof.se/faqs/20976",
         "https://frageladan.isof.se/faqs/30687"
-      ]
+      ],
+      "dictionary_scope": "word"
     },
     {
       "id": "R12",
@@ -138,7 +149,8 @@
       "sources": [
         "https://frageladan.isof.se/faqs/23874",
         "https://frageladan.isof.se/faqs/21420"
-      ]
+      ],
+      "dictionary_scope": "word"
     },
     {
       "id": "R13",
@@ -149,7 +161,8 @@
       "action": "Registrera vanliga former och låt en separat stilprofil styra rekommendationerna.",
       "sources": [
         "https://frageladan.isof.se/faqs/21420"
-      ]
+      ],
+      "dictionary_scope": "word"
     },
     {
       "id": "R14",
@@ -160,7 +173,8 @@
       "action": "Behåll tillåtna hopskrivna ord och testa uttryck som fraser i ett separat lager.",
       "sources": [
         "https://frageladan.isof.se/faqs/23289"
-      ]
+      ],
+      "dictionary_scope": "word"
     },
     {
       "id": "R15",
@@ -171,7 +185,8 @@
       "action": "Tillåt båda och ge eventuella stilråd på frasnivå.",
       "sources": [
         "https://frageladan.isof.se/faqs/27942"
-      ]
+      ],
+      "dictionary_scope": "word"
     },
     {
       "id": "R16",
@@ -182,7 +197,8 @@
       "action": "Testa kontraster med angiven betydelse i ett framtida grammatiklager; lägg inte alla separata ordpar i en förbudslista.",
       "sources": [
         "https://frageladan.isof.se/faqs/21159"
-      ]
+      ],
+      "dictionary_scope": "word"
     },
     {
       "id": "R17",
@@ -193,7 +209,8 @@
       "action": "Testa rekommenderade böjningar och behåll morfologiskt giltig genitiv.",
       "sources": [
         "https://frageladan.isof.se/faqs/21255"
-      ]
+      ],
+      "dictionary_scope": "word"
     },
     {
       "id": "R18",
@@ -204,7 +221,8 @@
       "action": "Testa hela talord, tillåtna fraser och sammansättningar var för sig.",
       "sources": [
         "https://frageladan.isof.se/faqs/27138"
-      ]
+      ],
+      "dictionary_scope": "word"
     },
     {
       "id": "R19",
@@ -216,7 +234,8 @@
       "sources": [
         "https://frageladan.isof.se/faqs/29769",
         "https://frageladan.isof.se/faqs/29850"
-      ]
+      ],
+      "dictionary_scope": "context"
     },
     {
       "id": "R20",
@@ -227,7 +246,8 @@
       "action": "Gör rådet valbart i en stilprofil, inte till ett generellt stavningsförbud.",
       "sources": [
         "https://frageladan.isof.se/faqs/29223"
-      ]
+      ],
+      "dictionary_scope": "context"
     },
     {
       "id": "R21",
@@ -238,7 +258,8 @@
       "action": "Kontrollera tal i rätt dokumenttyp; ett numeriskt uttryck som ignoreras av stavningsmotorn är inte validerat.",
       "sources": [
         "https://frageladan.isof.se/faqs/21402"
-      ]
+      ],
+      "dictionary_scope": "context"
     },
     {
       "id": "R22",
@@ -249,7 +270,8 @@
       "action": "Använd dokumentanalys med taltyper och Unicodekontroll.",
       "sources": [
         "https://frageladan.isof.se/faqs/30318"
-      ]
+      ],
+      "dictionary_scope": "context"
     },
     {
       "id": "R23",
@@ -260,7 +282,8 @@
       "action": "Separera texttyp, mellanrumsregel och ordbildning.",
       "sources": [
         "https://frageladan.isof.se/faqs/21726"
-      ]
+      ],
+      "dictionary_scope": "context"
     },
     {
       "id": "R24",
@@ -273,19 +296,21 @@
         "https://frageladan.isof.se/faqs/22053",
         "https://frageladan.isof.se/faqs/26553",
         "https://frageladan.isof.se/faqs/29229"
-      ]
+      ],
+      "dictionary_scope": "context"
     },
     {
       "id": "R25",
       "title": "Datum och valet mellan siffror och bokstäver",
       "layer": "texttyp och typografi",
-      "explanation": "Som tumregel för vanlig löptext kan ett–nio skrivas med bokstäver. Siffror passar ofta bättre när taluppgiften är central, exempelvis vid mått, datum, klockslag, belopp och i tabeller. Månadens namn passar ofta i löptext; ett fullständigt numeriskt datum kan vara praktiskt i standardiserade uppgifter.",
-      "caution": "Gränsen nio är ett val i projektets stilprofil, inte en allmän svensk normgräns. Andra skrivråd använder exempelvis tolv. Läsbarhet, precision och konsekvens mellan jämförbara tal kan motivera siffror även under tio.",
-      "action": "Behandla ett–nio med bokstäver som ett valbart stilråd. Ingen automatisk ersättning eller stavfelsmarkering utan analys av sammanhanget. Kontrollera även att datum är entydiga.",
+      "explanation": "Valet mellan siffror och bokstäver beror på texttyp och sammanhang. Låga tal skrivs ofta med bokstäver när antalet inte är centralt; Myndigheternas skrivregler nämner ofta tolv eller lägre. Siffror används när taluppgiften är central och framför förkortade måttenheter. Månadens namn passar ofta i löptext; fullständigt numeriskt datum passar i vissa standardiserade uppgifter.",
+      "caution": "Det finns ingen exakt allmän gräns vid nio, tio eller tolv. Precision, mängden taluppgifter och konsekvens mellan jämförbara antal kan motivera siffror även för låga tal. Även stora ungefärliga tal kan skrivas med bokstäver.",
+      "action": "Ge endast råd med hänsyn till sammanhanget. Ingen automatisk ersättning mellan siffror och bokstäver eller generell stavfelsmarkering. Kontrollera även att datum är entydiga.",
       "sources": [
         "https://www.isof.se/download/18.5409ff0518d54a4bbada3de/1706690111224/L%C3%A4rarhandledning-Snabba-skrivregler2.pdf",
         "https://sprakochfolkminnen.diva-portal.org/smash/get/diva2:1136028/FULLTEXT02.pdf"
-      ]
+      ],
+      "dictionary_scope": "context"
     },
     {
       "id": "R26",
@@ -296,7 +321,8 @@
       "action": "Kräver analys av satser och uppräkningsstruktur.",
       "sources": [
         "https://frageladan.isof.se/faqs/21288"
-      ]
+      ],
+      "dictionary_scope": "context"
     },
     {
       "id": "R27",
@@ -307,7 +333,8 @@
       "action": "Skilj motiverade råd från hårda grammatikfel i gränssnitt och testfacit.",
       "sources": [
         "https://frageladan.isof.se/faqs/26862"
-      ]
+      ],
+      "dictionary_scope": "context"
     },
     {
       "id": "R28",
@@ -319,7 +346,8 @@
       "sources": [
         "https://frageladan.isof.se/faqs/30765",
         "https://frageladan.isof.se/faqs/31080"
-      ]
+      ],
+      "dictionary_scope": "context"
     },
     {
       "id": "R29",
@@ -331,7 +359,8 @@
       "sources": [
         "https://www.isof.se/svenska-spraket/klarsprak/bulletinen-klarsprak/artiklar-klarsprak/2022-05-23-sprakfragan-hur-gor-vi-med--dom--",
         "https://frageladan.isof.se/faqs/30873"
-      ]
+      ],
+      "dictionary_scope": "word"
     },
     {
       "id": "R30",
@@ -344,7 +373,8 @@
         "https://frageladan.isof.se/faqs/30957",
         "https://frageladan.isof.se/faqs/23373",
         "https://frageladan.isof.se/faqs/27570"
-      ]
+      ],
+      "dictionary_scope": "context"
     },
     {
       "id": "R31",
@@ -355,7 +385,8 @@
       "action": "Testa attributiv och predikativ användning separat och bevara accepterad variation.",
       "sources": [
         "https://frageladan.isof.se/faqs/20997"
-      ]
+      ],
+      "dictionary_scope": "context"
     },
     {
       "id": "R32",
@@ -366,7 +397,8 @@
       "action": "Bygg stilmedvetna, satsbaserade kontroller och undvik ordpositionsregler utan parsning.",
       "sources": [
         "https://frageladan.isof.se/faqs/21486"
-      ]
+      ],
+      "dictionary_scope": "context"
     },
     {
       "id": "R33",
@@ -377,7 +409,8 @@
       "action": "Testa fasta uttryck och betydelsebärande kontext i ett språkgranskningslager.",
       "sources": [
         "https://frageladan.isof.se/faqs/27078"
-      ]
+      ],
+      "dictionary_scope": "word"
     },
     {
       "id": "R34",
@@ -388,18 +421,22 @@
       "action": "Behåll hela frasen i analysen; vanlig ordvis tokenisering tappar relationerna.",
       "sources": [
         "https://frageladan.isof.se/faqs/20742"
-      ]
+      ],
+      "dictionary_scope": "context"
     },
     {
       "id": "R35",
       "title": "Genus och böjningsklass är lexikala uppgifter",
       "layer": "böjning",
-      "explanation": "Ett substantivs genus och betydelse påverkar böjningen. Ordet spann förekommer exempelvis i olika betydelser med olika genus och böjningsmönster.",
-      "caution": "Stammens sista bokstav räcker inte för att välja suffix. I den lokala ordboken ger enspann/C ett extra n: detta är vår diagnos av en flaggning, inte en ny allmän svensk språkregel.",
+      "explanation": "Språkrådet hänvisar till SAOL för enskilda ords böjning (Myndigheternas skrivregler, avsnitt 6.1). Ett substantivs genus och betydelse påverkar böjningen. Ordet spann förekommer exempelvis i olika betydelser med olika genus och böjningsmönster.",
+      "caution": "Stammens sista bokstav räcker inte för att välja suffix. Den tidigare flaggningen enspann/C gav ett extra n i den lokala ordboken: detta är vår diagnos av en flaggning, inte en ny allmän svensk språkregel.",
       "action": "Granska hela böjningsparadigmet när en flagga tilldelas. Testa både rätt former och former som en felvald klass skulle generera.",
       "sources": [
+        "https://sprakochfolkminnen.diva-portal.org/smash/get/diva2:1136028/FULLTEXT02.pdf",
         "https://svenska.se/saol/?hv=xnr464207"
-      ]
+      ],
+      "dictionary_scope": "word"
     }
-  ]
+  ],
+  "norm_source": "Språkrådet (Isof)"
 }

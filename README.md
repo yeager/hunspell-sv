@@ -138,6 +138,14 @@ frequency alone is not evidence that a spelling is correct. New entries receive
 
 Found a missing Swedish word? Open an issue or PR!
 
+Use Språkrådet (Isof) as the primary authority for Swedish language and writing
+rules; see the [language policy](docs/sprakpolicy.md) and
+[reviewed rule catalogue](docs/svenska-regler.md). SAOL supplements individual
+spelling and inflection entries, as recommended by Språkrådet. Accepted variants
+must remain accepted, and context-dependent advice must not become blanket
+spelling prohibitions. The test suite validates this metadata boundary;
+interpreting the sources still requires review.
+
 The best way to contribute:
 1. Translate open source software to Swedish
 2. Your translations feed into the [Translation Memory](https://github.com/yeager/swedish-tm)
