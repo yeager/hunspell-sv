@@ -1,12 +1,13 @@
 # Changes
 
-## Unreleased
+## 2026.09.21.1
 
 - Make Språkrådet the primary authority for language and writing rules.
 - Replace the project-specific one-through-nine preference with contextual
   advice from Språkrådet; add five unscored examples for numeric expressions.
 - Validate rule sources and prevent context-only rules from becoming word
   corrections or spelling tests. Dictionary contents are unchanged.
+- Ship the language policy and rule catalogue in Debian and RPM packages.
 
 ## 2026.09.21
 

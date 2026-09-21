@@ -15,4 +15,4 @@ execute_after_dh_install:
 
 override_dh_auto_clean:
 	rm -f debian/rebuilt.dic
-	rm -rf __pycache__ tests/__pycache__
+	rm -rf __pycache__ tests/__pycache__ tools/__pycache__

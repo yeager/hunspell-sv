@@ -1,5 +1,5 @@
 Name:           hunspell-sv
-Version:        2026.09.21
+Version:        2026.09.21.1
 Release:        1%{?dist}
 Summary:        Swedish dictionary for Hunspell
 License:        LGPL-3.0-only
@@ -38,7 +38,7 @@ python3 -m unittest discover -s tests -v
 
 %files
 %license LICENSE COPYING.LESSER COPYING
-%doc README.md
+%doc README.md docs
 %{_datadir}/hunspell/sv_SE.aff
 %{_datadir}/hunspell/sv_SE.dic
 %dir %{_docdir}/%{name}/examples
@@ -46,6 +46,9 @@ python3 -m unittest discover -s tests -v
 %{_docdir}/%{name}/examples/sv_SE_expanded.dic
 
 %changelog
+* Mon Sep 21 2026 Daniel Nylander <github@danielnylander.se> - 2026.09.21.1-1
+- Enforce Sprakradet source policy and package the reviewed rule catalogue
+
 * Mon Sep 21 2026 Daniel Nylander <github@danielnylander.se> - 2026.09.21-1
 - Correct reviewed spelling and inflection errors; extend regression coverage
 

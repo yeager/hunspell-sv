@@ -1,3 +1,11 @@
+hunspell-sv (1:2026.09.21.1-1) unstable; urgency=medium
+
+  * Adopt Sprakradet as the authority for Swedish language and writing rules.
+  * Validate source evidence and separate context advice from spelling tests.
+  * Install the language policy and reviewed rule catalogue as documentation.
+
+ -- Daniel Nylander <github@danielnylander.se>  Mon, 21 Sep 2026 13:23:43 +0000
+
 hunspell-sv (1:2026.09.21-1) unstable; urgency=medium
 
   * Correct reviewed spelling errors and the inflection of enspann.
