@@ -279,11 +279,12 @@
       "id": "R25",
       "title": "Datum och valet mellan siffror och bokstäver",
       "layer": "texttyp och typografi",
-      "explanation": "Månadens namn passar ofta i löptext. Ett fullständigt numeriskt datum kan vara praktiskt i tabeller och standardiserade uppgifter. Behov av precision och läsbarhet styr valet av talformat.",
-      "caution": "Det finns ingen allmän absolut regel att alla tal under en viss gräns alltid ska skrivas med bokstäver.",
-      "action": "Välj dokumentprofil och kontrollera att datumet är entydigt.",
+      "explanation": "Som tumregel för vanlig löptext kan ett–nio skrivas med bokstäver. Siffror passar ofta bättre när taluppgiften är central, exempelvis vid mått, datum, klockslag, belopp och i tabeller. Månadens namn passar ofta i löptext; ett fullständigt numeriskt datum kan vara praktiskt i standardiserade uppgifter.",
+      "caution": "Gränsen nio är ett val i projektets stilprofil, inte en allmän svensk normgräns. Andra skrivråd använder exempelvis tolv. Läsbarhet, precision och konsekvens mellan jämförbara tal kan motivera siffror även under tio.",
+      "action": "Behandla ett–nio med bokstäver som ett valbart stilråd. Ingen automatisk ersättning eller stavfelsmarkering utan analys av sammanhanget. Kontrollera även att datum är entydiga.",
       "sources": [
-        "https://www.isof.se/download/18.5409ff0518d54a4bbada3de/1706690111224/L%C3%A4rarhandledning-Snabba-skrivregler2.pdf"
+        "https://www.isof.se/download/18.5409ff0518d54a4bbada3de/1706690111224/L%C3%A4rarhandledning-Snabba-skrivregler2.pdf",
+        "https://www.isof.se/download/18.17dda5f1791cdbd2873a99/1620030264840/Mynd-skrivreg2014-1.pdf"
       ]
     },
     {

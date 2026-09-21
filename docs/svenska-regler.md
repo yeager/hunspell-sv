@@ -254,13 +254,15 @@ Källor: [Isof/Språkrådet 1](https://frageladan.isof.se/faqs/22053), [Isof/Spr
 
 ### R25. Datum och valet mellan siffror och bokstäver
 
-**Kontrollnivå: texttyp och typografi.** Månadens namn passar ofta i löptext. Ett fullständigt numeriskt datum kan vara praktiskt i tabeller och standardiserade uppgifter. Behov av precision och läsbarhet styr valet av talformat.
+**Kontrollnivå: texttyp och typografi.** Som tumregel för vanlig löptext kan ett–nio skrivas med bokstäver. Siffror passar ofta bättre när taluppgiften är central, exempelvis vid mått, datum, klockslag, belopp och i tabeller. Månadens namn passar ofta i löptext; ett fullständigt numeriskt datum kan vara praktiskt i standardiserade uppgifter.
 
-**Begränsning:** Det finns ingen allmän absolut regel att alla tal under en viss gräns alltid ska skrivas med bokstäver.
+**Begränsning:** Gränsen nio är ett val i projektets stilprofil, inte en allmän svensk normgräns. Andra skrivråd använder exempelvis tolv. Läsbarhet, precision och konsekvens mellan jämförbara tal kan motivera siffror även under tio.
 
-**För ordboksarbetet:** Välj dokumentprofil och kontrollera att datumet är entydigt.
+**För ordboksarbetet:** Behandla ett–nio med bokstäver som ett valbart stilråd. Ingen automatisk ersättning eller stavfelsmarkering utan analys av sammanhanget. Kontrollera även att datum är entydiga.
 
-Källor: [Isof/Språkrådet 1](https://www.isof.se/download/18.5409ff0518d54a4bbada3de/1706690111224/L%C3%A4rarhandledning-Snabba-skrivregler2.pdf).
+Exempel i vanlig berättande text: ”Vi köpte sju böcker.” Vid mått används exempelvis ”7 kg”. Jämförbara antal kan hållas konsekventa: ”Grupperna hade 7, 14 och 21 deltagare.”
+
+Källor: [Isof/Språkrådet – lärarhandledning](https://www.isof.se/download/18.5409ff0518d54a4bbada3de/1706690111224/L%C3%A4rarhandledning-Snabba-skrivregler2.pdf), [Myndigheternas skrivregler, avsnitt 12.1](https://www.isof.se/download/18.17dda5f1791cdbd2873a99/1620030264840/Mynd-skrivreg2014-1.pdf). Den valda ett–nio-profilen kommer från projektets skrivönskemål; källorna beskriver den allmänna avvägningen och andra riktgränser.
 
 ### R26. Kolon och semikolon har olika uppgifter
 
