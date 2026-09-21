@@ -262,7 +262,7 @@ Källor: [Isof/Språkrådet 1](https://frageladan.isof.se/faqs/22053), [Isof/Spr
 
 Exempel i vanlig berättande text: ”Vi köpte sju böcker.” Vid mått används exempelvis ”7 kg”. Jämförbara antal kan hållas konsekventa: ”Grupperna hade 7, 14 och 21 deltagare.”
 
-Källor: [Isof/Språkrådet – lärarhandledning](https://www.isof.se/download/18.5409ff0518d54a4bbada3de/1706690111224/L%C3%A4rarhandledning-Snabba-skrivregler2.pdf), [Myndigheternas skrivregler, avsnitt 12.1](https://www.isof.se/download/18.17dda5f1791cdbd2873a99/1620030264840/Mynd-skrivreg2014-1.pdf). Den valda ett–nio-profilen kommer från projektets skrivönskemål; källorna beskriver den allmänna avvägningen och andra riktgränser.
+Källor: [Isof/Språkrådet – lärarhandledning](https://www.isof.se/download/18.5409ff0518d54a4bbada3de/1706690111224/L%C3%A4rarhandledning-Snabba-skrivregler2.pdf), [Myndigheternas skrivregler, avsnitt 12.1](https://sprakochfolkminnen.diva-portal.org/smash/get/diva2:1136028/FULLTEXT02.pdf). Den valda ett–nio-profilen kommer från projektets skrivönskemål; källorna beskriver den allmänna avvägningen och andra riktgränser.
 
 ### R26. Kolon och semikolon har olika uppgifter
 
