@@ -1,4 +1,4 @@
-166833
+166850
 -/-06XY
 -/!b
 ---
@@ -156453,7 +156453,8 @@ fjärrprocess/XY
 fjärrprogram/XY
 fjärrprotokoll/XY
 fjärrprotokollet/XY
-fjärrresursen/XY
+fjärrresursen/%
+fjärresursen/XY
 fjärrseriell/XY
 fjärrserver/XY
 fjärrservern/XY
@@ -160167,7 +160168,8 @@ lövfunktioner/XY
 magentafärg/XY
 mallanvändaren/XY
 mallanvändarens/XY
-mallleverantören/XY
+mallleverantören/%
+malleverantören/XY
 manifoldgränskanter/XY
 mappbehörigheter/XY
 mapplänk/XY
@@ -166725,7 +166727,7 @@ sysoid-sträng/XY
 systemd-tjänsten/XY
 tagndx-värde/XY
 tillförse/XY
-tilllåta/XY
+tilllåta/%
 tracepoint-markör/XY
 trädregelobjekt/XY
 tvåfaktorsautentiseringstoken/XY
@@ -166832,3 +166834,18 @@ mikroaggression/XY
 cancel/XY
 GitHub/XY
 filsystemsmetadata/XY
+enspann/ABD
+adresskanning
+bolliknande
+internnummer
+formaterare
+formaterad
+formaterade
+formaterades
+formaterar
+formaterat
+formaterats
+skattefria
+gemensamma
+enspannet
+enspannets

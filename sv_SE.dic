@@ -1,4 +1,4 @@
-279122
+279128
 ,/1
 ---
 -/!b
@@ -14490,7 +14490,8 @@ adressrymd/ADHY
 adressrymdsbegränsning
 adressrymdskvalificerare
 adressrymdspekare
-adressskanning
+adressskanning/%
+adresskanning
 adressspårningsinställningar/XY
 adresstyrning
 adressuppslagning
@@ -35473,7 +35474,8 @@ bollklöver
 bollkontakt/ADH
 bollkontroll/ADY
 bollkänsla/AEY
-bollliknande
+bollliknande/%
+bolliknande
 bollmattvävare
 bollmåra
 bollmåror
@@ -56977,8 +56979,6 @@ enslöv
 ensmärke
 ensmärken
 enspaltig/OY
-enspann
-enspann/C
 enspelare
 enspelarläge/ACEF
 enspråkig/OQY
@@ -64128,7 +64128,8 @@ fjärrprogram/XY
 fjärrprotokoll/XY
 fjärrprotokollet/XY
 fjärrpunkt
-fjärrresursen/XY
+fjärrresursen/%
+fjärresursen/XY
 fjärrsajten
 fjärrseriell/XY
 fjärrserver/XY
@@ -66877,8 +66878,9 @@ formatsträngar/XY
 formatsträngarna/XY
 formatsträngen/XY
 formatsträngsargumentet
-formattera
-formatterare
+formattera/%
+formatera
+formatterare/%
 formatting/XY
 formattyp/XY
 formatutmatning
@@ -144548,7 +144550,8 @@ malligga/%J
 mallighet/ADv
 mallinställningarna
 mallkategorierna
-mallleverantören/XY
+mallleverantören/%
+malleverantören/XY
 mallmallargument
 mallnivå
 mallocera
@@ -207617,7 +207620,8 @@ skattskyldig/AOQRY
 skattskyldighet/ADY
 skattskär
 skattsänkning/%ADG
-skatttefria
+skatttefria/%
+skattefria
 skattverket/%A
 skattån
 skatunge/AEG
@@ -239626,7 +239630,7 @@ tillkännagiven/MY
 tillkännagiver/Y
 tillkännagivit/AY
 tillköp
-tilllåta/XY
+tilllåta/%
 tillmakning
 tillmatning/ADv
 tillmatningsset/ABD
@@ -279121,3 +279125,5 @@ zürichsjön
 ω/r
 GitHub/XY
 filsystemsmetadata/XY
+enspann/ABD
+internnummer

@@ -92,6 +92,16 @@ class BuildTests(unittest.TestCase):
             with self.assertRaises(subprocess.CalledProcessError):
                 build.check_hunspell({'ord'}, Path(folder) / 'missing')
 
+    @unittest.skipUnless(shutil.which('hunspell'), 'Hunspell is required')
+    def test_swedish_consonant_deletion(self):
+        # Isof: https://frageladan.isof.se/faqs/31080
+        # Hyphenated spellings are accepted here; line-breaking is a separate task.
+        good = {'fallucka', 'ägg-gula', 'nattågen', 'glass-strut', 'till-låta', 'missköta', 'jobb-bevakning', 'tillåta', 'dammoln', 'natt-tåg', 'glasstrut', 'topposition', 'äggulor', 'miss-sköta', 'glass-skål', 'toppositioner', 'dammolnen', 'tillåter', 'äggula', 'jobbevakning', 'nattåg', 'topp-position'}
+        bad = {'dammmoln', 'falllucka', 'natttåg', 'tilllåta', 'misssköta', 'toppposition', 'jobbbevakning', 'ägggula', 'glassstrut'}
+        for name in ('sv_SE', 'sv_SE_expanded'):
+            with self.subTest(dictionary=name):
+                self.assertEqual(build.check_hunspell(good | bad, ROOT / name), bad)
+
     def test_dictionary_counts_and_exact_duplicates(self):
         for filename in ('sv_SE.dic', 'sv_SE_expanded.dic'):
             with self.subTest(filename=filename):
