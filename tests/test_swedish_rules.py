@@ -8,9 +8,21 @@ import unittest
 ROOT = Path(__file__).resolve().parents[1]
 
 
+def hunspell_library():
+    for name in ('hunspell-1.7', 'hunspell'):
+        library = ctypes.util.find_library(name)
+        if library:
+            return library
+    for path in ('/opt/homebrew/lib/libhunspell-1.7.dylib',
+                 '/usr/local/lib/libhunspell-1.7.dylib'):
+        if Path(path).is_file():
+            return path
+    return None
+
+
 class SwedishRulesTests(unittest.TestCase):
     def check_words(self, dictionary, cases):
-        library = ctypes.util.find_library('hunspell-1.7')
+        library = hunspell_library()
         self.assertIsNotNone(library, 'libhunspell-1.7 is required')
         lib = ctypes.CDLL(library)
         lib.Hunspell_create.argtypes = [ctypes.c_char_p, ctypes.c_char_p]
