@@ -1,5 +1,35 @@
 # hunspell-sv 🇸🇪
 
+## Svenska
+
+hunspell-sv är en modern svensk ordlista för Hunspell. Den bygger på SFOL och
+kompletteras med SALDO, Folkets lexikon, SAOL, etablerad IT-terminologi och
+manuellt granskade svenska FOSS-översättningar.
+
+### Installera
+
+```bash
+# Linux
+sudo cp sv_SE.dic sv_SE.aff /usr/share/hunspell/
+
+# macOS med Homebrew
+cp sv_SE.dic sv_SE.aff /opt/homebrew/share/hunspell/
+```
+
+### Använd vid översättningsgranskning
+
+En stavningsträff är en granskningssignal, inte ett automatiskt fel. Kontrollera
+källtext, sammanhang, egennamn och terminologi med l10n-lint, svlang,
+swedish-foss-terminology och swedish-tm innan text eller ordlista ändras. Lägg
+inte till ord enbart för att de förekommer i en enskild katalog.
+
+Hunspell avgör inte betydelse eller typografi. Följ även skrivpolicyn: ingen
+komma omedelbart före `och`, svenska citattecken, `…`, mellanslag före `%`,
+siffergruppering och tankstreck i talintervall. Prefix före `|` i Crowdin är
+metadata och får inte visas i svensk måltext.
+
+## English reference
+
 Modern Swedish dictionary for Hunspell spell checking.
 
 ## Stats
