@@ -134,6 +134,23 @@ frequency alone is not evidence that a spelling is correct. New entries receive
 | `sv_SE_expanded.dic` | Historical supplementary dictionary (166,850 entries; still contains affix flags) |
 | `sv_SE_expanded.aff` | Affix and compound rules for the supplementary dictionary |
 
+## Review workflow
+
+Use hunspell-sv as one stage in a Swedish localization review, together with
+[l10n-lint](https://github.com/yeager/l10n-lint),
+[svlang](https://github.com/yeager/svlang),
+[swedish-foss-terminology](https://github.com/yeager/swedish-foss-terminology)
+and [swedish-tm](https://github.com/yeager/swedish-tm). A reported word is a
+review prompt: verify the source, context, terminology and proper names before
+changing a translation or adding a dictionary entry. Do not add a word merely
+because it occurs in one catalog.
+
+Hunspell does not decide punctuation, typography or meaning. Apply the shared
+Swedish style policy separately: no comma immediately before `och`, Swedish
+quotation marks, `…` for ellipsis, a space before `%`, appropriate digit
+grouping and an en dash for numeric ranges. Crowdin context before `|` is
+metadata and must not appear in the visible Swedish text.
+
 ## Contributing
 
 Found a missing Swedish word? Open an issue or PR!
