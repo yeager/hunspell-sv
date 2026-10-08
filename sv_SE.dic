@@ -1,4 +1,4 @@
-279134
+279137
 ,/1
 ---
 -/!b
@@ -46463,6 +46463,7 @@ datakällafält/XY
 datakällan/XY
 datakällans/XY
 datakällaprofil/XY
+datakälleinformation
 datakällobjekt/XY
 datakällor/XY
 datakällorna/XY
@@ -82810,6 +82811,7 @@ grafitisk/OY
 graflänk/XY
 graflösning/XY
 graflösningen/XY
+grafmall
 grafmallarna
 grafolog/ADH
 grafologi/AEY
@@ -274076,6 +274078,7 @@ zürichsjön
 åsidosättandena
 åsidosättandet/XY
 åsidosättas/XY
+åsidosättbar
 åsidosättbart/XY
 åsidosätter/j
 åsidosättning/XY
