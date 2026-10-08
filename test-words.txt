@@ -179,6 +179,7 @@ tv:s
 Ubuntu
 usb
 usb-minne
+utfärdandedatum
 vattenkraftsproduktion
 vattenkraftverk
 vd
