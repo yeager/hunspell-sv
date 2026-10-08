@@ -180,6 +180,7 @@ Ubuntu
 usb
 usb-minne
 utfärdandedatum
+utfärdandeland
 vattenkraftsproduktion
 vattenkraftverk
 vd
