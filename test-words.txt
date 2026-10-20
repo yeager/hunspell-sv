@@ -193,3 +193,8 @@ webbapplikation
 ägg-gula
 äggula
 äggulor
+inferens
+målord
+demoförfrågan
+ordlistefil
+platshållarigenkänning
