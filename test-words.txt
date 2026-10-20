@@ -198,3 +198,4 @@ målord
 demoförfrågan
 ordlistefil
 platshållarigenkänning
+TM-förslag
