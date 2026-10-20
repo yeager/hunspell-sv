@@ -199,3 +199,10 @@ demoförfrågan
 ordlistefil
 platshållarigenkänning
 TM-förslag
+kolorimetri
+IFC-egenskaper
+EDID-informationen
+DisplayID-avsnitt
+PipeWire-drivrutin
+MIDI-drivrutin
+RetroAchievements
