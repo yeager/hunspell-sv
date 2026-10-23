@@ -206,3 +206,5 @@ DisplayID-avsnitt
 PipeWire-drivrutin
 MIDI-drivrutin
 RetroAchievements
+kassettmappare
+maskinvaruljudkanal
