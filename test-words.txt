@@ -237,3 +237,5 @@ omsamplaren
 pappersvitt
 trackermusik
 bildrutefrekvens
+kromakanal
+kromakanalen

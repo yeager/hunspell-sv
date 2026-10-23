@@ -1,5 +1,9 @@
 # Changes
 
+## 2026.10.24.4
+
+- Add the reviewed video term `kromakanal` from RetroArch PC-FX.
+
 ## 2026.10.24.3
 
 - Add the reviewed display term `bildrutefrekvens` from RetroArch Boom3.
