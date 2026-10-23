@@ -236,3 +236,4 @@ omsamplare
 omsamplaren
 pappersvitt
 trackermusik
+bildrutefrekvens

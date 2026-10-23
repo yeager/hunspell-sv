@@ -1,5 +1,9 @@
 # Changes
 
+## 2026.10.24.3
+
+- Add the reviewed display term `bildrutefrekvens` from RetroArch Boom3.
+
 ## 2026.10.24.2
 
 - Add reviewed RetroArch terminology for audio output, resampling, mapping and Doom rendering.
