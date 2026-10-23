@@ -213,3 +213,10 @@ skuggningspass
 bildrutsöverhoppning
 nedbromsning
 nedbromsningar
+inmatningspuls
+inmatningspulser
+lågpassfiltrering
+monoutgång
+omsampling
+turbofrekvens
+vikningsdistorsion

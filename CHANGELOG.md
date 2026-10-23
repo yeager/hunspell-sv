@@ -1,5 +1,9 @@
 # Changes
 
+## 2026.10.24
+
+- Add reviewed Swedish audio and signal-processing terminology from RetroArch QuickNES.
+
 ## 2026.10.23.2
 
 - Add reviewed gaming terms `bildrutsöverhoppning` and `nedbromsning` from the RetroArch review.

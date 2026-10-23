@@ -1,4 +1,4 @@
-279167
+279174
 ,/1
 ---
 -/!b
@@ -279166,3 +279166,10 @@ skuggningspass/XY
 bildrutsöverhoppning/XY
 nedbromsning/XY
 nedbromsningar/XY
+inmatningspuls/XY
+inmatningspulser/XY
+lågpassfiltrering/XY
+monoutgång/XY
+omsampling/XY
+turbofrekvens/XY
+vikningsdistorsion/XY
