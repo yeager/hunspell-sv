@@ -1,5 +1,10 @@
 # Changes
 
+## 2026.10.23.1
+
+- Add the reviewed Swedish graphics terms `kromaticitet` and `skuggningspass`,
+  found during RetroArch localization review.
+
 ## 2026.09.21.1
 
 - Make Språkrådet the primary authority for language and writing rules.

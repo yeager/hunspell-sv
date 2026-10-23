@@ -208,3 +208,5 @@ MIDI-drivrutin
 RetroAchievements
 kassettmappare
 maskinvaruljudkanal
+kromaticitet
+skuggningspass
