@@ -224,3 +224,15 @@ diskfil
 diskfiler
 diskfilerna
 läsljud
+bandvis
+avflagningsmärke
+avflagningsmärken
+dödzon
+ljudutdata
+lågpassutsmetning
+mappa
+mappning
+omsamplare
+omsamplaren
+pappersvitt
+trackermusik
