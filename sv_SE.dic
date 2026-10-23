@@ -1,4 +1,4 @@
-279174
+279178
 ,/1
 ---
 -/!b
@@ -279173,3 +279173,7 @@ monoutgång/XY
 omsampling/XY
 turbofrekvens/XY
 vikningsdistorsion/XY
+diskfil/XY
+diskfiler/XY
+diskfilerna/XY
+läsljud/XY

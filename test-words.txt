@@ -220,3 +220,7 @@ monoutgång
 omsampling
 turbofrekvens
 vikningsdistorsion
+diskfil
+diskfiler
+diskfilerna
+läsljud

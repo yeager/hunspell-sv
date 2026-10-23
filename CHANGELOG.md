@@ -1,5 +1,9 @@
 # Changes
 
+## 2026.10.24.1
+
+- Add reviewed storage and audio terminology from RetroArch quasi88.
+
 ## 2026.10.24
 
 - Add reviewed Swedish audio and signal-processing terminology from RetroArch QuickNES.
