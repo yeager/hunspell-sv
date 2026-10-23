@@ -1,5 +1,9 @@
 # Changes
 
+## 2026.10.23.2
+
+- Add reviewed gaming terms `bildrutsöverhoppning` and `nedbromsning` from the RetroArch review.
+
 ## 2026.10.23.1
 
 - Add the reviewed Swedish graphics terms `kromaticitet` and `skuggningspass`,

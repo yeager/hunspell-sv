@@ -210,3 +210,6 @@ kassettmappare
 maskinvaruljudkanal
 kromaticitet
 skuggningspass
+bildrutsöverhoppning
+nedbromsning
+nedbromsningar

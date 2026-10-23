@@ -45,7 +45,7 @@ Modern Swedish dictionary for Hunspell spell checking.
 | **Added Datatermgruppen** | 50 IT/tech terms |
 | **Added SAOL 15** | 43 new words (2026) |
 | **Added proper nouns** | 105 software/brand/place names |
-| **Added custom terms** | 558 from review work |
+| **Added custom terms** | 560 from review work |
 | **Added compound morphemes** | 47 for better compound support |
 | **TM source** | 1 207 695 translation memory entries |
 | **License** | LGPL-3.0 |
