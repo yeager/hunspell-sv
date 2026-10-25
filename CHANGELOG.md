@@ -1,5 +1,10 @@
 # Changes
 
+## 2026.10.25
+
+- Package the current reviewed Swedish dictionary for PyPI installation.
+- Include the latest reviewed RetroArch video terminology.
+
 ## 2026.10.24.4
 
 - Add the reviewed video term `kromakanal` from RetroArch PC-FX.

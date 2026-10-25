@@ -8,6 +8,19 @@ manuellt granskade svenska FOSS-översättningar.
 
 ### Installera
 
+### Python / PyPI
+
+Installera ordlistans filer med pip:
+
+```bash
+python -m pip install hunspell-sv
+```
+
+Filerna placeras under Python-miljöns `share/hunspell`-katalog. Distribuera
+dem från systemets paket eller kopiera `sv_SE.dic` och `sv_SE.aff` till
+Hunspells systemkatalog när systeminstallation önskas. Paketet innehåller också
+`sv_SE_expanded` som ett separat, kompletterande lexikon.
+
 ```bash
 # Linux
 sudo cp sv_SE.dic sv_SE.aff /usr/share/hunspell/

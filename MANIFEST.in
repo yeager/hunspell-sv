@@ -1,0 +1,3 @@
+include README.md CHANGELOG.md LICENSE
+include sv_SE.aff sv_SE.dic sv_SE_expanded.aff sv_SE_expanded.dic
+include docs/*.md docs/*.json

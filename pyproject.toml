@@ -1,0 +1,33 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "hunspell-sv"
+version = "2026.10.25"
+description = "Modern Swedish Hunspell dictionary"
+readme = "README.md"
+license = "LGPL-3.0-only"
+requires-python = ">=3.9"
+authors = [{name = "Daniel Nylander", email = "daniel@danielnylander.se"}]
+keywords = ["swedish", "hunspell", "dictionary", "spell-checking", "localization"]
+classifiers = [
+  "Development Status :: 3 - Alpha",
+  "Intended Audience :: Developers",
+  "Natural Language :: Swedish",
+  "Operating System :: OS Independent",
+  "Programming Language :: Python :: 3",
+  "Topic :: Text Processing :: Linguistic",
+]
+
+[project.urls]
+Homepage = "https://github.com/yeager/hunspell-sv"
+Repository = "https://github.com/yeager/hunspell-sv"
+Issues = "https://github.com/yeager/hunspell-sv/issues"
+
+[tool.setuptools]
+include-package-data = true
+
+[tool.setuptools.data-files]
+"share/hunspell" = ["sv_SE.aff", "sv_SE.dic", "sv_SE_expanded.aff", "sv_SE_expanded.dic"]
+"share/doc/hunspell-sv" = ["README.md", "CHANGELOG.md", "LICENSE"]
