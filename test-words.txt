@@ -92,6 +92,7 @@ kammar
 kedjereaktion
 kommitté
 kommittéer
+kompositering
 Kubernetes
 kyrkomusiker
 kyrktorn
