@@ -1,0 +1,56 @@
+name: Build distribution packages
+
+on:
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: Existing release tag to package
+        required: true
+        type: string
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: ${{ inputs.tag }}
+      - name: Verify version and install build tools
+        env:
+          RELEASE_TAG: ${{ inputs.tag }}
+        run: |
+          version="$(python3 -c "import tomllib; print(tomllib.load(open('pyproject.toml', 'rb'))['project']['version'])")"
+          test "$RELEASE_TAG" = "v$version"
+          sudo apt-get update
+          sudo apt-get install -y build-essential debhelper dictionaries-common-dev hunspell rpm
+      - name: Build Debian package
+        run: |
+          dpkg-buildpackage -b -us -uc
+          mkdir -p "$RUNNER_TEMP/packages"
+          cp ../hunspell-sv_*_all.deb "$RUNNER_TEMP/packages/"
+      - name: Build Fedora RPM
+        env:
+          RELEASE_TAG: ${{ inputs.tag }}
+        run: |
+          version="${RELEASE_TAG#v}"
+          top="$RUNNER_TEMP/rpmbuild"
+          mkdir -p "$top/SOURCES" "$RUNNER_TEMP/packages"
+          git archive --format=tar --prefix="hunspell-sv-${version}/" "$RELEASE_TAG" \
+            | tar -C "$top/SOURCES" -xf -
+          tar -C "$top/SOURCES" -czf "$top/SOURCES/hunspell-sv-${version}.tar.gz" \
+            "hunspell-sv-${version}"
+          cp packaging/rpm/COPYING packaging/rpm/COPYING.LESSER "$top/SOURCES/"
+          rpmbuild -ba --define "_topdir $top" \
+            --define "_rpmdir $RUNNER_TEMP/packages" \
+            --define "_srcrpmdir $RUNNER_TEMP/packages" \
+            packaging/rpm/hunspell-sv.spec
+      - name: Upload release assets
+        env:
+          GH_TOKEN: ${{ github.token }}
+          RELEASE_TAG: ${{ inputs.tag }}
+        run: |
+          find "$RUNNER_TEMP/packages" -type f \( -name '*.deb' -o -name '*.rpm' \) \
+            -exec gh release upload "$RELEASE_TAG" {} +
