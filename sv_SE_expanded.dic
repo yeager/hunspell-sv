@@ -1,4 +1,4 @@
-166904
+166907
 -/-06XY
 -/!b
 ---
@@ -10998,6 +10998,7 @@ bildreportage/ACEY
 bildrik/kOP
 bildristning/ADG
 bildrulle/AEGY
+bildbuffertshämtning/XY
 bildruta/AEGY
 bildrör/ABDv
 bildsal/ADG
@@ -120561,6 +120562,7 @@ speleologi/AEX
 speleologisk/OY
 spelevink/ADGY
 spelfilm/ADHvY
+spelfixar/XY
 spelfördelar/XZ
 spelfördelare/AEJY
 spelföretag/ABDY
@@ -156522,6 +156524,7 @@ flyktföljder/XY
 flyttalsfält/XY
 flyttalsvärde/XY
 flyttalsvärden/XY
+flyttalsöverflöden/XY
 flyttläge/XY
 flyttningsläge/XY
 fläckar/XY

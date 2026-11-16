@@ -1,4 +1,4 @@
-279197
+279200
 ,/1
 ---
 -/!b
@@ -31293,6 +31293,7 @@ bildristning/ADG
 bildritning
 bildrotation
 bildrulle/AEGY
+bildbuffertshämtning/XY
 bildruta/AEGY
 bildrutnät
 bildrutorna
@@ -65710,6 +65711,7 @@ flyttalsrepresentation
 flyttalsutökning
 flyttalsvärde/XY
 flyttalsvärden/XY
+flyttalsöverflöden/XY
 flyttande
 flyttanmälan/AY
 flyttass/%
@@ -219252,6 +219254,7 @@ spelevink/ADGY
 spelevinker
 spelfilerna
 spelfilm/ADHvY
+spelfixar/XY
 spelflöjt
 spelfördelar/XZ
 spelfördelare/AEJY

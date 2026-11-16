@@ -233,6 +233,9 @@ radsprångsförskjutning
 radsprångsförskjutningen
 avflätningsläge
 avflätningsläget
+bildbuffertshämtning
+spelfixar
+flyttalsöverflöden
 ljudutdata
 lågpassutsmetning
 mappa
