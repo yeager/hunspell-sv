@@ -229,6 +229,8 @@ bandvis
 avflagningsmärke
 avflagningsmärken
 dödzon
+radsprångsförskjutning
+radsprångsförskjutningen
 ljudutdata
 lågpassutsmetning
 mappa
