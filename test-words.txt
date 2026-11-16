@@ -231,6 +231,8 @@ avflagningsmärken
 dödzon
 radsprångsförskjutning
 radsprångsförskjutningen
+avflätningsläge
+avflätningsläget
 ljudutdata
 lågpassutsmetning
 mappa
