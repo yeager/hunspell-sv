@@ -234,6 +234,7 @@ radsprångsförskjutningen
 avflätningsläge
 avflätningsläget
 bildbuffertshämtning
+bildradsfilter
 spelfixar
 flyttalsöverflöden
 ljudutdata
