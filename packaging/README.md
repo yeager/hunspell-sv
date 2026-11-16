@@ -14,15 +14,15 @@ tarball matching the version in debian/changelog.
 
 The package is Architecture: all, Multi-Arch: foreign, and uses the official
 installdeb-hunspell helper for dictionaries-common registration and lifecycle
-scripts. Epoch 1 preserves upgrade ordering from the existing distribution
-package. The package deliberately provides sv_SE only, not a separate
-Finland-Swedish dictionary.
+scripts. The current Debian package uses epoch 3 to upgrade packages previously
+published in the Yeager APT repository. The package deliberately provides
+sv_SE only, not a separate Finland-Swedish dictionary.
 
 ## Fedora RPM
 
 Install rpm-build, python3 and hunspell. Place the release archive in SOURCES
-as hunspell-sv-2026.09.17.tar.gz with top-level hunspell-sv-2026.09.17/.
-Copy packaging/rpm/COPYING and COPYING.LESSER into SOURCES, then run:
+as hunspell-sv-<version>.tar.gz with a matching top-level directory. Copy
+packaging/rpm/COPYING and COPYING.LESSER into SOURCES, then run:
 
     rpmbuild -ba packaging/rpm/hunspell-sv.spec
 

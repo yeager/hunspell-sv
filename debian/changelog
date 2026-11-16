@@ -1,3 +1,10 @@
+hunspell-sv (3:2026.11.16-1) unstable; urgency=medium
+
+  * Package reviewed Blender action-slot and compositing terminology.
+  * Upgrade package epoch to supersede all versions in the Yeager APT repository.
+
+ -- Daniel Nylander <github@danielnylander.se>  Mon, 16 Nov 2026 12:00:00 +0000
+
 hunspell-sv (1:2026.09.21.1-1) unstable; urgency=medium
 
   * Adopt Sprakradet as the authority for Swedish language and writing rules.

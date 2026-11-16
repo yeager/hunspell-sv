@@ -1,5 +1,5 @@
 Name:           hunspell-sv
-Version:        2026.09.21.1
+Version:        2026.11.16
 Release:        1%{?dist}
 Summary:        Swedish dictionary for Hunspell
 License:        LGPL-3.0-only
@@ -46,6 +46,9 @@ python3 -m unittest discover -s tests -v
 %{_docdir}/%{name}/examples/sv_SE_expanded.dic
 
 %changelog
+* Mon Nov 16 2026 Daniel Nylander <github@danielnylander.se> - 2026.11.16-1
+- Add reviewed Blender action-slot and compositing terminology
+
 * Mon Sep 21 2026 Daniel Nylander <github@danielnylander.se> - 2026.09.21.1-1
 - Enforce Sprakradet source policy and package the reviewed rule catalogue
 

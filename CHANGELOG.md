@@ -1,5 +1,10 @@
 # Changes
 
+## 2026.11.16
+
+- Add reviewed Blender action-slot terms and compositing terminology.
+- Publish the current dictionary as the 2026.11.16 package release.
+
 ## 2026.10.25
 
 - Package the current reviewed Swedish dictionary for PyPI installation.
