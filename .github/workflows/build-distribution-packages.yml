@@ -43,7 +43,10 @@ jobs:
           tar -C "$top/SOURCES" -czf "$top/SOURCES/hunspell-sv-${version}.tar.gz" \
             "hunspell-sv-${version}"
           cp packaging/rpm/COPYING packaging/rpm/COPYING.LESSER "$top/SOURCES/"
-          rpmbuild -ba --define "_topdir $top" \
+          # Ubuntu installed the tools through APT, so RPM cannot see them in
+          # its own package database. The tool binaries are present; skip only
+          # RPM's host dependency lookup while retaining the package Requires.
+          rpmbuild --nodeps -ba --define "_topdir $top" \
             --define "_rpmdir $RUNNER_TEMP/packages" \
             --define "_srcrpmdir $RUNNER_TEMP/packages" \
             packaging/rpm/hunspell-sv.spec
