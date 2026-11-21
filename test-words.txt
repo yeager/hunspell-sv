@@ -3,6 +3,7 @@ adresskanning
 Annas
 användarinställningar
 api-nyckel
+applösenord
 applikationsserver
 armé
 arméer
