@@ -111,3 +111,6 @@ Västernorrland
 Jämtland
 Västerbotten
 Norrbotten
+
+# Technical abbreviation
+ORP
