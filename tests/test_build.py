@@ -57,7 +57,7 @@ class BuildTests(unittest.TestCase):
         good = {'dator', 'översättning', 'stavningskontroll', 'programvara',
                 'inställningar', 'användargränssnitt', 'filhanterare',
                 'säkerhetskopia', 'operativsystem', 'webbläsare',
-                'lösenfras', 'meddelandekö', 'symlänk', 'filbläddrare', 'USB-dongel',
+                'lösenfras', 'meddelandekö', 'symlänk', 'filbläddrare', 'standardindata', 'USB-dongel',
                 'åsidosättning', 'fjärrvärd', 'trädvy', 'skogshuggartält',
                 'datakällobjekt', 'vertexfärg'}
         bad = {'zzqxxzz', 'stavvningskontroll'}
