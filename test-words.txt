@@ -334,3 +334,4 @@ hysteresbandet
 börvärdet
 börvärden
 börvärdena
+VELUX

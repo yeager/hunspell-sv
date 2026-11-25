@@ -9,6 +9,8 @@
 
 ## Unreleased
 
+- Add the official Home Assistant brand spelling `VELUX` to Hunspell after its gateway name was flagged in the Core review; add a spelling regression.
+
 - Add technical term `hysteresband`, complete the `börvärde` inflections, and add VELUX model `KLF200` with gateway compound regressions after Home Assistant Core review exposed false spelling warnings. Evidence: [LTH measurement material](https://bme.lth.se/fileadmin/biomedicalengineering/Courses/Maetteknik_foer_E_D/Tid_och_Frekvens_2018_del_1.pdf) uses `hysteresband`; [VELUX](https://www.velux.com/klf200) identifies KLF 200 as its interface model.
 
 

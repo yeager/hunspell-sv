@@ -177,3 +177,4 @@ VEDO
 Actron
 Velbus
 KLF200
+VELUX
