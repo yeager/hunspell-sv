@@ -9,6 +9,8 @@
 
 ## Unreleased
 
+- Add `nivålås` and its inflections, plus Ohme, Reolink and Snoo names and common Home Assistant compounds to both dictionaries and spelling regressions.
+
 - Add `sviträknare` and its common inflections after the Home Assistant Habitica review exposed this valid compound as a Hunspell false positive.
 
 - Add reviewed Home Assistant product names, MQTT/SSDP terminology and IronOS model names to the proper-noun reference and both dictionaries; cover their UI compounds in spelling regressions.

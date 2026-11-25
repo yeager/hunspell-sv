@@ -212,3 +212,7 @@ PM2
 PM4
 PM10
 VOC
+# Home Assistant Snoo, Ohme and Reolink terminology, 2026-11-25
+Ohme
+Reolink
+Snoo
