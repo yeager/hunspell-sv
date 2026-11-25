@@ -3,6 +3,12 @@ adresskanning
 Annas
 användarinställningar
 api-nyckel
+API-tokenens
+API-tokenen
+API-token
+api-tokenens
+api-tokenen
+api-token
 applösenord
 applikationsserver
 armé
