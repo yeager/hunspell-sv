@@ -3,7 +3,12 @@
 - Add the reviewed Home Assistant brands `Tibber`, `OpenAI` and `Proxmox` to both dictionaries and the proper-noun reference after spell-check false positives.
 # Changes
 
+## 2026.11.25
+
+- Add the KNX Association Swedish term `datapunkttyp` (plural `datapunkttyper`) after an official KNX string exposed a Hunspell false positive; add Home Assistant technical product names and TTS to both dictionaries with spelling regressions. The accepted term `USB-dongel` is already covered.
+
 ## Unreleased
+
 
 - Add the valid compound `växelriktarström`, supported by Viessmann's Swedish term `växelriktare`, and the Home Assistant product name `WaterFurnace` with its hyphenated Swedish compound `WaterFurnace-tjänsten`; add spelling regressions for the Home Assistant Core review.
 - Add the established compound push-uppdateringar to both dictionaries after a Home Assistant CoIoT review exposed a Hunspell coverage gap. Evidence includes existing Home Assistant translation-memory use and an independent occurrence in [Ubuntu DDTP Swedish translations](https://github.com/yeager/translations/blob/main/translations/ubuntu-ddtp/ddtp-ubuntu-universe-sv.po); add a spelling regression.

@@ -165,3 +165,14 @@ ARC
 eARC
 HTPC
 RTC
+
+# Home Assistant Core products and technical terms, 2026-11-25
+TTS
+WSDOT
+BSB-LAN
+VeSync
+KNX
+ETS
+VEDO
+Actron
+Velbus
