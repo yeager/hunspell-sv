@@ -146,3 +146,22 @@ Telldus
 Teslemetry
 WaterFurnace
 SMA
+# Reviewed Home Assistant and device labels
+Namecheap
+DynamicDNS
+OpenEVSE
+HDFury
+EDID
+TX0
+TX1
+RX0
+RX1
+RX2
+RX3
+TXA0
+TXA1
+AUDA
+ARC
+eARC
+HTPC
+RTC
