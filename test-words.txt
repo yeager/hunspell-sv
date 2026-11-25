@@ -299,3 +299,7 @@ Sonos
 System
 Telldus
 Teslemetry
+nedladdningskö
+nedladdningskön
+nedladdningsköer
+nedladdningsköerna

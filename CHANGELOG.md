@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- Add the established Swedish compound `nedladdningskö` to both Hunspell dictionaries and the spelling regression corpus, supported by Swedish user documentation from [Synology](https://global.download.synology.com/download/Document/Software/UserGuide/Firmware/DSM/4.3/sve/Syno_UsersGuide_NAServer_sve.pdf) and [Suunto](https://www.suunto.com/sv-se/Support/faq-articles/suunto-app/how-can-i-download-offline-maps-to-my-suunto-watch/).
+
 - Add Swedish technical term `mired`, the HA term `blueprint` and `utgångskod`, plus Home Assistant integration/vendor names exposed during Core review; add spelling regressions. Mired usage follows [Nikon Swedish documentation](https://chsv-origin-onlinemanual.nikonimglib.com/zf/sv/white_balance_36.html), and `utgångskod` follows the reviewed Home Assistant term memory.
 - Add `Modbus` and the Azure Speech proper names `Guangxi`, `Henan`, `Jilu`, `Shaanxi`, `Türkiye`, `Wu` and `Zhongyuan` to the Swedish Hunspell dictionaries, with regressions for reviewed compounds.
 - Add `Modbus` as a Home Assistant protocol name to the Swedish Hunspell dictionaries; regression-check `Modbus-hubben`, the established spelling already present in HA translation memory.
