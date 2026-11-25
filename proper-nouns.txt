@@ -126,6 +126,10 @@ Wu
 Zhongyuan
 
 # Names encountered in current Home Assistant Core review
+Tibber
+OpenAI
+Proxmox
+
 Assistant
 Bridge
 Core

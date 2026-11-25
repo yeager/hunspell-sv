@@ -1,3 +1,4 @@
+- Add the reviewed Home Assistant brands `Tibber`, `OpenAI` and `Proxmox` to both dictionaries and the proper-noun reference after spell-check false positives.
 # Changes
 
 ## Unreleased
