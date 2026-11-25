@@ -225,3 +225,11 @@ IMGW-PIB
 mDNS
 NextDNS
 RPC
+
+# Names encountered in Home Assistant Core review
+Comelit
+Tado
+Switcher
+Zengge
+WHOIS
+OTA
