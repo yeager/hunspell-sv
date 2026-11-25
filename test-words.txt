@@ -188,6 +188,7 @@ tv:n
 tv:s
 Ubuntu
 usb
+usb-dongel
 usb-minne
 utfärdandedatum
 utfärdandeland

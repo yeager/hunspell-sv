@@ -5,7 +5,7 @@
 
 ## 2026.11.25
 
-- Add the KNX Association Swedish term `datapunkttyp` (plural `datapunkttyper`) after an official KNX string exposed a Hunspell false positive; add Home Assistant technical product names and TTS to both dictionaries with spelling regressions. The accepted term `USB-dongel` is already covered.
+- Add the KNX Association Swedish term `datapunkttyp` (plural `datapunkttyper`) after an official KNX string exposed a Hunspell false positive; add Home Assistant technical product names and TTS to both dictionaries with spelling regressions. The user-approved compounds `USB-dongel` and `usb-dongel` are covered.
 
 ## Unreleased
 
