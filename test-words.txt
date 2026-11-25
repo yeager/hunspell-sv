@@ -254,3 +254,4 @@ dongel
 dongeln
 donglar
 donglarna
+USB-dongel
