@@ -124,3 +124,19 @@ Shaanxi
 Türkiye
 Wu
 Zhongyuan
+
+# Names encountered in current Home Assistant Core review
+Assistant
+Bridge
+Core
+Hayward
+Home
+myUplink
+OmniLogic
+OpenDisplay
+PoolSense
+Powerwall
+Sonos
+System
+Telldus
+Teslemetry
