@@ -355,3 +355,5 @@ stryktorrt
 xl-kaffe
 nattdisk
 försköljning
+kaffemaskinprogram
+spoltryck
