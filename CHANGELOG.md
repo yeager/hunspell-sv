@@ -9,6 +9,8 @@
 
 ## Unreleased
 
+- Add technical term `hysteresband`, complete the `börvärde` inflections, and add VELUX model `KLF200` with gateway compound regressions after Home Assistant Core review exposed false spelling warnings. Evidence: [LTH measurement material](https://bme.lth.se/fileadmin/biomedicalengineering/Courses/Maetteknik_foer_E_D/Tid_och_Frekvens_2018_del_1.pdf) uses `hysteresband`; [VELUX](https://www.velux.com/klf200) identifies KLF 200 as its interface model.
+
 
 - Add the valid compound `växelriktarström`, supported by Viessmann's Swedish term `växelriktare`, and the Home Assistant product name `WaterFurnace` with its hyphenated Swedish compound `WaterFurnace-tjänsten`; add spelling regressions for the Home Assistant Core review.
 - Add the established compound push-uppdateringar to both dictionaries after a Home Assistant CoIoT review exposed a Hunspell coverage gap. Evidence includes existing Home Assistant translation-memory use and an independent occurrence in [Ubuntu DDTP Swedish translations](https://github.com/yeager/translations/blob/main/translations/ubuntu-ddtp/ddtp-ubuntu-universe-sv.po); add a spelling regression.

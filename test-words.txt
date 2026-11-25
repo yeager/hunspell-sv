@@ -326,3 +326,11 @@ VEDO-larmsystem
 VEDO-PIN-koden
 Actron
 Velbus
+KLF200
+KLF200-gateway
+KLF200-gatewayen
+hysteresband
+hysteresbandet
+börvärdet
+börvärden
+börvärdena
