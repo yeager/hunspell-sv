@@ -9,6 +9,12 @@
 
 ## Unreleased
 
+- Add `sviträknare` and its common inflections after the Home Assistant Habitica review exposed this valid compound as a Hunspell false positive.
+
+- Add reviewed Home Assistant product names, MQTT/SSDP terminology and IronOS model names to the proper-noun reference and both dictionaries; cover their UI compounds in spelling regressions.
+
+- Add `moppningsrutt` and `rumsnamn` with inflections to both dictionaries and spelling regressions after Home Assistant map and room-label review.
+
 - Add `checklistpunkt` and `lödspets` with common inflections to both dictionaries and spelling regressions after Home Assistant Core review exposed valid compound false positives.
 
 - Add the correct Swedish Habitica terms `uppgiftsalias` and the inflections `aliaset` and `uppgiftsaliaset` to both dictionaries and spelling regressions after the HA Core review exposed false positives.

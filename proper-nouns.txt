@@ -167,6 +167,34 @@ HTPC
 RTC
 
 # Home Assistant Core products and technical terms, 2026-11-25
+Habitica
+Habitica-konto
+Habitica-kontot
+Habitica-uppgift
+Habitica-uppgiften
+Habitica-karaktär
+Habitica-karaktären
+Roborock
+Roborock-app
+Roborock-appen
+OneDrive
+MQTT
+MQTT-enhet
+MQTT-enheten
+MQTT-enhetens
+MQTT-broker
+MQTT-brokern
+MQTT-specifika
+SSDP
+BH1750
+QoS
+CJC
+Pinecil
+PTS200
+TS100
+Hakko
+T12
+Nödvärme
 TTS
 WSDOT
 BSB-LAN
