@@ -7,7 +7,10 @@
 
 - Add the KNX Association Swedish term `datapunkttyp` (plural `datapunkttyper`) after an official KNX string exposed a Hunspell false positive; add Home Assistant technical product names and TTS to both dictionaries with spelling regressions. The user-approved compounds `USB-dongel` and `usb-dongel` are covered.
 
-## Unreleased
+## 2026.11.26
+
+- Add Home Assistant product names, including Google Cast, technical abbreviations and their API compounds after the Core review exposed valid UI terms as Hunspell false positives; add spelling regressions.
+- Add `avlarmat` and its inflections, coffee term `förbryggning` and unit `rpm` after the Core review exposed them as valid Swedish UI words.
 
 - Add `nivålås` and its inflections, plus Ohme, Reolink and Snoo names and common Home Assistant compounds to both dictionaries and spelling regressions.
 
@@ -109,3 +112,5 @@
 - Include 35 rule topics with primary references in docs/svenska-regler.md.
 
 The catalogue is a curated regression source, not a complete Swedish grammar.
+
+## Unreleased

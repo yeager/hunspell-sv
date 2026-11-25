@@ -216,3 +216,12 @@ VOC
 Ohme
 Reolink
 Snoo
+
+# Home Assistant products and technical abbreviations, 2026-11-26
+AccuWeather
+Airly
+GIOS
+IMGW-PIB
+mDNS
+NextDNS
+RPC

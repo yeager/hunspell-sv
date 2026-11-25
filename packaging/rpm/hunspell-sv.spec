@@ -1,5 +1,5 @@
 Name:           hunspell-sv
-Version:        2026.11.16
+Version:        2026.11.26
 Release:        1%{?dist}
 Summary:        Swedish dictionary for Hunspell
 License:        LGPL-3.0-only

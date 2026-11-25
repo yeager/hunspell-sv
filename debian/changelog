@@ -1,3 +1,11 @@
+hunspell-sv (3:2026.11.26-1) unstable; urgency=medium
+
+  * Add reviewed Home Assistant Core product names and API compounds.
+  * Add validated Swedish words for disarmed states, pre-brewing and RPM labels.
+  * Update the Swedish spelling regressions and both dictionaries.
+
+ -- Daniel Nylander <github@danielnylander.se>  Wed, 26 Nov 2026 12:00:00 +0000
+
 hunspell-sv (3:2026.11.16-1) unstable; urgency=medium
 
   * Package reviewed Blender action-slot and compositing terminology.
