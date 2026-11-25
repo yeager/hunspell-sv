@@ -9,6 +9,8 @@
 
 ## Unreleased
 
+- Add the correct Swedish Habitica terms `uppgiftsalias` and the inflections `aliaset` and `uppgiftsaliaset` to both dictionaries and spelling regressions after the HA Core review exposed false positives.
+
 - Add the valid Home Assistant compounds `eco-läge` and `hysteresläge` to both Hunspell dictionaries and spelling regressions after the ZHA review flagged them.
 
 - Add the established Swedish UI term `turboläge` to both dictionaries and the regression corpus after its reviewed Home Assistant label was flagged; the Swedish Philips user manual uses “Turboläge” as a mode label: https://www.documents.philips.com/assets/20210423/20de1b38309546b1b9c6ad13011f08ed.pdf.
