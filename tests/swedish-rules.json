@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "date": "2026-09-21",
+  "date": "2026-11-25",
   "scope": "Modern svensk standardskrift, med uttryckligt angivna varianter och stilskillnader.",
   "warning": "Urval för feldiagnostik; inte heltäckande grammatik eller representativt kvalitetsmått.",
   "cases": [
@@ -2657,6 +2657,28 @@
       "sources": [
         "https://www.isof.se/download/18.5409ff0518d54a4bbada3de/1706690111224/L%C3%A4rarhandledning-Snabba-skrivregler2.pdf",
         "https://sprakochfolkminnen.diva-portal.org/smash/get/diva2:1136028/FULLTEXT02.pdf"
+      ]
+    },
+    {
+      "id": "T235",
+      "rule": "R36",
+      "scope": "word",
+      "text": "produktions-CT",
+      "expected_accept": true,
+      "basis": "Tillämpning av Språkrådets regel för initialförkortningar i sammansättningar.",
+      "sources": [
+        "https://frageladan.isof.se/faqs/30528"
+      ]
+    },
+    {
+      "id": "T236",
+      "rule": "R36",
+      "scope": "word",
+      "text": "last-CT",
+      "expected_accept": true,
+      "basis": "Tillämpning av Språkrådets regel för initialförkortningar i sammansättningar.",
+      "sources": [
+        "https://frageladan.isof.se/faqs/30528"
       ]
     }
   ]

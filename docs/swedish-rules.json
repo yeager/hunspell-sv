@@ -436,6 +436,18 @@
         "https://svenska.se/saol/?hv=xnr464207"
       ],
       "dictionary_scope": "word"
+    },
+    {
+      "id": "R36",
+      "title": "Sammansättningar med initialförkortning",
+      "layer": "ordbildning och stavning",
+      "explanation": "När en initialförkortning ingår som led i en sammansättning sätts bindestreck mellan förkortningen och det andra ledet.",
+      "caution": "Regeln gäller sammansättningar med initialförkortningar och ska inte överföras till namn eller etablerade ord som följer andra mönster.",
+      "action": "Behåll bindestrecket i granskade sammansättningar med initialförkortningar.",
+      "sources": [
+        "https://frageladan.isof.se/faqs/30528"
+      ],
+      "dictionary_scope": "word"
     }
   ],
   "norm_source": "Språkrådet (Isof)"
