@@ -9,6 +9,8 @@
 
 ## Unreleased
 
+- Add `checklistpunkt` and `lödspets` with common inflections to both dictionaries and spelling regressions after Home Assistant Core review exposed valid compound false positives.
+
 - Add the correct Swedish Habitica terms `uppgiftsalias` and the inflections `aliaset` and `uppgiftsaliaset` to both dictionaries and spelling regressions after the HA Core review exposed false positives.
 
 - Add the valid Home Assistant compounds `eco-läge` and `hysteresläge` to both Hunspell dictionaries and spelling regressions after the ZHA review flagged them.

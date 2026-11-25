@@ -362,3 +362,11 @@ hysteresläge
 aliaset
 uppgiftsalias
 uppgiftsaliaset
+checklistpunkt
+checklistpunkten
+checklistpunkter
+checklistpunkterna
+lödspets
+lödspetsen
+lödspetsar
+lödspetsarna
