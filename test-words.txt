@@ -349,3 +349,4 @@ ASCII
 Deltatid
 Kompressibilitet
 Magnetomotorisk
+turboläge

@@ -9,6 +9,8 @@
 
 ## Unreleased
 
+- Add the established Swedish UI term `turboläge` to both dictionaries and the regression corpus after its reviewed Home Assistant label was flagged; the Swedish Philips user manual uses “Turboläge” as a mode label: https://www.documents.philips.com/assets/20210423/20de1b38309546b1b9c6ad13011f08ed.pdf.
+
 - Add the KNX volume-delta term `deltavolym` to both dictionaries and spelling regressions, supported by the Swedish [Philips TV user manual](https://www.documents.philips.com/assets/20250224/2cc56a9eadf44ed7b20db28e002d808e.pdf) which uses *deltavolym* for a volume adjustment.
 
 - Add Home Assistant air-quality identifiers `PM1`, `PM2`, `PM4`, `PM10` and `VOC` to Hunspell with spelling regressions after KNX device-class review.
