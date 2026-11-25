@@ -448,6 +448,18 @@
         "https://frageladan.isof.se/faqs/30528"
       ],
       "dictionary_scope": "word"
+    },
+    {
+      "id": "R37",
+      "title": "Svenska sammansättningar skrivs normalt ihop",
+      "layer": "ordbildning",
+      "explanation": "Huvudregeln är att svenska sammansättningar skrivs ihop till ett ord; bindestreck används i särskilda fall när det underlättar läsningen eller enligt regler för förkortningar.",
+      "caution": "Bedöm etablerade skrivsätt, betydelse och läsbarhet för den enskilda sammansättningen.",
+      "action": "Godta granskade svenska sammansättningar som följer huvudregeln.",
+      "sources": [
+        "https://www.isof.se/download/18.17dda5f1791cdbd2873a99/1620030264840/Mynd-skrivreg2014-1.pdf"
+      ],
+      "dictionary_scope": "word"
     }
   ],
   "norm_source": "Språkrådet (Isof)"

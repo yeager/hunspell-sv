@@ -2680,6 +2680,17 @@
       "sources": [
         "https://frageladan.isof.se/faqs/30528"
       ]
+    },
+    {
+      "id": "T237",
+      "rule": "R37",
+      "scope": "word",
+      "text": "timerläge",
+      "expected_accept": true,
+      "basis": "Tillämpning av Språkrådets huvudregel att sammansättningar skrivs ihop.",
+      "sources": [
+        "https://www.isof.se/download/18.17dda5f1791cdbd2873a99/1620030264840/Mynd-skrivreg2014-1.pdf"
+      ]
     }
   ]
 }
