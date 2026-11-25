@@ -4,6 +4,7 @@
 
 - Add the established Swedish IT term `dongel` after a localization review exposed a dictionary coverage gap; cite [Computer Sweden IT-ord](https://it-ord.computersweden.se/category/elektronisk-kommunikation/telekom/telefoni/mobilt/page/49/) and cover singular and plural forms in both dictionaries.
 - Add the established inflections of `API-token` exposed by the Home Assistant review to both dictionaries and the spelling regression corpus.
+- Add the Swedish language name `assamesiska` after the Microsoft voice-locale review, supported by [NE](https://www.ne.se/uppslagsverk/skola/avancerad/assamesiska).
 
 ## 2026.11.16
 
