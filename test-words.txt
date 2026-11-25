@@ -305,3 +305,6 @@ nedladdningsköer
 nedladdningsköerna
 standardindata
 push-uppdateringar
+WaterFurnace
+WaterFurnace-tjänsten
+växelriktarström

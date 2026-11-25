@@ -2,6 +2,7 @@
 
 ## Unreleased
 
+- Add the valid compound `växelriktarström`, supported by Viessmann's Swedish term `växelriktare`, and the Home Assistant product name `WaterFurnace` with its hyphenated Swedish compound `WaterFurnace-tjänsten`; add spelling regressions for the Home Assistant Core review.
 - Add the established compound push-uppdateringar to both dictionaries after a Home Assistant CoIoT review exposed a Hunspell coverage gap. Evidence includes existing Home Assistant translation-memory use and an independent occurrence in [Ubuntu DDTP Swedish translations](https://github.com/yeager/translations/blob/main/translations/ubuntu-ddtp/ddtp-ubuntu-universe-sv.po); add a spelling regression.
 - Add the established Swedish technical term `standardindata` to both dictionaries and spelling regressions after Home Assistant Core review; the equivalent is used in [Microsoft Learn’s Swedish .NET documentation](https://learn.microsoft.com/sv-se/dotnet/api/system.diagnostics.processstartinfo.standardinputencoding?view=net-5.0).
 - Add the established Swedish compound `nedladdningskö` to both Hunspell dictionaries and the spelling regression corpus, supported by Swedish user documentation from [Synology](https://global.download.synology.com/download/Document/Software/UserGuide/Firmware/DSM/4.3/sve/Syno_UsersGuide_NAServer_sve.pdf) and [Suunto](https://www.suunto.com/sv-se/Support/faq-articles/suunto-app/how-can-i-download-offline-maps-to-my-suunto-watch/).

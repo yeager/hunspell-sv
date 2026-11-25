@@ -140,3 +140,4 @@ Sonos
 System
 Telldus
 Teslemetry
+WaterFurnace
