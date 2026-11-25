@@ -114,3 +114,13 @@ Norrbotten
 
 # Technical abbreviation
 ORP
+Modbus
+
+# Azure Speech language varieties and country name
+Guangxi
+Henan
+Jilu
+Shaanxi
+Türkiye
+Wu
+Zhongyuan

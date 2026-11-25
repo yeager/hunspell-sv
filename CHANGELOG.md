@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- Add `Modbus` and the Azure Speech proper names `Guangxi`, `Henan`, `Jilu`, `Shaanxi`, `Türkiye`, `Wu` and `Zhongyuan` to the Swedish Hunspell dictionaries, with regressions for reviewed compounds.
+- Add `Modbus` as a Home Assistant protocol name to the Swedish Hunspell dictionaries; regression-check `Modbus-hubben`, the established spelling already present in HA translation memory.
 - Add the Swedish language names `kannada`, `malayalam`, `marathi`, `odia`, `sundanesiska` and `telugu` after the Home Assistant voice-locale review. Their spellings are supported by [NE on Kannada and Malayalam](https://www.ne.se/uppslagsverk/skola/avancerad/kannada), [NE on Marathi](https://www.ne.se/uppslagsverk/skola/avancerad/marathi), [NE on Odia/Oriya](https://www.ne.se/uppslagsverk/skola/avancerad/oriya) and [NE on Sundanesiska](https://www.ne.se/uppslagsverk/skola/avancerad/sundanesiska); all six are covered by spelling regressions.
 - Add the established Swedish IT term `dongel` after a localization review exposed a dictionary coverage gap; cite [Computer Sweden IT-ord](https://it-ord.computersweden.se/category/elektronisk-kommunikation/telekom/telefoni/mobilt/page/49/) and cover singular and plural forms in both dictionaries.
 - Add the established inflections of `API-token` exposed by the Home Assistant review to both dictionaries and the spelling regression corpus.

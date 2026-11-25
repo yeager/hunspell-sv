@@ -269,3 +269,15 @@ marathi
 odia
 sundanesiska
 telugu
+Modbus
+Modbus-hubben
+Guangxi
+Henan
+Jilu
+Shaanxi
+Türkiye
+Wu
+Zhongyuan
+Guangxi-accent
+Jilu-mandarin
+Zhongyuan-mandarin
