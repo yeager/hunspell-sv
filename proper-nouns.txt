@@ -145,3 +145,4 @@ System
 Telldus
 Teslemetry
 WaterFurnace
+SMA

@@ -174,7 +174,7 @@ frequency alone is not evidence that a spelling is correct. New entries receive
 |------|-------------|
 | `sv_SE.dic` | Main dictionary (279K entries with affix flags) |
 | `sv_SE.aff` | Affix rules file |
-| `sv_SE_expanded.dic` | Historical supplementary dictionary (166,902 entries; still contains affix flags) |
+| `sv_SE_expanded.dic` | Historical supplementary dictionary (166,964 entries; still contains affix flags) |
 | `sv_SE_expanded.aff` | Affix and compound rules for the supplementary dictionary |
 
 ## Review workflow

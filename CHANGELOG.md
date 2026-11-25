@@ -1,3 +1,4 @@
+- Add reviewed Home Assistant term “upptäckbar” and SMA Solar proper noun after spell-check false positives.
 - Add the reviewed Home Assistant brands `Tibber`, `OpenAI` and `Proxmox` to both dictionaries and the proper-noun reference after spell-check false positives.
 # Changes
 
