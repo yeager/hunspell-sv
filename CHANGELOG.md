@@ -1,5 +1,9 @@
 # Changes
 
+## Unreleased
+
+- Add the established Swedish IT term `dongel` after a localization review exposed a dictionary coverage gap; cite [Computer Sweden IT-ord](https://it-ord.computersweden.se/category/elektronisk-kommunikation/telekom/telefoni/mobilt/page/49/) and cover singular and plural forms in both dictionaries.
+
 ## 2026.11.16
 
 - Add reviewed Blender action-slot terms and compositing terminology.

@@ -250,3 +250,7 @@ bildrutefrekvens
 kromakanal
 kromakanalen
 ORP
+dongel
+dongeln
+donglar
+donglarna
