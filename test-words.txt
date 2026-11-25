@@ -335,3 +335,11 @@ börvärdet
 börvärden
 börvärdena
 VELUX
+DPT
+DPT:s
+DPT-baserade
+PM1
+PM2
+PM4
+PM10
+VOC

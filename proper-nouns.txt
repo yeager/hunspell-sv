@@ -178,3 +178,9 @@ Actron
 Velbus
 KLF200
 VELUX
+DPT
+PM1
+PM2
+PM4
+PM10
+VOC
