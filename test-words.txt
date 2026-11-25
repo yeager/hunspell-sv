@@ -263,3 +263,9 @@ dongeln
 donglar
 donglarna
 USB-dongel
+kannada
+malayalam
+marathi
+odia
+sundanesiska
+telugu
