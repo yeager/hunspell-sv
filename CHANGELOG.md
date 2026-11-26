@@ -166,3 +166,5 @@ The catalogue is a curated regression source, not a complete Swedish grammar.
 - Add IDrive e2 product identifier and compounds.
 
 - Add Mastodon product-name compounds found in Home Assistant Core review.
+
+- Add Advantage Air, Daikin, Hypontech, Indevolt, MTA and SmartThings vocabulary from Home Assistant Core review.
