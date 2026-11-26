@@ -6,6 +6,7 @@ LibreOffice
 GNOME
 KDE
 Wayland
+Homee
 systemd
 Thunderbird
 Chromium

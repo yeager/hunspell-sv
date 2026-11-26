@@ -63,7 +63,8 @@ class BuildTests(unittest.TestCase):
                 'sci-fi-explosion', 'sci-fi-larm', 'sci-fi-utrustning', 'slädbjällror',
                 'susljud', 'hissklocka', 'sonarsignal',
                 'fläktlägeskommando', 'fläktlägeskommandon',
-                'svänglägeskommando', 'svänglägeskommandon'}
+                'svänglägeskommando', 'svänglägeskommandon',
+                'Homee', 'homee-enheten'}
         good.update({'förinfusion', 'förinfusionen', 'förinfusioner', 'förinfusionstid'})
         bad = {'zzqxxzz', 'stavvningskontroll'}
         for name in ('sv_SE', 'sv_SE_expanded'):
