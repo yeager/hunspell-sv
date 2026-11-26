@@ -814,3 +814,7 @@ Mealie
 SmartThings
 SmartThings-enhet
 Time
+Duntvätt
+vinklingstid
+dimningsnivå
+Fasstyrning
