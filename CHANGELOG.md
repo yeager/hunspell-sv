@@ -156,3 +156,5 @@ The catalogue is a curated regression source, not a complete Swedish grammar.
 - Add Ghost, SmartTub, and SocialWeb product terms and compounds from Home Assistant Core review.
 
 - Add IntelliClima, Globalping, and PTZ/SIP forms found in Home Assistant Core review.
+
+- Add Homevolt/Victron phase and lock-slot terms found in Home Assistant Core review.

@@ -291,3 +291,6 @@ Globalping
 IntelliClima
 PTZ
 SIP
+E-Shift
+HomeLink
+Homevolt
