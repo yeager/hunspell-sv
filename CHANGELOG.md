@@ -158,3 +158,5 @@ The catalogue is a curated regression source, not a complete Swedish grammar.
 - Add IntelliClima, Globalping, and PTZ/SIP forms found in Home Assistant Core review.
 
 - Add Homevolt/Victron phase and lock-slot terms found in Home Assistant Core review.
+
+- Add Immich, Splunk, AQI/MIME and 24-hour measurement terms from Home Assistant Core review.
