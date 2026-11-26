@@ -70,7 +70,7 @@ class BuildTests(unittest.TestCase):
         good = set((ROOT / 'test-words.txt').read_text().split())
         good.update({'katt', 'katten', 'katter', 'katterna', 'katternas',
                      'springa', 'springer', 'sprang', 'sprungit', 'fallucka'})
-        bad = {'bilbil', 'datordator', 'falllucka', 'smörgåss', 'säkerhett', 'översätning'}
+        bad = {'bilbil', 'datordator', 'falllucka', 'smörgåss', 'säkerhett', 'översätning', 'bossh'}
         for name in ('sv_SE', 'sv_SE_expanded'):
             with self.subTest(dictionary=name):
                 self.assertEqual(build.check_hunspell(good | bad, ROOT / name), bad)

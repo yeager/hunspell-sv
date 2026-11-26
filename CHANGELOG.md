@@ -9,6 +9,7 @@
 
 ## 2026.11.26
 
+- Add the valid compound `installatörskod` and its forms, `utfasad` and its forms, and the Jewish Calendar names Adot Mizrah, Ashkenaz, Nusach, Omer and Sfarad to both dictionaries and spelling regressions. The Home Assistant [Count the Omer action](https://www.home-assistant.io/actions/jewish_calendar.count_omer/) defines the specialist names; SAOB documents `fasa ut` and the participle `utfasad` ([utfasa](https://svenska.se/?q=utfasa)).
 - Add Home Assistant product names, including Google Cast, technical abbreviations and their API compounds after the Core review exposed valid UI terms as Hunspell false positives; add spelling regressions.
 - Add `avlarmat` and its inflections, coffee term `förbryggning` and unit `rpm` after the Core review exposed them as valid Swedish UI words.
 

@@ -49,8 +49,8 @@ Modern Swedish dictionary for Hunspell spell checking.
 
 | Metric | Value |
 |--------|-------|
-| **Dictionary entries** | 279 303 |
-| **Expanded entries** | 167 010 |
+| **Dictionary entries** | 279 468 |
+| **Expanded entries** | 167 177 |
 | **Base** | SFOL 2.42 (Den Stora Fria Ordlistan) |
 | **SALDO + Folkets Lexikon** | 18 052 words from Språkbanken |
 | **SALDOM paradigm-mapped** | 17 684 words with affix flags |
@@ -172,9 +172,9 @@ frequency alone is not evidence that a spelling is correct. New entries receive
 
 | File | Description |
 |------|-------------|
-| `sv_SE.dic` | Main dictionary (279K entries with affix flags) |
+| `sv_SE.dic` | Main dictionary (279,468 entries with affix flags) |
 | `sv_SE.aff` | Affix rules file |
-| `sv_SE_expanded.dic` | Historical supplementary dictionary (166,999 entries; still contains affix flags) |
+| `sv_SE_expanded.dic` | Historical supplementary dictionary (167,177 entries; still contains affix flags) |
 | `sv_SE_expanded.aff` | Affix and compound rules for the supplementary dictionary |
 
 ## Review workflow

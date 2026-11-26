@@ -226,6 +226,13 @@ mDNS
 NextDNS
 RPC
 
+# Home Assistant Bosch Alarm and Jewish Calendar terminology, 2026-11-26
+Adot Mizrah
+Ashkenaz
+Nusach
+Omer
+Sfarad
+
 # Names encountered in Home Assistant Core review
 Comelit
 Tado
