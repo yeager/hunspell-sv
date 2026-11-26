@@ -688,3 +688,5 @@ Prana
 Prana-enhet
 Prana-enheten
 S3-kompatibel
+förbikoppling
+Förbikoppling
