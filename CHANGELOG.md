@@ -114,3 +114,5 @@
 The catalogue is a curated regression source, not a complete Swedish grammar.
 
 ## Unreleased
+
+- Add the Reolink camera term `linjekorsning`, the compounds `intrångsdetektering` and `uppspelningskö` with inflections, and the product name `Pterodactyl`; add spelling regressions after Home Assistant Core review. `uppspelningskö` is supported by the Swedish FOSS term bank entry “Add to Play Queue” → “Lägg till i uppspelningskö”.

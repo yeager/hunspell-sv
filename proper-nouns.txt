@@ -233,3 +233,4 @@ Switcher
 Zengge
 WHOIS
 OTA
+Pterodactyl
