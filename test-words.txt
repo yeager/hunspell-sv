@@ -653,3 +653,10 @@ LANnouncer-appen
 molnintegration
 molnintegrationen
 SFTP-lagring
+extruder
+extrudern
+extrudrar
+extrudrarna
+extrudrars
+extrudertemperatur
+Extrudertemperatur
