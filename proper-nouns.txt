@@ -299,3 +299,11 @@ AQIN
 Immich
 MIME
 Splunk
+Anthropic
+CEC
+Entra
+HEC
+IDrive
+PerfectDry
+PowerFresh
+QuickPowerDry

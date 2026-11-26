@@ -160,3 +160,7 @@ The catalogue is a curated regression source, not a complete Swedish grammar.
 - Add Homevolt/Victron phase and lock-slot terms found in Home Assistant Core review.
 
 - Add Immich, Splunk, AQI/MIME and 24-hour measurement terms from Home Assistant Core review.
+
+- Add Home Assistant Microsoft Entra and appliance terms plus Swedish app-registration compounds.
+
+- Add IDrive e2 product identifier and compounds.
