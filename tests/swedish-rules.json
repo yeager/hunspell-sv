@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "scope": "Modern svensk standardskrift, med uttryckligt angivna varianter och stilskillnader.",
   "warning": "Urval för feldiagnostik; inte heltäckande grammatik eller representativt kvalitetsmått.",
   "cases": [
@@ -2688,6 +2688,17 @@
       "text": "timerläge",
       "expected_accept": true,
       "basis": "Tillämpning av Språkrådets huvudregel att sammansättningar skrivs ihop.",
+      "sources": [
+        "https://www.isof.se/download/18.17dda5f1791cdbd2873a99/1620030264840/Mynd-skrivreg2014-1.pdf"
+      ]
+    },
+    {
+      "id": "T238",
+      "rule": "R37",
+      "scope": "word",
+      "text": "utomhusläge",
+      "expected_accept": true,
+      "basis": "Eget Home Assistant UI-sammansättning: svenskt adverbial + läge skrivs ihop.",
       "sources": [
         "https://www.isof.se/download/18.17dda5f1791cdbd2873a99/1620030264840/Mynd-skrivreg2014-1.pdf"
       ]

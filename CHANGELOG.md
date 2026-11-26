@@ -168,3 +168,5 @@ The catalogue is a curated regression source, not a complete Swedish grammar.
 - Add Mastodon product-name compounds found in Home Assistant Core review.
 
 - Add Advantage Air, Daikin, Hypontech, Indevolt, MTA and SmartThings vocabulary from Home Assistant Core review.
+
+- Add the reviewed Home Assistant compound `utomhusläge` and its inflections after Hunspell flagged a Swedish mode label; add a regression case. No package release created because the 2026.11.26 release was already made today.
