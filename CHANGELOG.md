@@ -138,3 +138,5 @@ The catalogue is a curated regression source, not a complete Swedish grammar.
 - Add `torrent` and its established inflections (including `torrenter`) to both dictionaries after Home Assistant Core review identified the missing Swedish FOSS term; add regression coverage.
 
 - Add the Airobot brand and `Airobot-termostat` compound to both dictionaries and regression coverage after HA Core review found a false positive. No additional package release created today.
+
+- Add verified Home Assistant compounds `växelriktareffekt` and `växelriktartemperatur` to both dictionaries and spelling regressions.

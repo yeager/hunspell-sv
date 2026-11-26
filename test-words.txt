@@ -668,3 +668,5 @@ torrenterna
 torrenternas
 Airobot
 Airobot-termostat
+växelriktareffekt
+växelriktartemperatur

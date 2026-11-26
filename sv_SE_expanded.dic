@@ -1,4 +1,4 @@
-167420
+167422
 -/-06XY
 -/!b
 ---
@@ -166972,6 +166972,8 @@ donglarna
 WaterFurnace
 WaterFurnace-tjänsten
 växelriktarström
+växelriktareffekt
+växelriktartemperatur
 Tibber
 OpenAI
 Proxmox
