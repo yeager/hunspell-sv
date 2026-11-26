@@ -287,3 +287,7 @@ Xbox
 Ghost
 SmartTub
 SocialWeb
+Globalping
+IntelliClima
+PTZ
+SIP

@@ -154,3 +154,5 @@ The catalogue is a curated regression source, not a complete Swedish grammar.
 - Add Home Assistant Core HVAC, queue, and product-name compounds found during review to dictionaries and regression words.
 
 - Add Ghost, SmartTub, and SocialWeb product terms and compounds from Home Assistant Core review.
+
+- Add IntelliClima, Globalping, and PTZ/SIP forms found in Home Assistant Core review.
