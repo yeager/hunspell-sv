@@ -61,7 +61,9 @@ class BuildTests(unittest.TestCase):
                 'åsidosättning', 'fjärrvärd', 'trädvy', 'skogshuggartält',
                 'datakällobjekt', 'vertexfärg', 'sci-fi', 'sci-fi-stöt',
                 'sci-fi-explosion', 'sci-fi-larm', 'sci-fi-utrustning', 'slädbjällror',
-                'susljud', 'hissklocka', 'sonarsignal'}
+                'susljud', 'hissklocka', 'sonarsignal',
+                'fläktlägeskommando', 'fläktlägeskommandon',
+                'svänglägeskommando', 'svänglägeskommandon'}
         good.update({'förinfusion', 'förinfusionen', 'förinfusioner', 'förinfusionstid'})
         bad = {'zzqxxzz', 'stavvningskontroll'}
         for name in ('sv_SE', 'sv_SE_expanded'):
@@ -73,7 +75,7 @@ class BuildTests(unittest.TestCase):
         good = set((ROOT / 'test-words.txt').read_text().split())
         good.update({'katt', 'katten', 'katter', 'katterna', 'katternas',
                      'springa', 'springer', 'sprang', 'sprungit', 'fallucka'})
-        bad = {'bilbil', 'datordator', 'falllucka', 'smörgåss', 'säkerhett', 'översätning', 'bossh', 'slädbjällrorr', 'sussljud', 'sci-fi-stot', 'hissklockkka', 'sonarsignall'}
+        bad = {'bilbil', 'datordator', 'falllucka', 'smörgåss', 'säkerhett', 'översätning', 'bossh', 'slädbjällrorr', 'sussljud', 'sci-fi-stot', 'hissklockkka', 'sonarsignall', 'fläktlägeskommandonn', 'svänglägeskommandonn'}
         for name in ('sv_SE', 'sv_SE_expanded'):
             with self.subTest(dictionary=name):
                 self.assertEqual(build.check_hunspell(good | bad, ROOT / name), bad)

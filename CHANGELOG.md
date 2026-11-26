@@ -1,4 +1,5 @@
 - Add reviewed Home Assistant Core sound-label vocabulary to both dictionaries and spelling regressions: `sci-fi` compound support, `hissklocka`, `sonarsignal`, `slädbjällror` and `susljud`. SAOL supports `susljud`; Home Assistant review verifies the UI labels, and the Swedish Maritime Administration documents `bogvåg`. No package release created because the 2026.11.26 release was already made today.
+- Add the valid MQTT compounds `fläktlägeskommando` and `svänglägeskommando`, including plurals, after the HA Core review exposed false positives.
 - Add reviewed Home Assistant terms and device labels, including Namecheap DynamicDNS, HDFury HDMI identifiers, CO₂, befuktning and laddsession.
 - Add reviewed Home Assistant term “upptäckbar” and SMA Solar proper noun after spell-check false positives.
 - Add the reviewed Home Assistant brands `Tibber`, `OpenAI` and `Proxmox` to both dictionaries and the proper-noun reference after spell-check false positives.

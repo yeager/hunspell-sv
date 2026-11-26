@@ -49,8 +49,8 @@ Modern Swedish dictionary for Hunspell spell checking.
 
 | Metric | Value |
 |--------|-------|
-| **Dictionary entries** | 279 475 |
-| **Expanded entries** | 167 184 |
+| **Dictionary entries** | 279 479 |
+| **Expanded entries** | 167 188 |
 | **Base** | SFOL 2.42 (Den Stora Fria Ordlistan) |
 | **SALDO + Folkets Lexikon** | 18 052 words from Språkbanken |
 | **SALDOM paradigm-mapped** | 17 684 words with affix flags |
@@ -58,7 +58,7 @@ Modern Swedish dictionary for Hunspell spell checking.
 | **Added Datatermgruppen** | 50 IT/tech terms |
 | **Added SAOL 15** | 43 new words (2026) |
 | **Added proper nouns** | 117 software/brand/place names |
-| **Added custom terms** | 602 from review work |
+| **Added custom terms** | 606 from review work |
 | **Added compound morphemes** | 47 for better compound support |
 | **TM source** | 1 207 695 translation memory entries |
 | **License** | LGPL-3.0 |
@@ -172,9 +172,9 @@ frequency alone is not evidence that a spelling is correct. New entries receive
 
 | File | Description |
 |------|-------------|
-| `sv_SE.dic` | Main dictionary (279,475 entries with affix flags) |
+| `sv_SE.dic` | Main dictionary (279,479 entries with affix flags) |
 | `sv_SE.aff` | Affix rules file |
-| `sv_SE_expanded.dic` | Historical supplementary dictionary (167,184 entries; still contains affix flags) |
+| `sv_SE_expanded.dic` | Historical supplementary dictionary (167,188 entries; still contains affix flags) |
 | `sv_SE_expanded.aff` | Affix and compound rules for the supplementary dictionary |
 
 ## Review workflow

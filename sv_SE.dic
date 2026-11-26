@@ -1,4 +1,4 @@
-279475
+279479
 ,/1
 ---
 -/!b
@@ -65921,6 +65921,8 @@ fläkthastighet/XY
 fläkthörn
 fläktkyld/OY
 fläktkylning
+fläktlägeskommando
+fläktlägeskommandon
 fläktning/ADY
 fläktrem/AFIv
 fläktrockor
@@ -230650,6 +230652,8 @@ svängknack
 svängkolv
 svängkolvar
 svänglingen
+svänglägeskommando
+svänglägeskommandon
 svängmaskin
 svängmassa
 svängning/ADfGvY

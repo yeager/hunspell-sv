@@ -512,3 +512,7 @@ Nusach
 Omer
 Sfarad
 förinfusionstid
+fläktlägeskommando
+fläktlägeskommandon
+svänglägeskommando
+svänglägeskommandon
