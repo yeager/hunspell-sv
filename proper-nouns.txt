@@ -9,6 +9,7 @@ Wayland
 Homee
 Opower
 PlayStation
+GeoFence
 systemd
 Thunderbird
 Chromium

@@ -533,6 +533,7 @@ klipphöjdsområdena
 PlayStation
 Opower
 Opower-integrationen
+GeoFence
 Bosch
 Adot
 Ashkenaz
