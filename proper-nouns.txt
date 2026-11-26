@@ -276,3 +276,5 @@ PoolDose
 SFTP
 SSH
 LANnouncer
+NRGkick
+uHoo
