@@ -152,3 +152,5 @@ The catalogue is a curated regression source, not a complete Swedish grammar.
 - Add BTHome compound forms found in Home Assistant Core review to both dictionaries and regression words.
 
 - Add Home Assistant Core HVAC, queue, and product-name compounds found during review to dictionaries and regression words.
+
+- Add Ghost, SmartTub, and SocialWeb product terms and compounds from Home Assistant Core review.
