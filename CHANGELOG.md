@@ -119,6 +119,8 @@ The catalogue is a curated regression source, not a complete Swedish grammar.
 
 ## Unreleased
 
+- Added Home Assistant KNX terms and test coverage for `jalusiet`, `brytaktor`, `dimmeraktor`, `läsbegäran`, `timerlarm`, and industry-used `gateways`; recognized DALI, GroupValueRead, HSV, OAuth, OTP, RGBW, and XYY identifiers.
+
 - Added Home Assistant Core vocabulary: `datapunktstyp`, `inverterläge`, `jalusiets`, `jalusiställdon`, and `smartlast`.
 
 - Add the Reolink camera term `linjekorsning`, the compounds `intrångsdetektering` and `uppspelningskö` with inflections, and the product name `Pterodactyl`; add spelling regressions after Home Assistant Core review. `uppspelningskö` is supported by the Swedish FOSS term bank entry “Add to Play Queue” → “Lägg till i uppspelningskö”.

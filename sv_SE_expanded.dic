@@ -1,4 +1,4 @@
-167364
+167379
 -/-06XY
 -/!b
 ---
@@ -167363,3 +167363,18 @@ inverterläge/XY
 jalusiets/XY
 jalusiställdon/XY
 smartlast/XY
+Jalusiet/XY
+brytaktor/XY
+dimmeraktor/XY
+läsbegäran/XY
+timerlarm/XY
+gateways
+brytaktorer/XY
+dimmeraktorer/XY
+DALI
+GroupValueRead
+HSV
+OAuth
+OTP
+RGBW
+XYY

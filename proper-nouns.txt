@@ -256,3 +256,10 @@ WebSocket
 WDR
 Z-Wave
 Snapcast
+DALI
+GroupValueRead
+HSV
+OAuth
+OTP
+RGBW
+XYY
