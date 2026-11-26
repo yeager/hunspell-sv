@@ -795,3 +795,7 @@ e2-lagringsbehållare
 e2-slutpunkt
 e2-slutpunkten
 e2:s
+Mastodon
+Mastodon-instans
+Mastodon-konto
+Mastodon-kontot

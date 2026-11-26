@@ -164,3 +164,5 @@ The catalogue is a curated regression source, not a complete Swedish grammar.
 - Add Home Assistant Microsoft Entra and appliance terms plus Swedish app-registration compounds.
 
 - Add IDrive e2 product identifier and compounds.
+
+- Add Mastodon product-name compounds found in Home Assistant Core review.
