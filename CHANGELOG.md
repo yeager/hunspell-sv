@@ -119,6 +119,8 @@ The catalogue is a curated regression source, not a complete Swedish grammar.
 
 ## Unreleased
 
+- Added Home Assistant spellings `bayesiansk`, `bayesianska`, and `kodformat`, plus Niko Home Control brand tokens.
+
 - Added Home Assistant KNX terms and test coverage for `jalusiet`, `brytaktor`, `dimmeraktor`, `läsbegäran`, `timerlarm`, and industry-used `gateways`; recognized DALI, GroupValueRead, HSV, OAuth, OTP, RGBW, and XYY identifiers.
 
 - Added Home Assistant Core vocabulary: `datapunktstyp`, `inverterläge`, `jalusiets`, `jalusiställdon`, and `smartlast`.

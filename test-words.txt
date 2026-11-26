@@ -615,3 +615,8 @@ OTP
 RGBW
 XYY
 gateways
+bayesiansk
+bayesianska
+kodformat
+Niko
+Control

@@ -263,3 +263,8 @@ OAuth
 OTP
 RGBW
 XYY
+
+# Niko Home Control brand
+Niko
+Control
+Niko Home Control
