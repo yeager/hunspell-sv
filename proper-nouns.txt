@@ -248,3 +248,11 @@ Pterodactyl
 Coinbase
 Cloud
 Sleep
+Foscam
+NOx
+MID
+RTSP
+WebSocket
+WDR
+Z-Wave
+Snapcast

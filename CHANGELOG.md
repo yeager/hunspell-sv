@@ -123,3 +123,4 @@ The catalogue is a curated regression source, not a complete Swedish grammar.
 - Add reviewed Home Assistant terms and valid compounds for Husqvarna Automower (`geostaket`, `slingsensor`, `slingsignal`, `fällningssensor`, cutting-height labels), plus the product names PlayStation, Opower and GeoFence. No package release created because the 2026.11.26 release was already made today.
 - Add the reviewed Tesla preconditioning compounds and Home Assistant webhook forms; recognize Coinbase, Cloud and Sleep in preserved brand names.
 - Allow `engångs` outside compounds by correcting its Hunspell flags; the prior entry incorrectly marked it compound-only.
+- Add reviewed HA vocabulary for disk-life messages, OneWire input channels, Fyta plant thresholds, electrical RMS labels, Foscam, and related protocol names and compounds.
