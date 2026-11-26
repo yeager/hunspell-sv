@@ -271,3 +271,6 @@ Niko Home Control
 
 # Home Assistant product name
 PoolDose
+SFTP
+SSH
+LANnouncer

@@ -640,3 +640,16 @@ ORP-kalibreringslutning
 ORP-kalibreringstyp
 ORP-doseringstyp
 ORP-dosering
+vargyl
+vargylet
+rosastekt
+Boing
+Zapp
+SFTP
+SSH
+LANnouncer
+LANnouncer-integrationen
+LANnouncer-appen
+molnintegration
+molnintegrationen
+SFTP-lagring
