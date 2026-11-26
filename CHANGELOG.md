@@ -140,3 +140,5 @@ The catalogue is a curated regression source, not a complete Swedish grammar.
 - Add the Airobot brand and `Airobot-termostat` compound to both dictionaries and regression coverage after HA Core review found a false positive. No additional package release created today.
 
 - Add verified Home Assistant compounds `växelriktareffekt` and `växelriktartemperatur` to both dictionaries and spelling regressions.
+
+- Add the lowercase `ntfy` brand, Swedish compound `ntfy-ämne`, and the valid Miele compound `Kylningsfas` to both Hunspell dictionaries and regression words after Home Assistant review.

@@ -670,3 +670,6 @@ Airobot
 Airobot-termostat
 växelriktareffekt
 växelriktartemperatur
+ntfy
+ntfy-ämne
+Kylningsfas

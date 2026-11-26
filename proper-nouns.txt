@@ -8,6 +8,7 @@ GNOME
 KDE
 Wayland
 Homee
+ntfy
 Opower
 PlayStation
 GeoFence
