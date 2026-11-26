@@ -136,3 +136,5 @@ The catalogue is a curated regression source, not a complete Swedish grammar.
 - Add `extruder` and its common forms/compound regression to both dictionaries after the HA Core review found that Hunspell rejected `Extrudertemperatur`. RISE uses *extruder* as Swedish technical terminology for 3D-printing equipment ([RISE: 3D-printing](https://www.ri.se/sv/berattelse/3d-printing-viktig-del-i-industrins-digitalisering)). No package release created because the 2026.11.26 release was already made today.
 
 - Add `torrent` and its established inflections (including `torrenter`) to both dictionaries after Home Assistant Core review identified the missing Swedish FOSS term; add regression coverage.
+
+- Add the Airobot brand and `Airobot-termostat` compound to both dictionaries and regression coverage after HA Core review found a false positive. No additional package release created today.

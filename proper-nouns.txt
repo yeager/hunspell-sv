@@ -1,5 +1,6 @@
 # Software brands and proper nouns for Swedish hunspell
 # Software
+Airobot
 Ubuntu
 Firefox
 LibreOffice

@@ -666,3 +666,5 @@ torrentens
 torrenter
 torrenterna
 torrenternas
+Airobot
+Airobot-termostat
