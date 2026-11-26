@@ -1,3 +1,4 @@
+- Add the valid Swedish terms `kodtolkning` and `mätstatus` to both dictionaries and spelling regressions after the Home Assistant Core review exposed false positives. No second package release created today.
 - Add the Powerfox brand and reviewed compound `Powerfox-tjänsten` to both dictionaries and spelling regressions after historic HA strings were flagged. No second package release created today.
 - Add Fully and Sonarr proper nouns and the reviewed compound `Sonarr-post` to both dictionaries and regressions after HA Core review exposed false positives. No second package release created because 2026.11.26 was released earlier today.
 - Add the verified Swedish compounds `Duntvätt`, `vinklingstid`, `dimningsnivå` and `Fasstyrning` to both dictionaries and spelling regressions after Home Assistant Core review showed valid UI compounds being flagged. No second package release created because 2026.11.26 was released earlier today.

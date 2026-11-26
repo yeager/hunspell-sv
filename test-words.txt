@@ -823,3 +823,5 @@ Sonarr
 Sonarr-post
 Powerfox
 Powerfox-tjänsten
+kodtolkning
+mätstatus
