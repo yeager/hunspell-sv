@@ -119,6 +119,8 @@ The catalogue is a curated regression source, not a complete Swedish grammar.
 
 ## Unreleased
 
+- Added Home Assistant Core vocabulary: `datapunktstyp`, `inverterläge`, `jalusiets`, `jalusiställdon`, and `smartlast`.
+
 - Add the Reolink camera term `linjekorsning`, the compounds `intrångsdetektering` and `uppspelningskö` with inflections, and the product name `Pterodactyl`; add spelling regressions after Home Assistant Core review. `uppspelningskö` is supported by the Swedish FOSS term bank entry “Add to Play Queue” → “Lägg till i uppspelningskö”.
 - Add reviewed Home Assistant terms and valid compounds for Husqvarna Automower (`geostaket`, `slingsensor`, `slingsignal`, `fällningssensor`, cutting-height labels), plus the product names PlayStation, Opower and GeoFence. No package release created because the 2026.11.26 release was already made today.
 - Add the reviewed Tesla preconditioning compounds and Home Assistant webhook forms; recognize Coinbase, Cloud and Sleep in preserved brand names.

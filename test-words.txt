@@ -595,3 +595,8 @@ Snapcast-åtgärd
 Snapcast-åtgärder
 Snapcast-åtgärderna
 Snapcasts
+datapunktstyp
+inverterläge
+jalusiets
+jalusiställdon
+smartlast
