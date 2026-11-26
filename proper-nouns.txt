@@ -268,3 +268,6 @@ XYY
 Niko
 Control
 Niko Home Control
+
+# Home Assistant product name
+PoolDose

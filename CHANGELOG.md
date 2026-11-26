@@ -119,6 +119,8 @@ The catalogue is a curated regression source, not a complete Swedish grammar.
 
 ## Unreleased
 
+- Add verified Home Assistant terms for Reolink speech volume, PoolDose, MQTT payloads, and reviewed Alexa sound labels to both Swedish Hunspell dictionaries and the regression corpus.
+
 - Added Home Assistant spellings `bayesiansk`, `bayesianska`, and `kodformat`, plus Niko Home Control brand tokens.
 
 - Added Home Assistant KNX terms and test coverage for `jalusiet`, `brytaktor`, `dimmeraktor`, `läsbegäran`, `timerlarm`, and industry-used `gateways`; recognized DALI, GroupValueRead, HSV, OAuth, OTP, RGBW, and XYY identifiers.
