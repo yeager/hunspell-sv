@@ -690,3 +690,6 @@ Prana-enheten
 S3-kompatibel
 förbikoppling
 Förbikoppling
+BTHome-enhet
+BTHome-enheten
+BTHome-enheter

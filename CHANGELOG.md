@@ -148,3 +148,5 @@ The catalogue is a curated regression source, not a complete Swedish grammar.
 - Add Cloudflare, Prana and the reviewed compounds `Cloudflare`/`Prana-enhet`/`S3-kompatibel` to Hunspell dictionaries and regression words after Home Assistant review.
 
 - Add `förbikoppling` and its sentence-case form to cover a valid Home Assistant HVAC term flagged during Core review.
+
+- Add BTHome compound forms found in Home Assistant Core review to both dictionaries and regression words.

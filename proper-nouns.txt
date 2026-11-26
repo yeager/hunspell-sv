@@ -280,3 +280,4 @@ NRGkick
 uHoo
 Cloudflare
 Prana
+BTHome
