@@ -7,6 +7,8 @@ GNOME
 KDE
 Wayland
 Homee
+Opower
+PlayStation
 systemd
 Thunderbird
 Chromium

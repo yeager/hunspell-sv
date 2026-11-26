@@ -120,3 +120,4 @@ The catalogue is a curated regression source, not a complete Swedish grammar.
 ## Unreleased
 
 - Add the Reolink camera term `linjekorsning`, the compounds `intrångsdetektering` and `uppspelningskö` with inflections, and the product name `Pterodactyl`; add spelling regressions after Home Assistant Core review. `uppspelningskö` is supported by the Swedish FOSS term bank entry “Add to Play Queue” → “Lägg till i uppspelningskö”.
+- Add reviewed Home Assistant terms and valid compounds for Husqvarna Automower (`geostaket`, `slingsensor`, `slingsignal`, `fällningssensor`, cutting-height labels), plus the product names PlayStation and Opower. No package release created because the 2026.11.26 release was already made today.
