@@ -682,3 +682,9 @@ uHoo
 uHoo-API-nyckel
 uHoo-konto
 uHoo-kontot
+Cloudflare
+Cloudflares
+Prana
+Prana-enhet
+Prana-enheten
+S3-kompatibel

@@ -278,3 +278,5 @@ SSH
 LANnouncer
 NRGkick
 uHoo
+Cloudflare
+Prana

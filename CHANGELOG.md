@@ -144,3 +144,5 @@ The catalogue is a curated regression source, not a complete Swedish grammar.
 - Add the lowercase `ntfy` brand, Swedish compound `ntfy-ämne`, and the valid Miele compound `Kylningsfas` to both Hunspell dictionaries and regression words after Home Assistant review.
 
 - Add the verified Swedish electrical compound `fasförskjutningsfel`, NRGkick and uHoo brand spellings, and their reviewed Swedish compounds to both dictionaries and regression words after Home Assistant review.
+
+- Add Cloudflare, Prana and the reviewed compounds `Cloudflare`/`Prana-enhet`/`S3-kompatibel` to Hunspell dictionaries and regression words after Home Assistant review.
