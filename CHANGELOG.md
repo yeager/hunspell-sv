@@ -1,3 +1,5 @@
+- Add the Swedish Home Assistant audio terms `surroundkanal` and `surroundkanaler` to both dictionaries and spelling regressions. No second package release created today.
+- Add the terminology-bank term `Dubbelmono` to both dictionaries and spelling regressions after the HA Core review exposed this valid audio term as a false positive. No second package release created today.
 - Add the Enphase measurement abbreviation and reviewed HA product names `CT`, `Last-CT`, `Produktions-CT`, `EVSE-CT`, `Poweropti`, `Satel` and `Integra` to both dictionaries and regressions after Core review exposed false positives.
 - Add the valid Swedish terms `kodtolkning` and `mätstatus` to both dictionaries and spelling regressions after the Home Assistant Core review exposed false positives. No second package release created today.
 - Add the Powerfox brand and reviewed compound `Powerfox-tjänsten` to both dictionaries and spelling regressions after historic HA strings were flagged. No second package release created today.

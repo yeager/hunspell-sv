@@ -834,3 +834,6 @@ Poweropti-enheten
 Satel
 Integra
 Integra-integrationen
+Dubbelmono
+surroundkanal
+surroundkanaler
