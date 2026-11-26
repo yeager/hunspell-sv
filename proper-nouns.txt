@@ -281,3 +281,6 @@ uHoo
 Cloudflare
 Prana
 BTHome
+Fressnapf
+Radarr
+Xbox
