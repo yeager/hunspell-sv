@@ -825,3 +825,12 @@ Powerfox
 Powerfox-tjänsten
 kodtolkning
 mätstatus
+CT
+Last-CT
+Produktions-CT
+EVSE-CT
+Poweropti
+Poweropti-enheten
+Satel
+Integra
+Integra-integrationen

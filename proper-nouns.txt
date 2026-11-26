@@ -320,3 +320,6 @@ Mealie
 SmartThings
 AM
 Time
+Poweropti
+Satel
+Integra

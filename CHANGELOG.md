@@ -1,3 +1,4 @@
+- Add the Enphase measurement abbreviation and reviewed HA product names `CT`, `Last-CT`, `Produktions-CT`, `EVSE-CT`, `Poweropti`, `Satel` and `Integra` to both dictionaries and regressions after Core review exposed false positives.
 - Add the valid Swedish terms `kodtolkning` and `mätstatus` to both dictionaries and spelling regressions after the Home Assistant Core review exposed false positives. No second package release created today.
 - Add the Powerfox brand and reviewed compound `Powerfox-tjänsten` to both dictionaries and spelling regressions after historic HA strings were flagged. No second package release created today.
 - Add Fully and Sonarr proper nouns and the reviewed compound `Sonarr-post` to both dictionaries and regressions after HA Core review exposed false positives. No second package release created because 2026.11.26 was released earlier today.
