@@ -1,6 +1,7 @@
 # Software brands and proper nouns for Swedish hunspell
 # Software
 Airobot
+Fully
 Ubuntu
 Firefox
 LibreOffice
@@ -9,8 +10,10 @@ KDE
 Wayland
 Homee
 ntfy
+Sonarr
 Opower
 PlayStation
+Powerfox
 GeoFence
 systemd
 Thunderbird

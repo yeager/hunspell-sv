@@ -818,3 +818,8 @@ Duntvätt
 vinklingstid
 dimningsnivå
 Fasstyrning
+Fully
+Sonarr
+Sonarr-post
+Powerfox
+Powerfox-tjänsten
