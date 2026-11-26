@@ -60,6 +60,7 @@ class BuildTests(unittest.TestCase):
                 'lösenfras', 'meddelandekö', 'symlänk', 'filbläddrare', 'standardindata', 'USB-dongel', 'usb-dongel',
                 'åsidosättning', 'fjärrvärd', 'trädvy', 'skogshuggartält',
                 'datakällobjekt', 'vertexfärg'}
+        good.update({'förinfusion', 'förinfusionen', 'förinfusioner', 'förinfusionstid'})
         bad = {'zzqxxzz', 'stavvningskontroll'}
         for name in ('sv_SE', 'sv_SE_expanded'):
             with self.subTest(dictionary=name):

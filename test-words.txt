@@ -502,3 +502,4 @@ Mizrah
 Nusach
 Omer
 Sfarad
+förinfusionstid
