@@ -245,3 +245,6 @@ Zengge
 WHOIS
 OTA
 Pterodactyl
+Coinbase
+Cloud
+Sleep
