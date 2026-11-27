@@ -329,3 +329,6 @@ Ollama
 WiiM
 Growatt
 Glow
+UniFi
+Roth
+Touchline
