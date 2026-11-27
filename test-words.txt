@@ -1017,3 +1017,7 @@ apphemlighet
 apphemligheten
 apphemligheter
 apphemligheterna
+datapunkttyp
+datapunkttypen
+datapunkttyper
+datapunkttyperna

@@ -2779,6 +2779,50 @@
       "sources": [
         "https://www.isof.se/download/18.17dda5f1791cdbd2873a99/1620030264840/Mynd-skrivreg2014-1.pdf"
       ]
+    },
+    {
+      "id": "T250",
+      "rule": "R37",
+      "scope": "word",
+      "text": "datapunkttyp",
+      "expected_accept": true,
+      "basis": "Granskad svensk KNX-term: datapunkt + typ, med vanliga böjningsformer.",
+      "sources": [
+        "https://www.isof.se/download/18.17dda5f1791cdbd2873a99/1620030264840/Mynd-skrivreg2014-1.pdf"
+      ]
+    },
+    {
+      "id": "T251",
+      "rule": "R37",
+      "scope": "word",
+      "text": "datapunkttypen",
+      "expected_accept": true,
+      "basis": "Granskad svensk KNX-term: datapunkt + typ, med vanliga böjningsformer.",
+      "sources": [
+        "https://www.isof.se/download/18.17dda5f1791cdbd2873a99/1620030264840/Mynd-skrivreg2014-1.pdf"
+      ]
+    },
+    {
+      "id": "T252",
+      "rule": "R37",
+      "scope": "word",
+      "text": "datapunkttyper",
+      "expected_accept": true,
+      "basis": "Granskad svensk KNX-term: datapunkt + typ, med vanliga böjningsformer.",
+      "sources": [
+        "https://www.isof.se/download/18.17dda5f1791cdbd2873a99/1620030264840/Mynd-skrivreg2014-1.pdf"
+      ]
+    },
+    {
+      "id": "T253",
+      "rule": "R37",
+      "scope": "word",
+      "text": "datapunkttyperna",
+      "expected_accept": true,
+      "basis": "Granskad svensk KNX-term: datapunkt + typ, med vanliga böjningsformer.",
+      "sources": [
+        "https://www.isof.se/download/18.17dda5f1791cdbd2873a99/1620030264840/Mynd-skrivreg2014-1.pdf"
+      ]
     }
   ]
 }
