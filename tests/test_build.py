@@ -64,7 +64,7 @@ class BuildTests(unittest.TestCase):
                 'susljud', 'hissklocka', 'sonarsignal',
                 'fläktlägeskommando', 'fläktlägeskommandon',
                 'svänglägeskommando', 'svänglägeskommandon',
-                'Homee', 'homee-enheten', 'emojier', 'emojierna', 'emojikortkoder'}
+                'Homee', 'homee-enheten', 'Portainers', 'emojier', 'emojierna', 'emojikortkoder'}
         good.update({'förinfusion', 'förinfusionen', 'förinfusioner', 'förinfusionstid'})
         bad = {'zzqxxzz', 'stavvningskontroll'}
         for name in ('sv_SE', 'sv_SE_expanded'):

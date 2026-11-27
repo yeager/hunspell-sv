@@ -356,3 +356,14 @@ Zonneplan
 Recorder
 XKNXProject
 XKNXProject-version
+Belgium
+ENGIE
+MELCloud
+Portainer
+SQLite
+Electric
+Kiwi
+ENGIE Belgium
+ENGIE-användarhantering
+ENGIE-konto
+Portainers
