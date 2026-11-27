@@ -333,3 +333,6 @@ UniFi
 Roth
 Touchline
 BMS
+BatteryLife
+PowerAssist
+VarioPerfect

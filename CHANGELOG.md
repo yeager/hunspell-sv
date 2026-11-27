@@ -1,3 +1,4 @@
+- Add the verified Bosch `VarioPerfect` and Victron `BatteryLife`/`PowerAssist` feature names to Hunspell dictionaries and regression words after Home Assistant Core review. No package release created today.
 - Add the verified electrical compound `fasföljdslarm` to both dictionaries and spelling regressions after HA Core review exposed a valid term that Hunspell incorrectly flagged. No additional release created today.
 - Add the lowercase form `bulkfas` and the technical acronym `MPPT` to both dictionaries and spelling regressions after Victron GX review exposed valid Swedish/technical terms that Hunspell flagged. No additional release created today.
 - Add the reviewed technical compound `råstatus` to both dictionaries and spelling regressions after HA Core review exposed it as a valid label that Hunspell incorrectly flagged. No release created.

@@ -880,3 +880,6 @@ råstatus
 bulkfas
 MPPT
 fasföljdslarm
+BatteryLife
+PowerAssist
+VarioPerfect

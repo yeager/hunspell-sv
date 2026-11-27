@@ -1,4 +1,4 @@
-167632
+167635
 -/-06XY
 -/!b
 ---
@@ -167631,3 +167631,6 @@ råstatus
 bulkfas
 MPPT
 fasföljdslarm
+BatteryLife
+PowerAssist
+VarioPerfect

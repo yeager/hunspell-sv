@@ -172,9 +172,9 @@ frequency alone is not evidence that a spelling is correct. New entries receive
 
 | File | Description |
 |------|-------------|
-| `sv_SE.dic` | Main dictionary (279,929 entries with affix flags) |
+| `sv_SE.dic` | Main dictionary (279,932 entries with affix flags) |
 | `sv_SE.aff` | Affix rules file |
-| `sv_SE_expanded.dic` | Historical supplementary dictionary (167,632 entries; still contains affix flags) |
+| `sv_SE_expanded.dic` | Historical supplementary dictionary (167,635 entries; still contains affix flags) |
 | `sv_SE_expanded.aff` | Affix and compound rules for the supplementary dictionary |
 
 ## Review workflow

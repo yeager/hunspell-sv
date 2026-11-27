@@ -1,4 +1,4 @@
-279929
+279932
 ,/1
 ---
 -/!b
@@ -279928,3 +279928,6 @@ råstatus
 bulkfas
 MPPT
 fasföljdslarm
+BatteryLife
+PowerAssist
+VarioPerfect
