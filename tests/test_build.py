@@ -78,7 +78,7 @@ class BuildTests(unittest.TestCase):
                      'springa', 'springer', 'sprang', 'sprungit', 'fallucka',
                      'kvävemonoxidnivå', 'kvävemonoxidnivån', 'kvävemonoxidnivåer',
                      'kvävemonoxidnivåns', 'kvävemonoxidnivåerna', 'kvävemonoxidnivåernas',
-                     'TVOC-sensor', 'TVOC-sensorn', 'dimning', 'dimningen'})
+                     'TVOC-sensor', 'TVOC-sensorn', 'dimning', 'dimningen', 'Chess960'})
         bad = {'bilbil', 'datordator', 'falllucka', 'smörgåss', 'säkerhett', 'översätning', 'bossh', 'slädbjällrorr', 'sussljud', 'sci-fi-stot', 'hissklockkka', 'sonarsignall', 'fläktlägeskommandonn', 'svänglägeskommandonn', 'emojiiier'}
         for name in ('sv_SE', 'sv_SE_expanded'):
             with self.subTest(dictionary=name):
