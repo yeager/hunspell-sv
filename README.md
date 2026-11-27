@@ -49,8 +49,8 @@ Modern Swedish dictionary for Hunspell spell checking.
 
 | Metric | Value |
 |--------|-------|
-| **Dictionary entries** | 279 901 |
-| **Expanded entries** | 167 604 |
+| **Dictionary entries** | 279 906 |
+| **Expanded entries** | 167 610 |
 | **Base** | SFOL 2.42 (Den Stora Fria Ordlistan) |
 | **SALDO + Folkets Lexikon** | 18 052 words from Språkbanken |
 | **SALDOM paradigm-mapped** | 17 684 words with affix flags |

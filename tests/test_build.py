@@ -75,7 +75,9 @@ class BuildTests(unittest.TestCase):
     def test_project_vocabulary_inflections_and_compounds(self):
         good = set((ROOT / 'test-words.txt').read_text().split())
         good.update({'katt', 'katten', 'katter', 'katterna', 'katternas',
-                     'springa', 'springer', 'sprang', 'sprungit', 'fallucka'})
+                     'springa', 'springer', 'sprang', 'sprungit', 'fallucka',
+                     'kvävemonoxidnivå', 'kvävemonoxidnivån', 'kvävemonoxidnivåer',
+                     'kvävemonoxidnivåns', 'kvävemonoxidnivåerna', 'kvävemonoxidnivåernas'})
         bad = {'bilbil', 'datordator', 'falllucka', 'smörgåss', 'säkerhett', 'översätning', 'bossh', 'slädbjällrorr', 'sussljud', 'sci-fi-stot', 'hissklockkka', 'sonarsignall', 'fläktlägeskommandonn', 'svänglägeskommandonn', 'emojiiier'}
         for name in ('sv_SE', 'sv_SE_expanded'):
             with self.subTest(dictionary=name):
