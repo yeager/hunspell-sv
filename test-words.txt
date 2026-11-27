@@ -924,3 +924,15 @@ rökgasställdon
 märkström
 Wi-Fi
 Wi-Fi-nätverk
+LibreNMS
+LibreNMS-instans
+LibreNMS-instansen
+PM0
+Prism
+Prism-enheten
+Prism-meddelanden
+Silla
+Silla-app
+Silla-appen
+Silla-appens
+midnattsolsperioden

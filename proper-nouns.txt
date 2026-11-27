@@ -343,3 +343,8 @@ TLS
 Ethernet
 NexBlue
 Wi-Fi
+
+# Home Assistant integrations and product names reviewed 2026-11-27
+LibreNMS
+Prism
+Silla
