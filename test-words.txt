@@ -1034,3 +1034,15 @@ Threema
 SwitchBot
 SwitchBots
 SwitchBot-appen
+SmartyPlants
+SmartyPlants-appen
+WiZ
+WiZ-enheten
+Acmeda
+Acmeda-hubben
+Rejseplanen.dk
+pollning
+pollningen
+pollningar
+pollningarna
+pollningsintervall

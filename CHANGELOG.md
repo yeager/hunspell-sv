@@ -1,3 +1,4 @@
+- Add SmartyPlants, WiZ, Acmeda and Rejseplanen product forms plus Swedish `pollning` inflections after HA Core review exposed Hunspell coverage gaps. No additional release created today.
 - Add Threema and SwitchBot names and the reviewed `SwitchBot-appen` compound to both Hunspell dictionaries and spelling regressions. No additional release created today.
 - Add the Insteon product name and its reviewed Home Assistant compound to both Hunspell dictionaries and spelling regressions. No additional release created today.
 - Add Gemini product-name compounds and Swedish inflections of `alias` after HA Core review exposed dictionary coverage gaps; add regressions. No additional release created today.

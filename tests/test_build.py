@@ -71,7 +71,10 @@ class BuildTests(unittest.TestCase):
                      'aliaset', 'aliasen', 'aliaser', 'aliaserna',
                      'Gemini', 'Gemini-modeller', 'Gemini-modellerna',
                      'Insteon', 'Insteon-integreringen',
-                     'Threema', 'SwitchBot', 'SwitchBots', 'SwitchBot-appen'})
+                     'Threema', 'SwitchBot', 'SwitchBots', 'SwitchBot-appen',
+                     'SmartyPlants', 'SmartyPlants-appen', 'WiZ', 'WiZ-enheten',
+                     'Acmeda', 'Acmeda-hubben', 'Rejseplanen.dk', 'pollning',
+                     'pollningen', 'pollningar', 'pollningarna', 'pollningsintervall'})
         good.update({'förinfusion', 'förinfusionen', 'förinfusioner', 'förinfusionstid'})
         bad = {'zzqxxzz', 'stavvningskontroll'}
         for name in ('sv_SE', 'sv_SE_expanded'):

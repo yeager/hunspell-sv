@@ -394,3 +394,11 @@ Insteon
 Threema
 
 SwitchBot
+
+SmartyPlants
+
+WiZ
+
+Acmeda
+
+Rejseplanen.dk
