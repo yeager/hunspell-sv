@@ -876,3 +876,4 @@ shell-kommandonamn
 BMS
 bulkladdning
 Bulkfas
+råstatus

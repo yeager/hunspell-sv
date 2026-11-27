@@ -1,3 +1,4 @@
+- Add the reviewed technical compound `råstatus` to both dictionaries and spelling regressions after HA Core review exposed it as a valid label that Hunspell incorrectly flagged. No release created.
 - Add the verified Victron term `bulkladdning`, its state label `Bulkfas`, and the `BMS` acronym to both dictionaries and spelling regressions after HA Core review exposed them as valid technical terms. No second package release created today.
 - Add UniFi, Roth and Touchline proper nouns with a `Touchline-styrenhet` regression after HA Core review exposed valid product names as Hunspell false positives. No second package release created today.
 - Add `multirumsgrupp`, `bulletschack`, `V1-API`, `V1-API:t`, `Lichess-API-token` and the Glow proper noun with regression tests after HA Core review exposed false positives. No second package release created today.
