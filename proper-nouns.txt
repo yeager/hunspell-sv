@@ -336,3 +336,4 @@ BMS
 BatteryLife
 PowerAssist
 VarioPerfect
+Russound
