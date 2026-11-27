@@ -1,3 +1,4 @@
+- Add valid Swedish `gatewayen` and keep `hexsträng` available in the expanded dictionary; add regression vocabulary after HA Core review exposed missing Hunspell entries. No second package release created today.
 - Add LibreNMS, Silla/Prism, PM0 and the reviewed Home Assistant compound `midnattsolsperioden` to Hunspell dictionaries and regression coverage after a Core review exposed false positives. No package release created today.
 - Add Home Assistant vocabulary `Auto`, `Bortaläge`, `Ethernet`, `Laddningsfaser`, `NexBlue`, `Wi-Fi`, `Sugfläkt`, `rökgasställdon` and `märkström` after Hunspell review exposed valid terms as false positives; cover capitalization and NexBlue compounds. No package release created today.
 - Fix Hunspell tokenization of subscript numerals in hyphenated compounds by adding Unicode subscript digits to `WORDCHARS` in both dictionaries; add `CO₂-halt` and `CO₂-halten` regressions. No second package release created today.

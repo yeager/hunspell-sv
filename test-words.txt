@@ -936,3 +936,5 @@ Silla-app
 Silla-appen
 Silla-appens
 midnattsolsperioden
+gatewayen
+hexsträng
