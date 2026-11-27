@@ -1021,3 +1021,10 @@ datapunkttyp
 datapunkttypen
 datapunkttyper
 datapunkttyperna
+aliaset
+aliasen
+aliaser
+aliaserna
+Gemini
+Gemini-modeller
+Gemini-modellerna

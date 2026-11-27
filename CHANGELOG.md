@@ -1,3 +1,4 @@
+- Add Gemini product-name compounds and Swedish inflections of `alias` after HA Core review exposed dictionary coverage gaps; add regressions. No additional release created today.
 - Add reviewed KNX term `datapunkttyp` and its common inflections to both dictionaries and regression coverage after HA Core review exposed false positives. No additional release created today.
 - Add the Imou brand forms and the reviewed compound `apphemlighet` with inflections after HA Core review exposed false Hunspell flags. No additional release created today.
 - Add reviewed smart-lock term `fallkolv` and keyboard event compound `tangentnedhållning` plus inflections to both Hunspell dictionaries and regression coverage after HA Core review found false positives. No second package release created today.

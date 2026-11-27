@@ -67,7 +67,9 @@ class BuildTests(unittest.TestCase):
                 'Homee', 'homee-enheten', 'Portainers', 'emojier', 'emojierna', 'emojikortkoder'}
         good.update({'Imou', 'Imous', 'apphemlighet', 'apphemligheten',
                      'apphemligheter', 'apphemligheterna', 'datapunkttyp',
-                     'datapunkttypen', 'datapunkttyper', 'datapunkttyperna'})
+                     'datapunkttypen', 'datapunkttyper', 'datapunkttyperna',
+                     'aliaset', 'aliasen', 'aliaser', 'aliaserna',
+                     'Gemini', 'Gemini-modeller', 'Gemini-modellerna'})
         good.update({'förinfusion', 'förinfusionen', 'förinfusioner', 'förinfusionstid'})
         bad = {'zzqxxzz', 'stavvningskontroll'}
         for name in ('sv_SE', 'sv_SE_expanded'):

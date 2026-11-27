@@ -2823,6 +2823,72 @@
       "sources": [
         "https://www.isof.se/download/18.17dda5f1791cdbd2873a99/1620030264840/Mynd-skrivreg2014-1.pdf"
       ]
+    },
+    {
+      "id": "T254",
+      "rule": "R37",
+      "scope": "word",
+      "text": "aliaset",
+      "expected_accept": true,
+      "basis": "Böjningsform av det etablerade svenska substantivet alias.",
+      "sources": [
+        "https://www.isof.se/download/18.17dda5f1791cdbd2873a99/1620030264840/Mynd-skrivreg2014-1.pdf"
+      ]
+    },
+    {
+      "id": "T255",
+      "rule": "R37",
+      "scope": "word",
+      "text": "aliasen",
+      "expected_accept": true,
+      "basis": "Böjningsform av det etablerade svenska substantivet alias.",
+      "sources": [
+        "https://www.isof.se/download/18.17dda5f1791cdbd2873a99/1620030264840/Mynd-skrivreg2014-1.pdf"
+      ]
+    },
+    {
+      "id": "T256",
+      "rule": "R37",
+      "scope": "word",
+      "text": "aliaser",
+      "expected_accept": true,
+      "basis": "Böjningsform av det etablerade svenska substantivet alias.",
+      "sources": [
+        "https://www.isof.se/download/18.17dda5f1791cdbd2873a99/1620030264840/Mynd-skrivreg2014-1.pdf"
+      ]
+    },
+    {
+      "id": "T257",
+      "rule": "R37",
+      "scope": "word",
+      "text": "aliaserna",
+      "expected_accept": true,
+      "basis": "Böjningsform av det etablerade svenska substantivet alias.",
+      "sources": [
+        "https://www.isof.se/download/18.17dda5f1791cdbd2873a99/1620030264840/Mynd-skrivreg2014-1.pdf"
+      ]
+    },
+    {
+      "id": "T258",
+      "rule": "R37",
+      "scope": "word",
+      "text": "Gemini-modeller",
+      "expected_accept": true,
+      "basis": "Home Assistant UI-sammansättning med produktnamnet Gemini.",
+      "sources": [
+        "https://www.isof.se/download/18.17dda5f1791cdbd2873a99/1620030264840/Mynd-skrivreg2014-1.pdf"
+      ]
+    },
+    {
+      "id": "T259",
+      "rule": "R37",
+      "scope": "word",
+      "text": "Gemini-modellerna",
+      "expected_accept": true,
+      "basis": "Home Assistant UI-sammansättning med produktnamnet Gemini.",
+      "sources": [
+        "https://www.isof.se/download/18.17dda5f1791cdbd2873a99/1620030264840/Mynd-skrivreg2014-1.pdf"
+      ]
     }
   ]
 }
