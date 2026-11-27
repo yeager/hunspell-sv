@@ -1054,3 +1054,14 @@ solcellsväxelriktare
 larmwebhook
 tokenen
 åtkomsttokenen
+hydroponik
+vattenavhärdare
+vattenavhärdaren
+vattenavhärdarna
+utomhusluftkvalitet
+hemhub
+hemhubbar
+pushnotis
+pushnotiser
+pushnotisen
+pushnotiserna
