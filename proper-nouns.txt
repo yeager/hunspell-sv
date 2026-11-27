@@ -338,3 +338,8 @@ PowerAssist
 VarioPerfect
 Russound
 TLS
+
+# Home Assistant product and network technology names reviewed 2026-11-27
+Ethernet
+NexBlue
+Wi-Fi
