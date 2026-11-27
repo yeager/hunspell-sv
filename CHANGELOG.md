@@ -1,3 +1,7 @@
+## Unreleased
+
+- Add `smartmätargateway` and its definite form, verified in Home Assistant Core translations.
+
 - Add SmartyPlants, WiZ, Acmeda and Rejseplanen product forms plus Swedish `pollning` inflections after HA Core review exposed Hunspell coverage gaps. No additional release created today.
 - Add Threema and SwitchBot names and the reviewed `SwitchBot-appen` compound to both Hunspell dictionaries and spelling regressions. No additional release created today.
 - Add the Insteon product name and its reviewed Home Assistant compound to both Hunspell dictionaries and spelling regressions. No additional release created today.

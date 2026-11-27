@@ -1046,3 +1046,5 @@ pollningen
 pollningar
 pollningarna
 pollningsintervall
+smartmätargateway
+smartmätargatewayen
