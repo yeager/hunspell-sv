@@ -402,3 +402,9 @@ WiZ
 Acmeda
 
 Rejseplanen.dk
+
+# Home Assistant Core product and exchange names
+EPEX
+Powador
+Powador-protect
+SteamVR

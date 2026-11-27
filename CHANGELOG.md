@@ -222,3 +222,9 @@ The catalogue is a curated regression source, not a complete Swedish grammar.
 - Add the TLS acronym to the curated vocabulary after HA Core review flagged the correct compound `TLS-handskakningen`; add regression coverage. No second package release created today.
 
 - Add the attested Swedish plural `gatewayer` and definite plural `gatewayerna` after HA Core review flagged them; [EU legislation uses “gatewayer”](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX%3A02014R1305-20180316), and Språkrådet recommends checking usage when an uncommon loanword is absent from dictionaries ([Frågelådan 48498](https://frageladan.isof.se/faqs/48498)). Add both forms to regression words.
+
+- Add Home Assistant Core brand/acronym spellings and valid compounds: AFI, EPEX, MPP, PAC, RCD, ROCOF, SteamVR, Powador-protect, `plausibilitetsfel` and `maskinvaruöverström`. Manufacturer/product forms are verified against [KACO Powador-protect](https://kaco-newenergy.com/products/powador-protect), [EPEX SPOT](https://www.epexspot.com/) and [SteamVR Base Station](https://www.vive.com/eu/accessory/base-station2/). Add spelling regression words. No package release created today.
+
+- Add reviewed Home Assistant electrical and RS485 terminology (`mättransformator`, `nätrelä`, `reläspänning`, `ödriftsfel`, hardware overtemperature, relay test and RS485 compounds) to both dictionaries and regression words.
+
+- Add `ödrift`, a valid HA Core island-operation state label, to both dictionaries and regression words.
