@@ -390,3 +390,7 @@ Imou
 Gemini
 
 Insteon
+
+Threema
+
+SwitchBot

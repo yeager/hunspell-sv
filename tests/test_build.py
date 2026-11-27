@@ -70,7 +70,8 @@ class BuildTests(unittest.TestCase):
                      'datapunkttypen', 'datapunkttyper', 'datapunkttyperna',
                      'aliaset', 'aliasen', 'aliaser', 'aliaserna',
                      'Gemini', 'Gemini-modeller', 'Gemini-modellerna',
-                     'Insteon', 'Insteon-integreringen'})
+                     'Insteon', 'Insteon-integreringen',
+                     'Threema', 'SwitchBot', 'SwitchBots', 'SwitchBot-appen'})
         good.update({'förinfusion', 'förinfusionen', 'förinfusioner', 'förinfusionstid'})
         bad = {'zzqxxzz', 'stavvningskontroll'}
         for name in ('sv_SE', 'sv_SE_expanded'):

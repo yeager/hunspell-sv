@@ -1030,3 +1030,7 @@ Gemini-modeller
 Gemini-modellerna
 Insteon
 Insteon-integreringen
+Threema
+SwitchBot
+SwitchBots
+SwitchBot-appen

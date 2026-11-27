@@ -1,3 +1,4 @@
+- Add Threema and SwitchBot names and the reviewed `SwitchBot-appen` compound to both Hunspell dictionaries and spelling regressions. No additional release created today.
 - Add the Insteon product name and its reviewed Home Assistant compound to both Hunspell dictionaries and spelling regressions. No additional release created today.
 - Add Gemini product-name compounds and Swedish inflections of `alias` after HA Core review exposed dictionary coverage gaps; add regressions. No additional release created today.
 - Add reviewed KNX term `datapunkttyp` and its common inflections to both dictionaries and regression coverage after HA Core review exposed false positives. No additional release created today.
