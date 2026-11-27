@@ -879,3 +879,4 @@ Bulkfas
 råstatus
 bulkfas
 MPPT
+fasföljdslarm
