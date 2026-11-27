@@ -69,7 +69,8 @@ class BuildTests(unittest.TestCase):
                      'apphemligheter', 'apphemligheterna', 'datapunkttyp',
                      'datapunkttypen', 'datapunkttyper', 'datapunkttyperna',
                      'aliaset', 'aliasen', 'aliaser', 'aliaserna',
-                     'Gemini', 'Gemini-modeller', 'Gemini-modellerna'})
+                     'Gemini', 'Gemini-modeller', 'Gemini-modellerna',
+                     'Insteon', 'Insteon-integreringen'})
         good.update({'förinfusion', 'förinfusionen', 'förinfusioner', 'förinfusionstid'})
         bad = {'zzqxxzz', 'stavvningskontroll'}
         for name in ('sv_SE', 'sv_SE_expanded'):

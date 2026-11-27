@@ -388,3 +388,5 @@ blippades
 Imou
 
 Gemini
+
+Insteon
