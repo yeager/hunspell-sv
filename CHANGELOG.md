@@ -1,3 +1,4 @@
+- Add the WiiM and Growatt brand names and spelling regressions for `WiiM:s`, `WiiM-mediaspelare` and `Growatt-enhet` after HA Core review exposed valid product terms as false positives. No second package release created today.
 - Add the `Ollama` proper noun and support its `Ollama-integrationen` and `Ollama-API-nyckel` compounds after HA Core review exposed valid product terminology as Hunspell false positives. No second package release created today.
 - Add `LMS` and `Whisker` to the proper-name vocabulary, plus reviewed Swedish compounds `nödlåsning` and `väckningsord`, after Home Assistant Core review exposed valid terms as Hunspell false positives. Add regression cases for `LMS-servrar` and related forms. No second package release created today.
 - Add the Swedish Home Assistant audio terms `surroundkanal` and `surroundkanaler` to both dictionaries and spelling regressions. No second package release created today.

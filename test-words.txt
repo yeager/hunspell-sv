@@ -848,3 +848,8 @@ väckningsord
 Ollama
 Ollama-integrationen
 Ollama-API-nyckel
+WiiM
+WiiM:s
+WiiM-mediaspelare
+Growatt
+Growatt-enhet
