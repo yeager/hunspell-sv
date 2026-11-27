@@ -49,15 +49,15 @@ Modern Swedish dictionary for Hunspell spell checking.
 
 | Metric | Value |
 |--------|-------|
-| **Dictionary entries** | 279 479 |
-| **Expanded entries** | 167 188 |
+| **Dictionary entries** | 279 889 |
+| **Expanded entries** | 167 592 |
 | **Base** | SFOL 2.42 (Den Stora Fria Ordlistan) |
 | **SALDO + Folkets Lexikon** | 18 052 words from Språkbanken |
 | **SALDOM paradigm-mapped** | 17 684 words with affix flags |
 | **Added from TM** | 11 552 words (≥3 occurrences) |
 | **Added Datatermgruppen** | 50 IT/tech terms |
 | **Added SAOL 15** | 43 new words (2026) |
-| **Added proper nouns** | 325 curated software/brand/place names |
+| **Added proper nouns** | 300 curated software/brand/place names |
 | **Added custom terms** | 606 from review work |
 | **Added compound morphemes** | 47 for better compound support |
 | **TM source** | 1 207 695 translation memory entries |

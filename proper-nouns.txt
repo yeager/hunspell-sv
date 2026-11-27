@@ -323,3 +323,5 @@ Time
 Poweropti
 Satel
 Integra
+LMS
+Whisker
