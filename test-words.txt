@@ -953,3 +953,15 @@ LIFX-multizonlampa
 HEV-lysdioder
 Förbikopplingen
 spelogotyp
+hysteres
+EnergyID
+NeoPool-enhet
+NeoPool-enheten
+NeoPool-enheter
+NeoPool-konfiguration
+NeoPool-samordnare
+WebRTC-strömning
+go2rtc-servern
+eltariffgrupp
+nodidentifieringen
+sexsiffriga

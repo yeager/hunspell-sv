@@ -1,3 +1,4 @@
+- Add verified NeoPool, Duco, Zonneplan and EnergyID terms (including hysteresis, tariff group and WebRTC compounds) to both dictionaries and spelling regressions after HA Core review exposed valid vocabulary as false positives. No package release created today.
 - Add validated HA camera/KNX terms, HEV LED terminology and LIFX/myStrom brand compounds to both dictionaries and regression vocabulary after Core review exposed false positives. No package release created today.
 - Add the verified Swedish camera term `binningläge` to both dictionaries and regression vocabulary after HA Core review exposed a valid technical compound as a Hunspell false positive. No package release created today. Evidence: https://www.tucsen.com/sv/dhyana-2100-product/
 - Add valid Swedish `gatewayen` and keep `hexsträng` available in the expanded dictionary; add regression vocabulary after HA Core review exposed missing Hunspell entries. No second package release created today.
