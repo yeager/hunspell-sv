@@ -77,7 +77,8 @@ class BuildTests(unittest.TestCase):
         good.update({'katt', 'katten', 'katter', 'katterna', 'katternas',
                      'springa', 'springer', 'sprang', 'sprungit', 'fallucka',
                      'kvävemonoxidnivå', 'kvävemonoxidnivån', 'kvävemonoxidnivåer',
-                     'kvävemonoxidnivåns', 'kvävemonoxidnivåerna', 'kvävemonoxidnivåernas'})
+                     'kvävemonoxidnivåns', 'kvävemonoxidnivåerna', 'kvävemonoxidnivåernas',
+                     'TVOC-sensor', 'TVOC-sensorn'})
         bad = {'bilbil', 'datordator', 'falllucka', 'smörgåss', 'säkerhett', 'översätning', 'bossh', 'slädbjällrorr', 'sussljud', 'sci-fi-stot', 'hissklockkka', 'sonarsignall', 'fläktlägeskommandonn', 'svänglägeskommandonn', 'emojiiier'}
         for name in ('sv_SE', 'sv_SE_expanded'):
             with self.subTest(dictionary=name):
