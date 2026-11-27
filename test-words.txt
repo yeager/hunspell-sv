@@ -873,3 +873,6 @@ pushmeddelandets
 shell
 shell-kommandon
 shell-kommandonamn
+BMS
+bulkladdning
+Bulkfas
