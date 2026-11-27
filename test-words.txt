@@ -877,3 +877,5 @@ BMS
 bulkladdning
 Bulkfas
 råstatus
+bulkfas
+MPPT
