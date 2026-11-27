@@ -1011,3 +1011,9 @@ Sofars
 Baudhastighet
 blippa
 blippades
+Imou
+Imous
+apphemlighet
+apphemligheten
+apphemligheter
+apphemligheterna

@@ -65,6 +65,8 @@ class BuildTests(unittest.TestCase):
                 'fläktlägeskommando', 'fläktlägeskommandon',
                 'svänglägeskommando', 'svänglägeskommandon',
                 'Homee', 'homee-enheten', 'Portainers', 'emojier', 'emojierna', 'emojikortkoder'}
+        good.update({'Imou', 'Imous', 'apphemlighet', 'apphemligheten',
+                     'apphemligheter', 'apphemligheterna'})
         good.update({'förinfusion', 'förinfusionen', 'förinfusioner', 'förinfusionstid'})
         bad = {'zzqxxzz', 'stavvningskontroll'}
         for name in ('sv_SE', 'sv_SE_expanded'):

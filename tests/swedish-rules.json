@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "scope": "Modern svensk standardskrift, med uttryckligt angivna varianter och stilskillnader.",
   "warning": "Urval för feldiagnostik; inte heltäckande grammatik eller representativt kvalitetsmått.",
   "cases": [
@@ -2699,6 +2699,83 @@
       "text": "utomhusläge",
       "expected_accept": true,
       "basis": "Eget Home Assistant UI-sammansättning: svenskt adverbial + läge skrivs ihop.",
+      "sources": [
+        "https://www.isof.se/download/18.17dda5f1791cdbd2873a99/1620030264840/Mynd-skrivreg2014-1.pdf"
+      ]
+    },
+    {
+      "id": "T239",
+      "rule": "R37",
+      "scope": "word",
+      "text": "fallkolv",
+      "expected_accept": true,
+      "basis": "Verifierad Home Assistant-terminologi för fallkolv och tangenternas nedhållnings-/uppsläppningstillstånd.",
+      "sources": [
+        "https://www.isof.se/download/18.17dda5f1791cdbd2873a99/1620030264840/Mynd-skrivreg2014-1.pdf"
+      ]
+    },
+    {
+      "id": "T240",
+      "rule": "R37",
+      "scope": "word",
+      "text": "fallkolven",
+      "expected_accept": true,
+      "basis": "Verifierad Home Assistant-terminologi för fallkolv och tangenternas nedhållnings-/uppsläppningstillstånd.",
+      "sources": [
+        "https://www.isof.se/download/18.17dda5f1791cdbd2873a99/1620030264840/Mynd-skrivreg2014-1.pdf"
+      ]
+    },
+    {
+      "id": "T241",
+      "rule": "R37",
+      "scope": "word",
+      "text": "fallkolv.",
+      "expected_accept": true,
+      "basis": "Verifierad Home Assistant-terminologi för fallkolv och tangenternas nedhållnings-/uppsläppningstillstånd.",
+      "sources": [
+        "https://www.isof.se/download/18.17dda5f1791cdbd2873a99/1620030264840/Mynd-skrivreg2014-1.pdf"
+      ]
+    },
+    {
+      "id": "T242",
+      "rule": "R37",
+      "scope": "word",
+      "text": "tangentnedhållning",
+      "expected_accept": true,
+      "basis": "Verifierad Home Assistant-terminologi för fallkolv och tangenternas nedhållnings-/uppsläppningstillstånd.",
+      "sources": [
+        "https://www.isof.se/download/18.17dda5f1791cdbd2873a99/1620030264840/Mynd-skrivreg2014-1.pdf"
+      ]
+    },
+    {
+      "id": "T243",
+      "rule": "R37",
+      "scope": "word",
+      "text": "tangentnedhållningshändelser",
+      "expected_accept": true,
+      "basis": "Verifierad Home Assistant-terminologi för fallkolv och tangenternas nedhållnings-/uppsläppningstillstånd.",
+      "sources": [
+        "https://www.isof.se/download/18.17dda5f1791cdbd2873a99/1620030264840/Mynd-skrivreg2014-1.pdf"
+      ]
+    },
+    {
+      "id": "T244",
+      "rule": "R37",
+      "scope": "word",
+      "text": "uppsläppt",
+      "expected_accept": true,
+      "basis": "Verifierad Home Assistant-terminologi för fallkolv och tangenternas nedhållnings-/uppsläppningstillstånd.",
+      "sources": [
+        "https://www.isof.se/download/18.17dda5f1791cdbd2873a99/1620030264840/Mynd-skrivreg2014-1.pdf"
+      ]
+    },
+    {
+      "id": "T245",
+      "rule": "R37",
+      "scope": "word",
+      "text": "uppsläppt",
+      "expected_accept": true,
+      "basis": "Verifierad Home Assistant-terminologi för fallkolv och tangenternas nedhållnings-/uppsläppningstillstånd.",
       "sources": [
         "https://www.isof.se/download/18.17dda5f1791cdbd2873a99/1620030264840/Mynd-skrivreg2014-1.pdf"
       ]

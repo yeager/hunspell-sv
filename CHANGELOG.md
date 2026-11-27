@@ -1,3 +1,5 @@
+- Add the Imou brand forms and the reviewed compound `apphemlighet` with inflections after HA Core review exposed false Hunspell flags. No additional release created today.
+- Add reviewed smart-lock term `fallkolv` and keyboard event compound `tangentnedhållning` plus inflections to both Hunspell dictionaries and regression coverage after HA Core review found false positives. No second package release created today.
 - Add verified LaMetric, LiteLLM, Hydrawise, Starlink, Sofar and LIFX compounds plus `baudhastighet` and `blippa` inflections to both dictionaries and regression coverage after Core review exposed valid terms as Hunspell false positives. No package release created today.
 - Add reviewed ENGIE, Electric Kiwi, MELCloud, Portainer, SQLite and Belgium proper-name vocabulary after Home Assistant Core review exposed valid product names as Hunspell false positives. No package release created today.
 - Add reviewed KNX, ETS, DPT and XKNXProject terms after Home Assistant Core review exposed valid technical names as Hunspell false positives. No package release created today.
