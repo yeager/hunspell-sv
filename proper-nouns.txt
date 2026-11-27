@@ -353,3 +353,6 @@ Legacy
 Vitesy
 Hub
 Zonneplan
+Recorder
+XKNXProject
+XKNXProject-version

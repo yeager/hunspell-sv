@@ -978,3 +978,8 @@ SQM
 SELV
 SELV-relä
 keogram
+ETS
+KNX
+Recorder
+XKNXProject
+XKNXProject-version
