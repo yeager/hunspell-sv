@@ -1,3 +1,4 @@
+- Add verified LaMetric, LiteLLM, Hydrawise, Starlink, Sofar and LIFX compounds plus `baudhastighet` and `blippa` inflections to both dictionaries and regression coverage after Core review exposed valid terms as Hunspell false positives. No package release created today.
 - Add reviewed ENGIE, Electric Kiwi, MELCloud, Portainer, SQLite and Belgium proper-name vocabulary after Home Assistant Core review exposed valid product names as Hunspell false positives. No package release created today.
 - Add reviewed KNX, ETS, DPT and XKNXProject terms after Home Assistant Core review exposed valid technical names as Hunspell false positives. No package release created today.
 - Add verified Swedish astronomy, shell and Home Assistant terminology plus Bedrock, Legacy, Vitesy Hub, Zonneplan, ADU, SQM and SELV vocabulary to both dictionaries and regression coverage after Core review exposed false positives. No package release created today.
