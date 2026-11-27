@@ -348,3 +348,8 @@ Wi-Fi
 LibreNMS
 Prism
 Silla
+Bedrock
+Legacy
+Vitesy
+Hub
+Zonneplan
