@@ -328,3 +328,4 @@ Whisker
 Ollama
 WiiM
 Growatt
+Glow

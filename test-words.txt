@@ -853,3 +853,9 @@ WiiM:s
 WiiM-mediaspelare
 Growatt
 Growatt-enhet
+multirumsgrupp
+bulletschack
+V1-API
+V1-API:t
+Lichess-API-token
+Glow
