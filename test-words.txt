@@ -1048,3 +1048,6 @@ pollningarna
 pollningsintervall
 smartmätargateway
 smartmätargatewayen
+sirén
+rumsprioritet
+solcellsväxelriktare

@@ -1,4 +1,4 @@
-280068
+280071
 ,/1
 ---
 -/!b
@@ -280067,3 +280067,6 @@ pollningarna
 pollningsintervall
 smartmätargateway
 smartmätargatewayen
+sirén
+rumsprioritet
+solcellsväxelriktare
