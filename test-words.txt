@@ -863,3 +863,13 @@ UniFi
 Roth
 Touchline
 Touchline-styrenhet
+push
+pushen
+push-tjänst
+push-tjänsten
+pushmeddelande
+pushmeddelanden
+pushmeddelandets
+shell
+shell-kommandon
+shell-kommandonamn
