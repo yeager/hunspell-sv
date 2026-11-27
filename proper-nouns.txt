@@ -325,3 +325,4 @@ Satel
 Integra
 LMS
 Whisker
+Ollama

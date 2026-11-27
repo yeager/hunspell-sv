@@ -845,3 +845,6 @@ Nödlåsning
 nödlåsning
 Väckningsord
 väckningsord
+Ollama
+Ollama-integrationen
+Ollama-API-nyckel
