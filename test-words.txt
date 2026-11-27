@@ -1069,3 +1069,5 @@ moppbricka
 moppbrickan
 moppbrickor
 moppbrickorna
+gatewayer
+gatewayerna

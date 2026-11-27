@@ -220,3 +220,5 @@ The catalogue is a curated regression source, not a complete Swedish grammar.
 - Add `laddeffekt` inflections and the Russound brand/compound after HA Core review; add spelling regression coverage.
 
 - Add the TLS acronym to the curated vocabulary after HA Core review flagged the correct compound `TLS-handskakningen`; add regression coverage. No second package release created today.
+
+- Add the attested Swedish plural `gatewayer` and definite plural `gatewayerna` after HA Core review flagged them; [EU legislation uses “gatewayer”](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX%3A02014R1305-20180316), and Språkrådet recommends checking usage when an uncommon loanword is absent from dictionaries ([Frågelådan 48498](https://frageladan.isof.se/faqs/48498)). Add both forms to regression words.
