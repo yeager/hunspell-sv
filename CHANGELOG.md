@@ -191,3 +191,5 @@ The catalogue is a curated regression source, not a complete Swedish grammar.
 - Add Swedish pet-feeder terminology `foderautomat` and `utfodringsschema`, inflections, and the Tuya brand after the HA Core review found misleading literal translations; add regression coverage.
 
 - Add `laddeffekt` inflections and the Russound brand/compound after HA Core review; add spelling regression coverage.
+
+- Add the TLS acronym to the curated vocabulary after HA Core review flagged the correct compound `TLS-handskakningen`; add regression coverage. No second package release created today.

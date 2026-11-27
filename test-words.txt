@@ -904,3 +904,6 @@ DNS-resolver
 DNS-resolvern
 DNS-resolvers
 DNS-resolverna
+TLS
+TLS-handskakning
+TLS-handskakningen
