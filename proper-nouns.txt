@@ -408,3 +408,12 @@ EPEX
 Powador
 Powador-protect
 SteamVR
+
+# Home Assistant Core product and protocol names
+AnyList
+Kuma
+LoRaWAN
+OKOK
+Plugwise
+SenseCAP
+Uptime
