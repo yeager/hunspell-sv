@@ -230,3 +230,5 @@ The catalogue is a curated regression source, not a complete Swedish grammar.
 - Add `ödrift`, a valid HA Core island-operation state label, to both dictionaries and regression words.
 
 - Add Home Assistant Core printer cartridge terms, the scanner compound, and AnyList/LoRaWAN/OKOK/Plugwise/SenseCAP/Uptime Kuma names and compounds to both dictionaries and regression words.
+
+- Add Home Assistant holiday-category adjectives and Belgian pharmacy identifier spellings, plus ESPHome/OpenThread/Farmad/Mijn Farmad Apotheek proper names and the reviewed compound `ESPHome-enhet` to both dictionaries and regression words.

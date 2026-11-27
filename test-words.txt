@@ -1115,3 +1115,17 @@ Plugwise-entiteten
 SenseCAP-enheter
 Kuma-versioner
 skannerglaset
+APB
+CNK
+Jazidisk
+Sabisk
+Valakisk
+ESPHome
+OpenThread
+Farmad
+Mijn
+Apotheek
+CNK-kod
+CNK-koden
+APB-numret
+ESPHome-enhet

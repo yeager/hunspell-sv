@@ -417,3 +417,12 @@ OKOK
 Plugwise
 SenseCAP
 Uptime
+
+# Home Assistant Core source names and identifier abbreviations
+APB
+CNK
+ESPHome
+OpenThread
+Farmad
+Mijn
+Apotheek
