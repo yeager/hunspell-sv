@@ -1051,3 +1051,6 @@ smartmätargatewayen
 sirén
 rumsprioritet
 solcellsväxelriktare
+larmwebhook
+tokenen
+åtkomsttokenen

@@ -2,6 +2,8 @@
 
 - Add `smartmätargateway` and its definite form, verified in Home Assistant Core translations.
 - Add the Swedish terms `sirén`, `rumsprioritet` and `solcellsväxelriktare` found during Home Assistant Core review.
+- Add the verified compound `larmwebhook`.
+- Add the definite forms `tokenen` and `åtkomsttokenen`.
 
 - Add SmartyPlants, WiZ, Acmeda and Rejseplanen product forms plus Swedish `pollning` inflections after HA Core review exposed Hunspell coverage gaps. No additional release created today.
 - Add Threema and SwitchBot names and the reviewed `SwitchBot-appen` compound to both Hunspell dictionaries and spelling regressions. No additional release created today.

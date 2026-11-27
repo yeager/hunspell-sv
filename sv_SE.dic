@@ -1,4 +1,4 @@
-280071
+280074
 ,/1
 ---
 -/!b
@@ -280070,3 +280070,6 @@ smartmätargatewayen
 sirén
 rumsprioritet
 solcellsväxelriktare
+larmwebhook
+tokenen
+åtkomsttokenen
