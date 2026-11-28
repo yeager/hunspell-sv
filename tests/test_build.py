@@ -56,7 +56,7 @@ class BuildTests(unittest.TestCase):
     def test_spelling_in_both_dictionaries(self):
         good = {'dator', 'översättning', 'stavningskontroll', 'programvara',
                 'inställningar', 'användargränssnitt', 'filhanterare',
-                'säkerhetskopia', 'operativsystem', 'webbläsare',
+                'säkerhetskopia', 'radarreflektivitet', 'vindbyhastighet', 'operativsystem', 'webbläsare',
                 'lösenfras', 'meddelandekö', 'symlänk', 'filbläddrare', 'standardindata', 'USB-dongel', 'usb-dongel',
                 'åsidosättning', 'fjärrvärd', 'trädvy', 'skogshuggartält',
                 'datakällobjekt', 'vertexfärg', 'sci-fi', 'sci-fi-stöt',

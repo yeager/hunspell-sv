@@ -1,4 +1,4 @@
-168006
+168008
 -/-06XY
 -/!b
 ---
@@ -101687,6 +101687,7 @@ radareko/ACEF
 radarfyr/ADG
 radarpar/ABDY
 radarpuls/DH
+radarreflektivitet/ADHY
 radarreflektor/AEHY
 radarskärm/ADGY
 radarstation/ADHY
@@ -145933,6 +145934,7 @@ vindbruk/ABv
 vindbrus/B
 vindbrygga/AEGY
 vindby/AEGY
+vindbyhastighet/ADHY
 vindböjtel/AEIY
 vinddrag/ABY
 vinddriven/kKM

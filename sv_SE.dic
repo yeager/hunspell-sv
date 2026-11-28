@@ -1,4 +1,4 @@
-280298
+280300
 ,/1
 ---
 -/!b
@@ -187456,6 +187456,7 @@ radarmärke
 radarmålyta
 radarpar/ABDY
 radarpuls/DH
+radarreflektivitet/ADHY
 radarreflektor/AEHY
 radarskärm/ADGY
 radarstation/ADHY
@@ -261953,6 +261954,7 @@ vindbruk/ABv
 vindbrus/B
 vindbrygga/AEGY
 vindby/AEGY
+vindbyhastighet/ADHY
 vindbåtarna
 vindböjtel/AEIY
 vinddrag/ABY
