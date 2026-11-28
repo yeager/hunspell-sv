@@ -498,3 +498,7 @@ Malone
 Mondrian
 Leprechaun
 Redrum
+Broadlink
+Broadlink-enheter
+Honeywell
+Honeywells

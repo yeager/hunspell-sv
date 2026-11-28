@@ -1266,3 +1266,7 @@ lo-fi
 Pumpafest
 Pumpakrydda
 gatewayens
+Broadlink
+Broadlink-enheter
+Honeywell
+Honeywells

@@ -257,3 +257,5 @@ The catalogue is a curated regression source, not a complete Swedish grammar.
 - Add Home Assistant holiday-category adjectives and Belgian pharmacy identifier spellings, plus ESPHome/OpenThread/Farmad/Mijn Farmad Apotheek proper names and the reviewed compound `ESPHome-enhet` to both dictionaries and regression words.
 
 - Add the genitive form `gatewayens` to the Swedish dictionaries and regression vocabulary after review flagged a valid technical compound. No package release created.
+
+- Add verified Home Assistant proper nouns `Broadlink` and `Honeywell`, including their reviewed compounds and genitives, to dictionaries and regression vocabulary. No package release created.
