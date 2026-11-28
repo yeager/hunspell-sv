@@ -1,5 +1,10 @@
 ## Unreleased
 
+- Add the Swedish compound `linjekod` and its inflections to both dictionaries and regression coverage after Home Assistant Core review exposed it as a false Hunspell flag. No additional tool release created today.
+
+- Add the established Swedish chemistry term `redoxpotential` to both dictionaries and spelling regressions after Home Assistant Core review flagged it. Add verified Core proper nouns and compounds `iZone`, `Météo-France`, `TCL`, `Fitbit`, `Health`, `IPS`, `Homematic`, `INDI`, `Allsky` and Home Assistant’s `resruttinställning` forms to both dictionaries and regression coverage. Primary reference: https://www.folkhalsomyndigheten.se/publikationer-och-material/publikationsarkiv/v/vagledning-om-bassangbad/?pub=86245. No second tool release created today.
+
+
 - Add X10 and Zigbee technology names with their HA connectivity compounds to both Hunspell dictionaries, proper-noun inventory and regressions after the Core review exposed false positives. Primary references: [X10 home automation](https://www.x10.com/pages/allaboutx10), [CSA Zigbee standard](https://csa-iot.org/all-solutions/zigbee/). No package release created.
 
 - Add `vitruvianske` to both Hunspell dictionaries and spelling regressions. Source: [Nationalmuseum on the Vitruvian Man](https://www.nationalmuseum.se/assets/Dokument/Skolan/Om%C3%B6jliga-kroppar.pdf). No package release created.

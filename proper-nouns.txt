@@ -467,3 +467,14 @@ X10-enheter
 Zigbee
 Zigbee-enheter
 Zigbee-radio
+
+# Home Assistant Core names and abbreviations verified 2026-11-28
+Fitbit
+Health
+IPS
+Météo-France
+TCL
+iZone
+Homematic
+INDI
+Allsky

@@ -62,7 +62,7 @@ class BuildTests(unittest.TestCase):
                 'datakällobjekt', 'vertexfärg', 'sci-fi', 'sci-fi-stöt',
                 'sci-fi-explosion', 'sci-fi-larm', 'sci-fi-utrustning', 'slädbjällror',
                 'susljud', 'hissklocka', 'sonarsignal',
-                'fläktlägeskommando', 'fläktlägeskommandon',
+                'fläktlägeskommando', 'fläktlägeskommandon', 'redoxpotential', 'IPS', 'IPS-motor', 'Météo-France', 'TCL', 'TCL-trafikvarningar', 'iZone', 'iZone-systemet', 'Fitbit', 'Fitbit-integrationen', 'Fitbit-integrationsposter', 'Health', 'Health-integrationen', 'Homematic', 'Homematic IP', 'INDI', 'Allsky', 'resruttinställning', 'resruttinställningen', 'resruttinställningar', 'resruttinställningarna', 'linjekod', 'linjekoden', 'linjekoder', 'linjekoderna',
                 'svänglägeskommando', 'svänglägeskommandon',
                 'Homee', 'homee-enheten', 'Portainers', 'emojier', 'emojierna', 'emojikortkoder'}
         good.update({'Imou', 'Imous', 'apphemlighet', 'apphemligheten',
