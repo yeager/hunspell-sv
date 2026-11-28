@@ -263,3 +263,5 @@ The catalogue is a curated regression source, not a complete Swedish grammar.
 - Add reviewed Swedish compounds `klådfrekvens` and `utetemperaturgivare`, plus NAD proper-name spelling and compound, to both dictionaries and regression vocabulary. No package release created.
 
 - Add Tile product name and its Home Assistant compounds and inflections to both dictionaries and regression vocabulary. No package release created.
+
+- Add reviewed Swedish pollen compounds `alpollen`, `askpollen` and `gråbopollen` to both dictionaries and regression vocabulary. No package release created.

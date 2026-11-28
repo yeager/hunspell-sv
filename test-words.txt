@@ -1281,3 +1281,6 @@ Tile-enheter
 Tile-enheterna
 Tile-konto
 Tile-kontot
+alpollen
+askpollen
+gråbopollen
