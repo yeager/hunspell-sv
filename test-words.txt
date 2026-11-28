@@ -1274,3 +1274,10 @@ Klådfrekvens
 utetemperaturgivare
 NAD
 NAD-enhet
+Tile
+Tile-enhet
+Tile-enheten
+Tile-enheter
+Tile-enheterna
+Tile-konto
+Tile-kontot
