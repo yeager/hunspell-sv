@@ -1129,3 +1129,4 @@ CNK-kod
 CNK-koden
 APB-numret
 ESPHome-enhet
+dataexfiltrering

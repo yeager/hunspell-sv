@@ -1,5 +1,7 @@
 ## Unreleased
 
+- Add `dataexfiltrering` to both dictionaries and spelling regressions; Swedish FOSS terminology records it at 100% confidence.
+
 - Add `smartmätargateway` and its definite form, verified in Home Assistant Core translations.
 - Add the Swedish terms `sirén`, `rumsprioritet` and `solcellsväxelriktare` found during Home Assistant Core review.
 - Add the verified compound `larmwebhook`.
