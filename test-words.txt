@@ -1164,3 +1164,13 @@ Telegrambotintegrationen
 DHCP-programvara
 DHCP-servern
 SRV-posten
+Somfy-konto
+Somfy-kontot
+ecosmart
+ecosmart-appen
+ecosmart-konto
+wBox-appen
+PSK-autentisering
+vippbrytare
+vippbrytaren
+vippbrytarna

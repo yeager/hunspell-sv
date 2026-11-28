@@ -439,3 +439,8 @@ OpenWrt
 dnsmasq
 odhcpd
 ubus
+
+# Home Assistant vendor and device names
+Somfy
+ecosmart
+wBox
