@@ -265,3 +265,5 @@ The catalogue is a curated regression source, not a complete Swedish grammar.
 - Add Tile product name and its Home Assistant compounds and inflections to both dictionaries and regression vocabulary. No package release created.
 
 - Add reviewed Swedish pollen compounds `alpollen`, `askpollen` and `gråbopollen` to both dictionaries and regression vocabulary. No package release created.
+
+- Add the reviewed Swedish compound `mikronätsdrift` to both dictionaries and regression vocabulary after Home Assistant Core review identified the valid term. No package release created.
