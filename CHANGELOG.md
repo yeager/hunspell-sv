@@ -1,5 +1,7 @@
 ## Unreleased
 
+- Add verified Home Assistant device names, protocols and compounds, including DSM, DVR, gRPC, MOSFET, NAS and SofarCloud vocabulary, plus Swedish proxy inflections and `växelriktarläge`, to Hunspell regressions. No additional package release created today.
+
 - Add the Swedish compound `linjekod` and its inflections to both dictionaries and regression coverage after Home Assistant Core review exposed it as a false Hunspell flag. No additional tool release created today.
 
 - Add the established Swedish chemistry term `redoxpotential` to both dictionaries and spelling regressions after Home Assistant Core review flagged it. Add verified Core proper nouns and compounds `iZone`, `Météo-France`, `TCL`, `Fitbit`, `Health`, `IPS`, `Homematic`, `INDI`, `Allsky` and Home Assistant’s `resruttinställning` forms to both dictionaries and regression coverage. Primary reference: https://www.folkhalsomyndigheten.se/publikationer-och-material/publikationsarkiv/v/vagledning-om-bassangbad/?pub=86245. No second tool release created today.

@@ -478,3 +478,16 @@ iZone
 Homematic
 INDI
 Allsky
+A Better Routeplanner
+DSM
+DVR
+gRPC
+MOSFET
+NAS
+Routeplanner
+SG
+SG Ready
+SofarCloud
+Station
+Surveillance
+VLP
