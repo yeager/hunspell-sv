@@ -1311,3 +1311,7 @@ WeatherKit-nyckeln
 certifikatutfärdarfilen
 returkod
 returkoden
+HEPA
+HEPA-filter
+HEPA-filtret
+HEPA-filtrets

@@ -1,4 +1,4 @@
-280368
+280372
 ,/1
 ---
 -/!b
@@ -280367,3 +280367,7 @@ WeatherKit-nyckeln
 certifikatutfärdarfilen
 returkod/XY
 returkoden
+HEPA
+HEPA-filter/ACFXY
+HEPA-filtret
+HEPA-filtrets

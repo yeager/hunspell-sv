@@ -549,3 +549,4 @@ Glances
 Magic
 SoH
 Twinkly
+HEPA
