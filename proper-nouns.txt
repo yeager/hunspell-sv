@@ -460,3 +460,10 @@ Matter-enheter
 Picnic
 Picnic-produkt
 ULE-enheter
+
+# Home Assistant legacy and mesh protocols
+X10
+X10-enheter
+Zigbee
+Zigbee-enheter
+Zigbee-radio

@@ -1,5 +1,7 @@
 ## Unreleased
 
+- Add X10 and Zigbee technology names with their HA connectivity compounds to both Hunspell dictionaries, proper-noun inventory and regressions after the Core review exposed false positives. Primary references: [X10 home automation](https://www.x10.com/pages/allaboutx10), [CSA Zigbee standard](https://csa-iot.org/all-solutions/zigbee/). No package release created.
+
 - Add `vitruvianske` to both Hunspell dictionaries and spelling regressions. Source: [Nationalmuseum on the Vitruvian Man](https://www.nationalmuseum.se/assets/Dokument/Skolan/Om%C3%B6jliga-kroppar.pdf). No package release created.
 
 - Add verified Home Assistant protocol and service names plus recurring `mopptvätt` vocabulary to both Hunspell dictionaries, proper-noun inventory and spelling regressions. Primary references: [GS1 Sweden on GTIN](https://gs1.se/guider/kom-igang-guider/kom-igang-skapa-streckkod/), [DECT Forum](https://www.dect.org/technologies/dect-ule/), [EnOcean](https://www.enocean.com/en/technology/radio-technology/), [Apple on HomeKit](https://support.apple.com/en-om/guide/security/sec3a881ccb1/web), [Connectivity Standards Alliance on Matter](https://csa-iot.org/all-solutions/matter/matter-faq/), and [Picnic](https://picnic.app/de/ueber-picnic/). No package release created.
