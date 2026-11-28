@@ -1,5 +1,7 @@
 ## Unreleased
 
+- Add `Chanukka` and `chanukka` to both dictionaries and spelling regressions; add title-case `Chanukka` to the proper-noun inventory after LIFX review identified a false Hunspell flag. Isof recommends lowercase `chanukka` in running text; the UI label keeps the project’s title-style capitalization. Source: https://frageladan.isof.se/faqs/31011. No package release created.
+
 - Add verified Home Assistant device names, protocols and compounds, including DSM, DVR, gRPC, MOSFET, NAS and SofarCloud vocabulary, plus Swedish proxy inflections and `växelriktarläge`, to Hunspell regressions. No additional package release created today.
 
 - Add the Swedish compound `linjekod` and its inflections to both dictionaries and regression coverage after Home Assistant Core review exposed it as a false Hunspell flag. No additional tool release created today.
