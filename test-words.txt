@@ -1270,3 +1270,7 @@ Broadlink
 Broadlink-enheter
 Honeywell
 Honeywells
+Klådfrekvens
+utetemperaturgivare
+NAD
+NAD-enhet
