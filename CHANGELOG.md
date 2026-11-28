@@ -255,3 +255,5 @@ The catalogue is a curated regression source, not a complete Swedish grammar.
 - Add Home Assistant Core printer cartridge terms, the scanner compound, and AnyList/LoRaWAN/OKOK/Plugwise/SenseCAP/Uptime Kuma names and compounds to both dictionaries and regression words.
 
 - Add Home Assistant holiday-category adjectives and Belgian pharmacy identifier spellings, plus ESPHome/OpenThread/Farmad/Mijn Farmad Apotheek proper names and the reviewed compound `ESPHome-enhet` to both dictionaries and regression words.
+
+- Add the genitive form `gatewayens` to the Swedish dictionaries and regression vocabulary after review flagged a valid technical compound. No package release created.
