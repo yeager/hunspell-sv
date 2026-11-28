@@ -1,5 +1,9 @@
 ## Unreleased
 
+- Add `vitruvianske` to both Hunspell dictionaries and spelling regressions. Source: [Nationalmuseum on the Vitruvian Man](https://www.nationalmuseum.se/assets/Dokument/Skolan/Om%C3%B6jliga-kroppar.pdf). No package release created.
+
+- Add verified Home Assistant protocol and service names plus recurring `mopptvätt` vocabulary to both Hunspell dictionaries, proper-noun inventory and spelling regressions. Primary references: [GS1 Sweden on GTIN](https://gs1.se/guider/kom-igang-guider/kom-igang-skapa-streckkod/), [DECT Forum](https://www.dect.org/technologies/dect-ule/), [EnOcean](https://www.enocean.com/en/technology/radio-technology/), [Apple on HomeKit](https://support.apple.com/en-om/guide/security/sec3a881ccb1/web), [Connectivity Standards Alliance on Matter](https://csa-iot.org/all-solutions/matter/matter-faq/), and [Picnic](https://picnic.app/de/ueber-picnic/). No package release created.
+
 - Add `aktiveringslås` and its definite forms after HA Core review found the established Apple Swedish term missing from Hunspell. Source: https://support.apple.com/sv-se/108794. No package release created.
 
 - Add reviewed Home Assistant product and router terms, contextually valid compounds and `autentiseringsapp` inflections, plus the DNS record compound `SRV-posten`, `PSK` and `PSK-autentisering`, plus the Swedish device term `vippbrytare` to both Hunspell dictionaries and spelling regressions. No package release created.

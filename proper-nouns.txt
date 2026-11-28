@@ -445,3 +445,18 @@ Somfy
 ecosmart
 wBox
 PSK
+
+# Home Assistant protocols, service names and product vocabulary
+DECT
+ULE
+EnOcean
+EnOcean-radioenheter
+GTIN
+GTIN-streckkod
+HomeKit
+HomeKit-protokoll
+Matter
+Matter-enheter
+Picnic
+Picnic-produkt
+ULE-enheter
