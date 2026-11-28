@@ -514,6 +514,17 @@ Tile-enheterna
 Tile-konto
 Tile-kontot
 # Home Assistant integrations reviewed in Core translation
+Anova
+Azure
+Control4
+Ecoforest
+Elk-M1
+Elvia
+EnergyFlip
+Explorer
+Link
+UpCloud
+WeatherKit
 AEMET
 AdGuard
 BLUETTI

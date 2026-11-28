@@ -1,4 +1,8 @@
+## 2026.11.28
+
 ## Unreleased
+
+- Add Swedish increment terms `Halvgradssteg` and `Helgradssteg`, the established technical term `returkod`, the valid compound `certifikatutfärdarfilen`, and reviewed Home Assistant product names to both Hunspell dictionaries. Add regressions for the checked spellings and inflections.
 
 - Add KNX feature name `Secure` to the curated proper-noun list and both Hunspell regression dictionaries after HA Core review found the feature label flagged. No package release created.
 

@@ -1,3 +1,10 @@
+hunspell-sv (3:2026.11.28-1) unstable; urgency=medium
+
+  * Add reviewed Home Assistant Core terms, compounds, and product names.
+  * Update both Swedish dictionaries and spelling regressions.
+
+ -- Daniel Nylander <po@danielnylander.se>  Sat, 28 Nov 2026 15:09:50 +0100
+
 hunspell-sv (3:2026.11.26-1) unstable; urgency=medium
 
   * Add reviewed Home Assistant Core product names and API compounds.
