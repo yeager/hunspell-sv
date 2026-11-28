@@ -65,6 +65,8 @@ class BuildTests(unittest.TestCase):
                 'fläktlägeskommando', 'fläktlägeskommandon', 'redoxpotential', 'IPS', 'IPS-motor', 'Météo-France', 'TCL', 'TCL-trafikvarningar', 'iZone', 'iZone-systemet', 'Fitbit', 'Fitbit-integrationen', 'Fitbit-integrationsposter', 'Health', 'Health-integrationen', 'Homematic', 'Homematic IP', 'INDI', 'Allsky', 'resruttinställning', 'resruttinställningen', 'resruttinställningar', 'resruttinställningarna', 'linjekod', 'linjekoden', 'linjekoder', 'linjekoderna', 'DSM', 'DSM-användaren', 'DSM:s', 'DVR', 'DVR-servern', 'gRPC', 'MOSFET', 'MOSFET-temperatur', 'NAS', 'NAS:en', 'NAS:ens', 'Ready', 'Routeplanner', 'SG', 'SG Ready', 'SofarCloud', 'SofarCloud-appen', 'Station', 'Surveillance', 'Surveillance Station', 'VLP', 'VLP-filen', 'Växelriktarläge', 'proxyn', 'proxyer', 'proxyerna',
                 'svänglägeskommando', 'svänglägeskommandon',
                 'Homee', 'homee-enheten', 'Portainers', 'emojier', 'emojierna', 'emojikortkoder'}
+        good.update({'Secure'})
+        good.update({'Aqara', 'Croma', 'Developer', 'Finder', 'Glances', 'Magic', 'SoH', 'Twinkly', 'Aqara-integrationen', 'Croma-TV', 'IR-TV', 'Twinkly-enhet', 'ersättningsapp'})
         good.update({'Imou', 'Imous', 'apphemlighet', 'apphemligheten',
                      'apphemligheter', 'apphemligheterna', 'datapunkttyp',
                      'datapunkttypen', 'datapunkttyper', 'datapunkttyperna',

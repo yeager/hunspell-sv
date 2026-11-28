@@ -528,3 +528,13 @@ Seafile
 Solyx
 Weather
 WebDAV
+# KNX IP Secure / KNX Data Secure feature name
+Secure
+Aqara
+Croma
+Developer
+Finder
+Glances
+Magic
+SoH
+Twinkly

@@ -1,5 +1,9 @@
 ## Unreleased
 
+- Add KNX feature name `Secure` to the curated proper-noun list and both Hunspell regression dictionaries after HA Core review found the feature label flagged. No package release created.
+
+- Add reviewed Home Assistant proper nouns (`Aqara`, `Croma`, `Finder`, `Glances`, `Magic`, `Twinkly`, `SoH`, and SmartThings `Developer Center`) plus valid Swedish compound `ersättningsapp` to both dictionaries and regression coverage. No package release created.
+
 - Add reviewed Home Assistant integration names (`AEMET`, `AdGuard`, `BLUETTI`, `Foreca`, `Jellyfin`, `Seafile`, `Solyx`, `RainbowMiner`, and related branded compounds) to Hunspell and regression coverage. No package release created.
 
 - Add the valid Home Assistant weather compounds `vindbyhastighet` and `radarreflektivitet` to both Hunspell dictionaries and spelling regression coverage after Core review found them flagged as unknown words. The terms are correct in their component context; no package release created.
