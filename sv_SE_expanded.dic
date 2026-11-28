@@ -1,4 +1,4 @@
-168008
+168036
 -/-06XY
 -/!b
 ---
@@ -526,6 +526,7 @@ aderton
 adertonde
 adertonhundratal/ABv
 adertonåring/ADGvY
+AdGuard
 adhd/r
 adherera/jmM
 adhesion/ADfvY
@@ -708,6 +709,7 @@ advokatyr/ADHY
 advokatyrke/ACEFY
 Adwords
 AdWords
+AEMET
 aero-
 Aero/A
 aerob/kOT
@@ -12530,6 +12532,8 @@ blunddocka/AEGY
 blunder/AEIY
 blu-ray/rX
 blu-rayspelare/AEJ
+BLUETTI
+BLUETTI-kraftstationen
 blus/DGXY
 blusknapp/ADGY
 blusärm/ADG
@@ -25263,12 +25267,16 @@ emballering/ADGvY
 embargo/ACEFXY
 embarkera/ADjmNP
 embarkering/ADvY
+Ember
+Ember-appen
+Ember-konto
 Embla/A
 emblem/ABDY
 emblematik/ADY
 emblematisk/OQY
 emboli/AEHY
 EM-brons/BD
+Ember-lösenordet
 embryo/ACEFXY
 embryogenes/DY
 embryolog/ADHY
@@ -25607,6 +25615,8 @@ energived/ADv
 energiverk/ABDY
 energivärde/ACEFY
 energiåtgång/ADY
+Energy
+Energy-appen
 Eneroth/A
 enervera/ADjmNP
 enerverande/Y
@@ -26066,6 +26076,7 @@ eon/ADHI
 EP-/JX
 EPA/r
 epatraktor/AEHY
+EPH
 epicentrum/AY
 epicyklisk/kO
 epidemi/AEHXY
@@ -31940,6 +31951,8 @@ fordring/ADGvY
 fordringsfull/OY
 fordringshavare/AEJz
 fordringsägare/AEJY
+Foreca
+Foreca-API:t
 forechecka/ADmNPY
 forechecking/ADY
 forecheckning/ADY
@@ -56803,6 +56816,8 @@ Jehova/A
 jehu
 Jelena/A
 Jelinek/AX
+Jellyfin
+Jellyfin-servern
 Jeltsin/A
 Jemen/!AX
 jemenit/ADHTY
@@ -57368,6 +57383,8 @@ joxig/kOP
 Joyce/A
 joystick/ADGvY
 JPEG/r
+JPG
+JPG-filer
 ju
 Juan/A
 jubel/ACXY
@@ -101916,6 +101933,7 @@ Rahm/A
 Rahman/A
 Rai/r
 raid/ADHr
+RainbowMiner
 Rainer/A
 rajgräs/BD
 Rajoy/A
@@ -103043,6 +103061,7 @@ regnoväder/ACFY
 regnperiod/ADHY
 regnpöl/ADG
 reg.nr
+regnradarprognos
 regnrik/kOP
 regnrock/ADGv
 regnrusk/AB
@@ -109979,6 +109998,8 @@ SDU-/JX
 .se
 se/CFKmN
 .SE
+Seafile-biblioteket
+Seafile-servern
 SeaMonkey/A
 Sean/A
 seans/DHY
@@ -109987,6 +110008,7 @@ Seattle/AeX
 SEB-/JX
 SE-banken/A
 SE-banks/XZ
+Seafile
 Sebaot/A
 sebar/kO
 Sebastian/A
@@ -111130,6 +111152,8 @@ sharialagstiftning/ADY
 Sharon/A
 Sharp/!A
 Shaw/A
+SHC
+SHC:ns
 sheasmör/ABvX
 Sheffield/AX
 shejk/ADHXY
@@ -119471,6 +119495,7 @@ solvända/AEGY
 solvärmd/kO
 solvärme/AEXY
 solvärmesystem/ABDY
+Solyx
 Solzjenitsyn/A
 solår/ABD
 Solängen/A
@@ -165368,6 +165393,7 @@ våren/XY
 vårens/XY
 våtfärg/XY
 våtmålning/XY
+Weather
 webbfjärrkontroll/XY
 webbformulär/XY
 webbgränssnitt/XY
@@ -167922,6 +167948,8 @@ ULE-enheter
 mopptvätt
 mopptvätten
 vitruvianske
+WebDAV
+WebDAV-servern
 X10
 X10-enheter
 Zigbee

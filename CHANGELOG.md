@@ -1,5 +1,7 @@
 ## Unreleased
 
+- Add reviewed Home Assistant integration names (`AEMET`, `AdGuard`, `BLUETTI`, `Foreca`, `Jellyfin`, `Seafile`, `Solyx`, `RainbowMiner`, and related branded compounds) to Hunspell and regression coverage. No package release created.
+
 - Add the valid Home Assistant weather compounds `vindbyhastighet` and `radarreflektivitet` to both Hunspell dictionaries and spelling regression coverage after Core review found them flagged as unknown words. The terms are correct in their component context; no package release created.
 
 - Add validated LIFX theme vocabulary and proper names, including `Kwanzaa`, `Menora`, `lo-fi`, `Leprechaunens`, `Pumpafest` and `Pumpakrydda`, to both dictionaries and spelling regressions. `Menora` matches the reviewed FOSS termbank: https://github.com/yeager/swedish-foss-terminology/blob/main/termbank-flat.csv. Swedish `lo-fi` usage is documented by Region Värmland: https://regionvarmland.se/download/18.6410fb76186b9ec35181eaf9/1679038973706/Temablad%2520fr%25C3%25A5n%2520Mediecenter%2520V%25C3%25A4rmland%2520-%2520Musik.pdf. `Kwanzaa` and the retained cultural names come from the reviewed Home Assistant LIFX theme catalog: https://www.home-assistant.io/integrations/lifx. `Old Glory` remains an unresolved proper-name signal. No package release created.

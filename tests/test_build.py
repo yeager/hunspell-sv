@@ -56,7 +56,7 @@ class BuildTests(unittest.TestCase):
     def test_spelling_in_both_dictionaries(self):
         good = {'dator', 'översättning', 'stavningskontroll', 'programvara',
                 'inställningar', 'användargränssnitt', 'filhanterare',
-                'säkerhetskopia', 'radarreflektivitet', 'vindbyhastighet', 'operativsystem', 'webbläsare',
+                'säkerhetskopia', 'radarreflektivitet', 'vindbyhastighet', 'AEMET', 'AdGuard', 'BLUETTI', 'EPH', 'Ember', 'Energy', 'Foreca', 'JPG', 'Jellyfin', 'RainbowMiner', 'Seafile', 'Solyx', 'Weather', 'WebDAV', 'BLUETTI-kraftstationen', 'Ember-appen', 'Ember-konto', 'Ember-lösenordet', 'Energy-appen', 'Foreca-API:t', 'Jellyfin-servern', 'JPG-filer', 'Seafile-biblioteket', 'Seafile-servern', 'SHC', 'SHC:ns', 'Solyx-appen', 'WebDAV-servern', 'regnradarprognos', 'operativsystem', 'webbläsare',
                 'lösenfras', 'meddelandekö', 'symlänk', 'filbläddrare', 'standardindata', 'USB-dongel', 'usb-dongel',
                 'åsidosättning', 'fjärrvärd', 'trädvy', 'skogshuggartält',
                 'datakällobjekt', 'vertexfärg', 'sci-fi', 'sci-fi-stöt',

@@ -1,4 +1,4 @@
-280300
+280328
 ,/1
 ---
 -/!b
@@ -95,7 +95,9 @@ ABM/r
 ABS/r
 AC
 AD/r
+AdGuard
 ADSL/r
+AEMET
 AF-/JX
 AFA-/JX
 AFP-/JX
@@ -34027,6 +34029,8 @@ bluessångare/AEJY
 bluessångerska/AEGY
 blueston/ADH
 bluetooth/rX
+BLUETTI
+BLUETTI-kraftstationen
 bluff/ADGXY
 bluffa/ADjmNP
 bluffaktura/AEGY
@@ -56028,6 +56032,10 @@ embellera/M
 embellerbar
 embellering
 embellering/G
+Ember
+Ember-appen
+Ember-konto
+Ember-lösenordet
 emblem/ABDY
 emblematik/ADY
 emblematisk/OQY
@@ -56511,6 +56519,8 @@ energived/ADv
 energiverk/ABDY
 energivärde/ACEFY
 energiåtgång/ADY
+Energy
+Energy-appen
 enervera/ADjmNP
 enerverande/Y
 enerverbar
@@ -57237,6 +57247,7 @@ epatraktor/AEHY
 epectaptera
 epentetisk
 epenwöhrden
+EPH
 ephemoptera
 ephraim
 ephyriades
@@ -66847,6 +66858,8 @@ fordringshavare/AEJz
 fordringsägare/AEJY
 fordskrälle
 fordskrälle/C
+Foreca
+Foreca-API:t
 forechecka/ADmNPY
 forechecking/ADY
 forecheckning/ADY
@@ -109225,6 +109238,8 @@ jeggijäyri
 jegindö
 jehu
 jellingehögarna
+Jellyfin
+Jellyfin-servern
 jemenit/ADHTY
 jemenitisk
 jemenitiska/AEGY
@@ -109986,6 +110001,8 @@ joxig/kOP
 joxåsen
 joy
 joystick/ADGvY
+JPG
+JPG-filer
 json-filer/XY
 json/XY
 jsödra
@@ -187857,6 +187874,7 @@ raiateastare
 raid/ADHr
 raijevödaš
 rainberg
+RainbowMiner
 raiskiojärji
 raitasjön
 raja
@@ -189671,6 +189689,7 @@ regnområde/ACEFY
 regnoväder/ACFY
 regnperiod/ADHY
 regnpöl/ADG
+regnradarprognos
 regnrik/kOP
 regnrock/ADGv
 regnrusk/AB
@@ -201813,6 +201832,9 @@ sdocumentation
 sdokumentation
 se&hör
 se/CFKmN
+Seafile
+Seafile-biblioteket
+Seafile-servern
 seaggajävri
 sealand
 seans/DHY
@@ -203687,6 +203709,8 @@ sharialagstiftning/ADY
 shatszintszö
 shayan
 shaykism
+SHC
+SHC:ns
 sheanöt
 sheanötter
 sheanötträd
@@ -217682,6 +217706,7 @@ solvärmd/kO
 solvärme/AEXY
 solvärmesystem/ABDY
 solvöga
+Solyx
 solägget
 soläkta
 solälven
@@ -268506,6 +268531,7 @@ wayanad
 wbäj
 wc/r
 weare
+Weather
 web/XY
 webb/ADXY
 webbadress/DHY
@@ -268649,6 +268675,8 @@ webbvärd/ADG
 webbyrå
 webbåtkomst/XY
 webbövervakning
+WebDAV
+WebDAV-servern
 webera
 weberbauera
 weberberg

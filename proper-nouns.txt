@@ -513,3 +513,18 @@ Tile-enheter
 Tile-enheterna
 Tile-konto
 Tile-kontot
+# Home Assistant integrations reviewed in Core translation
+AEMET
+AdGuard
+BLUETTI
+EPH
+Ember
+Energy
+Foreca
+JPG
+Jellyfin
+RainbowMiner
+Seafile
+Solyx
+Weather
+WebDAV
