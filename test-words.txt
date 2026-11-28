@@ -1175,3 +1175,6 @@ vippbrytare
 vippbrytaren
 vippbrytarna
 PSK
+aktiveringslås
+aktiveringslåsen
+aktiveringslåset

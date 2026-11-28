@@ -1,5 +1,7 @@
 ## Unreleased
 
+- Add `aktiveringslås` and its definite forms after HA Core review found the established Apple Swedish term missing from Hunspell. Source: https://support.apple.com/sv-se/108794. No package release created.
+
 - Add reviewed Home Assistant product and router terms, contextually valid compounds and `autentiseringsapp` inflections, plus the DNS record compound `SRV-posten`, `PSK` and `PSK-autentisering`, plus the Swedish device term `vippbrytare` to both Hunspell dictionaries and spelling regressions. No package release created.
 
 - Add `dataexfiltrering` to both dictionaries and spelling regressions; Swedish FOSS terminology records it at 100% confidence.
