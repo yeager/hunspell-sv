@@ -1,5 +1,7 @@
 ## Unreleased
 
+- Add reviewed Home Assistant product and router terms, contextually valid compounds and `autentiseringsapp` inflections, plus the DNS record compound `SRV-posten` to both Hunspell dictionaries and spelling regressions. No package release created.
+
 - Add `dataexfiltrering` to both dictionaries and spelling regressions; Swedish FOSS terminology records it at 100% confidence.
 
 - Add `smartmätargateway` and its definite form, verified in Home Assistant Core translations.

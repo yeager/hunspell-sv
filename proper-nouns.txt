@@ -426,3 +426,16 @@ OpenThread
 Farmad
 Mijn
 Apotheek
+
+# Home Assistant product and protocol names
+Airthings
+DoorBird
+Flipr
+Gree
+Nest
+Netatmo
+SmartLink
+OpenWrt
+dnsmasq
+odhcpd
+ubus
