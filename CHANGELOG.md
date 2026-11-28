@@ -1,5 +1,7 @@
 ## Unreleased
 
+- Add validated LIFX theme vocabulary and proper names, including `Kwanzaa`, `Menora`, `lo-fi`, `Leprechaunens`, `Pumpafest` and `Pumpakrydda`, to both dictionaries and spelling regressions. `Menora` matches the reviewed FOSS termbank: https://github.com/yeager/swedish-foss-terminology/blob/main/termbank-flat.csv. Swedish `lo-fi` usage is documented by Region Värmland: https://regionvarmland.se/download/18.6410fb76186b9ec35181eaf9/1679038973706/Temablad%2520fr%25C3%25A5n%2520Mediecenter%2520V%25C3%25A4rmland%2520-%2520Musik.pdf. `Kwanzaa` and the retained cultural names come from the reviewed Home Assistant LIFX theme catalog: https://www.home-assistant.io/integrations/lifx. `Old Glory` remains an unresolved proper-name signal. No package release created.
+
 - Add `Chanukka` and `chanukka` to both dictionaries and spelling regressions; add title-case `Chanukka` to the proper-noun inventory after LIFX review identified a false Hunspell flag. Isof recommends lowercase `chanukka` in running text; the UI label keeps the project’s title-style capitalization. Source: https://frageladan.isof.se/faqs/31011. No package release created.
 
 - Add verified Home Assistant device names, protocols and compounds, including DSM, DVR, gRPC, MOSFET, NAS and SofarCloud vocabulary, plus Swedish proxy inflections and `växelriktarläge`, to Hunspell regressions. No additional package release created today.

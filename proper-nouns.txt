@@ -492,3 +492,9 @@ Station
 Surveillance
 VLP
 Chanukka
+Kwanzaa
+Klimt
+Malone
+Mondrian
+Leprechaun
+Redrum
